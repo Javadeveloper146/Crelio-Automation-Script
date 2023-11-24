@@ -1,0 +1,496 @@
+[INFO ] 2023-03-14 11:31:09.806 [main] StemzGPCertificatePage - Nurse And Stemz Gp Referral : {BMI : =0, Deformatory : =0, BetaHcg : =0, Color Vision : =0, Bp: =0, Vision : =0, Cardiology : =0}
+[INFO ] 2023-03-14 11:31:09.814 [main] StemzGPCertificatePage - Nurse And Stemz Gp Referral Count : 0
+[INFO ] 2023-03-14 11:31:09.814 [main] StemzGPCertificatePage - Lab Comformatory Referral : {HBSAG : =0, AntiHCV : =0, HIV : =0, RPR : =0}
+[INFO ] 2023-03-14 11:31:09.814 [main] StemzGPCertificatePage - Lab Comformatory Referral Count : 0
+[INFO ] 2023-03-14 11:31:09.834 [main] StemzGPCertificatePage -  Lab Additional Referral Details : {SGOT : =0, Glucose : =0, SGPT : =0, Creatinine : =0, Hamoglobin : =0}
+[INFO ] 2023-03-14 11:31:09.834 [main] StemzGPCertificatePage - Lab Additional Referral Count : 0
+[INFO ] 2023-03-14 11:31:09.834 [main] StemzGPCertificatePage - Nurse And Stemz Gp Referral Count : 0Lab Comformatory Referral Count :0Lab Additional Referral Count : 0
+[INFO ] 2023-03-14 11:31:09.834 [main] StemzGPCertificatePage - Referrals : {BMI : =false, Cardilogy : =false, Beta HCG=false, Deformatory : =false, Color Vision : =false, Vision : =false, BP : =false}
+[INFO ] 2023-03-14 11:31:17.258 [main] GpModuleStepDefinition - Role Section: STEMZ GP
+[INFO ] 2023-03-14 11:31:18.379 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 11:31:20.175 [main] GpModuleStepDefinition - Choose The Counter is: philipinesdoctor1 01
+[INFO ] 2023-03-14 11:31:21.798 [main] GpModuleStepDefinition - Signed into the counter successfully
+[INFO ] 2023-03-14 11:31:28.173 [main] StemzGPCertificatePage - Physician Worklist : 
+[INFO ] 2023-03-14 11:31:34.321 [main] StemzGPCertificatePage - Referral to be Reported
+[INFO ] 2023-03-14 11:38:12.950 [main] StemzGPCertificatePage - Nurse And Stemz Gp Referral : {BMI : =0, Deformatory : =0, BetaHcg : =0, Color Vision : =0, Bp: =0, Vision : =0, Cardiology : =0}
+[INFO ] 2023-03-14 11:38:12.953 [main] StemzGPCertificatePage - Nurse And Stemz Gp Referral Count : 0
+[INFO ] 2023-03-14 11:38:12.953 [main] StemzGPCertificatePage - Lab Comformatory Referral : {HBSAG : =0, AntiHCV : =0, HIV : =0, RPR : =0}
+[INFO ] 2023-03-14 11:38:12.953 [main] StemzGPCertificatePage - Lab Comformatory Referral Count : 0
+[INFO ] 2023-03-14 11:38:12.953 [main] StemzGPCertificatePage -  Lab Additional Referral Details : {SGOT : =0, Glucose : =0, SGPT : =0, Creatinine : =0, Hamoglobin : =0}
+[INFO ] 2023-03-14 11:38:12.953 [main] StemzGPCertificatePage - Lab Additional Referral Count : 0
+[INFO ] 2023-03-14 11:38:12.953 [main] StemzGPCertificatePage - Nurse And Stemz Gp Referral Count : 0Lab Comformatory Referral Count :0Lab Additional Referral Count : 0
+[INFO ] 2023-03-14 11:38:12.953 [main] StemzGPCertificatePage - Referrals : {BMI : =false, Cardilogy : =false, Beta HCG=false, Deformatory : =false, Color Vision : =false, Vision : =false, BP : =false}
+[INFO ] 2023-03-14 11:38:20.384 [main] GpModuleStepDefinition - Role Section: STEMZ GP
+[INFO ] 2023-03-14 11:38:21.510 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 11:38:23.674 [main] GpModuleStepDefinition - Choose The Counter is: MA Counter 05
+[INFO ] 2023-03-14 11:38:25.549 [main] GpModuleStepDefinition - Signed into the counter successfully
+[INFO ] 2023-03-14 11:38:31.924 [main] StemzGPCertificatePage - Physician Worklist : 
+[INFO ] 2023-03-14 11:40:45.518 [main] StemzGPCertificatePage - Nurse And Stemz Gp Referral : {BMI : =0, Deformatory : =0, BetaHcg : =0, Color Vision : =0, Bp: =0, Vision : =0, Cardiology : =0}
+[INFO ] 2023-03-14 11:40:45.521 [main] StemzGPCertificatePage - Nurse And Stemz Gp Referral Count : 0
+[INFO ] 2023-03-14 11:40:45.521 [main] StemzGPCertificatePage - Lab Comformatory Referral : {HBSAG : =0, AntiHCV : =0, HIV : =0, RPR : =0}
+[INFO ] 2023-03-14 11:40:45.521 [main] StemzGPCertificatePage - Lab Comformatory Referral Count : 0
+[INFO ] 2023-03-14 11:40:45.521 [main] StemzGPCertificatePage -  Lab Additional Referral Details : {SGOT : =0, Glucose : =0, SGPT : =0, Creatinine : =0, Hamoglobin : =0}
+[INFO ] 2023-03-14 11:40:45.522 [main] StemzGPCertificatePage - Lab Additional Referral Count : 0
+[INFO ] 2023-03-14 11:40:45.522 [main] StemzGPCertificatePage - Nurse And Stemz Gp Referral Count : 0Lab Comformatory Referral Count :0Lab Additional Referral Count : 0
+[INFO ] 2023-03-14 11:40:45.522 [main] StemzGPCertificatePage - Referrals : {BMI : =false, Cardilogy : =false, Beta HCG=false, Deformatory : =false, Color Vision : =false, Vision : =false, BP : =false}
+[INFO ] 2023-03-14 11:40:52.915 [main] GpModuleStepDefinition - Role Section: STEMZ GP
+[INFO ] 2023-03-14 11:40:54.031 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 11:40:56.182 [main] GpModuleStepDefinition - Choose The Counter is: philipinesdoctor1 01
+[INFO ] 2023-03-14 11:40:58.085 [main] GpModuleStepDefinition - Signed into the counter successfully
+[INFO ] 2023-03-14 11:41:04.451 [main] StemzGPCertificatePage - Physician Worklist : 
+[INFO ] 2023-03-14 11:41:10.622 [main] StemzGPCertificatePage - Referral to be Reported
+[INFO ] 2023-03-14 11:42:13.070 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-03-14 11:42:18.922 [main] GROStepDefinition - Start Time  = 1678774338922
+[INFO ] 2023-03-14 11:42:18.922 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-03-14 11:42:19.006 [main] GROStepDefinition - Username: mangai
+[INFO ] 2023-03-14 11:42:19.096 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-03-14 11:42:21.518 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-03-14 11:42:22.657 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 11:42:25.385 [main] GROStepDefinition - Choose The Counter is: MA Counter 01
+[INFO ] 2023-03-14 11:42:28.110 [main] GROStepDefinition - Signed into the counter successfully
+[INFO ] 2023-03-14 11:42:30.324 [main] GROStepDefinition - Visa Number: 998090982035
+[INFO ] 2023-03-14 11:42:31.450 [main] GROStepDefinition - Biometric skip request sent successfully
+[INFO ] 2023-03-14 11:42:34.989 [main] GROStepDefinition - Patient Profile Page
+[INFO ] 2023-03-14 11:42:34.989 [main] GROStepDefinition - Personal Details: 
+[INFO ] 2023-03-14 11:42:34.990 [main] GROStepDefinition - Visa Gender Type: Female
+[INFO ] 2023-03-14 11:42:37.388 [main] GROStepDefinition - Applicant Believes Pregnant?: No
+[INFO ] 2023-03-14 11:42:37.388 [main] GROStepDefinition - Successfully enter the Personal information details
+[INFO ] 2023-03-14 11:42:37.388 [main] GROStepDefinition - Communcation Details: 
+[INFO ] 2023-03-14 11:42:37.414 [main] GROStepDefinition - Country: Philippines
+[INFO ] 2023-03-14 11:42:38.216 [main] GROStepDefinition - Preferred Language to Speak: Tamil
+[INFO ] 2023-03-14 11:42:38.893 [main] GROStepDefinition - Preferred Language to Read: Tamil
+[INFO ] 2023-03-14 11:42:40.924 [main] GROStepDefinition - Preferred Location for Referral: Manila
+[INFO ] 2023-03-14 11:42:41.918 [main] GROStepDefinition - Preferred Hospital: Manilla Hospital
+[INFO ] 2023-03-14 11:42:41.918 [main] GROStepDefinition - Successfully enter The Communication Details
+[INFO ] 2023-03-14 11:42:41.919 [main] GROStepDefinition - Encounter Details: 
+[INFO ] 2023-03-14 11:42:43.459 [main] GROStepDefinition - SMS Alert Number: 9790000000
+[INFO ] 2023-03-14 11:42:43.505 [main] GROStepDefinition - Job Position : Pharmacist
+[INFO ] 2023-03-14 11:42:43.531 [main] GROStepDefinition - Is Job applicable of Driving: false
+[INFO ] 2023-03-14 11:42:43.531 [main] GROStepDefinition - Successfully enter The Encounter details
+[INFO ] 2023-03-14 11:43:38.248 [main] GpModuleStepDefinition - Start Time  = 1678774418248
+[INFO ] 2023-03-14 11:43:59.293 [main] LabJuniorStepDefinition - Start Time  = 1678774439293
+[INFO ] 2023-03-14 11:44:20.348 [main] LabSeniorStepDefinition - Start Time  = 1678774460348
+[INFO ] 2023-03-14 11:44:41.426 [main] LabSupervisorStepDefinition - Start Time  = 1678774481426
+[INFO ] 2023-03-14 11:45:02.589 [main] StemzGPCertificatePage - Nurse And Stemz Gp Referral : {BMI : =0, Deformatory : =0, BetaHcg : =0, Color Vision : =0, Bp: =0, Vision : =0, Cardiology : =0}
+[INFO ] 2023-03-14 11:45:02.590 [main] StemzGPCertificatePage - Nurse And Stemz Gp Referral Count : 0
+[INFO ] 2023-03-14 11:45:02.591 [main] StemzGPCertificatePage - Lab Comformatory Referral : {HBSAG : =0, AntiHCV : =0, HIV : =0, RPR : =0}
+[INFO ] 2023-03-14 11:45:02.591 [main] StemzGPCertificatePage - Lab Comformatory Referral Count : 0
+[INFO ] 2023-03-14 11:45:02.592 [main] StemzGPCertificatePage -  Lab Additional Referral Details : {SGOT : =0, Glucose : =0, SGPT : =0, Creatinine : =0, Hamoglobin : =0}
+[INFO ] 2023-03-14 11:45:02.593 [main] StemzGPCertificatePage - Lab Additional Referral Count : 0
+[INFO ] 2023-03-14 11:45:02.593 [main] StemzGPCertificatePage - Nurse And Stemz Gp Referral Count : 0Lab Comformatory Referral Count :0Lab Additional Referral Count : 0
+[INFO ] 2023-03-14 11:45:02.593 [main] StemzGPCertificatePage - Referrals : {BMI : =false, Cardilogy : =false, Beta HCG=false, Deformatory : =false, Color Vision : =false, Vision : =false, BP : =false}
+[INFO ] 2023-03-14 11:45:09.956 [main] GpModuleStepDefinition - Role Section: STEMZ GP
+[INFO ] 2023-03-14 11:45:11.061 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 11:45:12.857 [main] GpModuleStepDefinition - Choose The Counter is: 
+[INFO ] 2023-03-14 11:45:14.480 [main] GpModuleStepDefinition - Signed into the counter successfully
+[INFO ] 2023-03-14 11:45:20.803 [main] StemzGPCertificatePage - Physician Worklist : 
+[INFO ] 2023-03-14 11:45:26.957 [main] StemzGPCertificatePage - Referral to be Reported
+[INFO ] 2023-03-14 11:58:26.721 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-03-14 11:58:28.860 [main] GROStepDefinition - Start Time  = 1678775308860
+[INFO ] 2023-03-14 11:58:28.860 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-03-14 11:58:28.944 [main] GROStepDefinition - Username: mangai
+[INFO ] 2023-03-14 11:58:29.035 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-03-14 11:58:31.713 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-03-14 11:58:32.833 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 11:58:33.138 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-03-14 11:58:36.727 [main] GROStepDefinition - Start Time  = 1678775316727
+[INFO ] 2023-03-14 11:58:36.727 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-03-14 11:58:36.809 [main] GROStepDefinition - Username: mangai
+[INFO ] 2023-03-14 11:58:36.887 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-03-14 11:58:38.066 [main] GROStepDefinition - Choose The Counter is: MA Counter 02
+[INFO ] 2023-03-14 11:58:39.418 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-03-14 11:58:40.561 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 11:58:40.827 [main] GROStepDefinition - Signed into the counter successfully
+[INFO ] 2023-03-14 11:58:43.136 [main] GROStepDefinition - Visa Number: 998090982035
+[INFO ] 2023-03-14 11:58:43.158 [main] GROStepDefinition - Choose The Counter is: MA Counter 01
+[INFO ] 2023-03-14 11:58:45.764 [main] GROStepDefinition - Signed into the counter successfully
+[INFO ] 2023-03-14 11:58:47.421 [main] GROStepDefinition - Visa Number: 998090982036
+[INFO ] 2023-03-14 11:58:48.507 [main] GROStepDefinition - Biometric skip request sent successfully
+[INFO ] 2023-03-14 11:58:52.032 [main] GROStepDefinition - Patient Profile Page
+[INFO ] 2023-03-14 11:58:52.032 [main] GROStepDefinition - Personal Details: 
+[INFO ] 2023-03-14 11:58:52.034 [main] GROStepDefinition - Visa Gender Type: Female
+[INFO ] 2023-03-14 11:58:54.475 [main] GROStepDefinition - Applicant Believes Pregnant?: No
+[INFO ] 2023-03-14 11:58:54.475 [main] GROStepDefinition - Successfully enter the Personal information details
+[INFO ] 2023-03-14 11:58:54.476 [main] GROStepDefinition - Communcation Details: 
+[INFO ] 2023-03-14 11:58:54.501 [main] GROStepDefinition - Country: Philippines
+[INFO ] 2023-03-14 11:58:55.246 [main] GROStepDefinition - Preferred Language to Speak: Tamil
+[INFO ] 2023-03-14 11:58:55.932 [main] GROStepDefinition - Preferred Language to Read: Tamil
+[INFO ] 2023-03-14 11:58:57.959 [main] GROStepDefinition - Preferred Location for Referral: Manila
+[INFO ] 2023-03-14 11:58:58.978 [main] GROStepDefinition - Preferred Hospital: Manilla Hospital
+[INFO ] 2023-03-14 11:58:58.979 [main] GROStepDefinition - Successfully enter The Communication Details
+[INFO ] 2023-03-14 11:58:58.979 [main] GROStepDefinition - Encounter Details: 
+[INFO ] 2023-03-14 11:59:00.531 [main] GROStepDefinition - SMS Alert Number: 9790000000
+[INFO ] 2023-03-14 11:59:00.554 [main] GROStepDefinition - Job Position : Pharmacist
+[INFO ] 2023-03-14 11:59:00.592 [main] GROStepDefinition - Is Job applicable of Driving: false
+[INFO ] 2023-03-14 11:59:00.593 [main] GROStepDefinition - Successfully enter The Encounter details
+[INFO ] 2023-03-14 11:59:25.294 [main] GpModuleStepDefinition - Start Time  = 1678775365294
+[INFO ] 2023-03-14 11:59:34.561 [main] GpModuleStepDefinition - Start Time  = 1678775374561
+[INFO ] 2023-03-14 11:59:46.327 [main] LabJuniorStepDefinition - Start Time  = 1678775386327
+[INFO ] 2023-03-14 11:59:55.625 [main] LabJuniorStepDefinition - Start Time  = 1678775395625
+[INFO ] 2023-03-14 12:00:07.408 [main] LabSeniorStepDefinition - Start Time  = 1678775407408
+[INFO ] 2023-03-14 12:00:16.689 [main] LabSeniorStepDefinition - Start Time  = 1678775416689
+[INFO ] 2023-03-14 12:00:28.471 [main] LabSupervisorStepDefinition - Start Time  = 1678775428471
+[INFO ] 2023-03-14 12:00:37.762 [main] LabSupervisorStepDefinition - Start Time  = 1678775437762
+[INFO ] 2023-03-14 12:00:49.610 [main] StemzGPCertificatePage - Nurse And Stemz Gp Referral : {BMI : =0, Deformatory : =0, BetaHcg : =0, Color Vision : =0, Bp: =0, Vision : =0, Cardiology : =0}
+[INFO ] 2023-03-14 12:00:49.610 [main] StemzGPCertificatePage - Nurse And Stemz Gp Referral Count : 0
+[INFO ] 2023-03-14 12:00:49.610 [main] StemzGPCertificatePage - Lab Comformatory Referral : {HBSAG : =0, AntiHCV : =0, HIV : =0, RPR : =0}
+[INFO ] 2023-03-14 12:00:49.610 [main] StemzGPCertificatePage - Lab Comformatory Referral Count : 0
+[INFO ] 2023-03-14 12:00:49.611 [main] StemzGPCertificatePage -  Lab Additional Referral Details : {SGOT : =0, Glucose : =0, SGPT : =0, Creatinine : =0, Hamoglobin : =0}
+[INFO ] 2023-03-14 12:00:49.611 [main] StemzGPCertificatePage - Lab Additional Referral Count : 0
+[INFO ] 2023-03-14 12:00:49.611 [main] StemzGPCertificatePage - Nurse And Stemz Gp Referral Count : 0Lab Comformatory Referral Count :0Lab Additional Referral Count : 0
+[INFO ] 2023-03-14 12:00:49.612 [main] StemzGPCertificatePage - Referrals : {BMI : =false, Cardilogy : =false, Beta HCG=false, Deformatory : =false, Color Vision : =false, Vision : =false, BP : =false}
+[INFO ] 2023-03-14 12:00:56.978 [main] GpModuleStepDefinition - Role Section: STEMZ GP
+[INFO ] 2023-03-14 12:00:58.081 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 12:00:58.922 [main] StemzGPCertificatePage - Nurse And Stemz Gp Referral : {BMI : =0, Deformatory : =0, BetaHcg : =0, Color Vision : =0, Bp: =0, Vision : =0, Cardiology : =0}
+[INFO ] 2023-03-14 12:00:58.922 [main] StemzGPCertificatePage - Nurse And Stemz Gp Referral Count : 0
+[INFO ] 2023-03-14 12:00:58.923 [main] StemzGPCertificatePage - Lab Comformatory Referral : {HBSAG : =0, AntiHCV : =0, HIV : =0, RPR : =0}
+[INFO ] 2023-03-14 12:00:58.923 [main] StemzGPCertificatePage - Lab Comformatory Referral Count : 0
+[INFO ] 2023-03-14 12:00:58.923 [main] StemzGPCertificatePage -  Lab Additional Referral Details : {SGOT : =0, Glucose : =0, SGPT : =0, Creatinine : =0, Hamoglobin : =0}
+[INFO ] 2023-03-14 12:00:58.923 [main] StemzGPCertificatePage - Lab Additional Referral Count : 0
+[INFO ] 2023-03-14 12:00:58.923 [main] StemzGPCertificatePage - Nurse And Stemz Gp Referral Count : 0Lab Comformatory Referral Count :0Lab Additional Referral Count : 0
+[INFO ] 2023-03-14 12:00:58.924 [main] StemzGPCertificatePage - Referrals : {BMI : =false, Cardilogy : =false, Beta HCG=false, Deformatory : =false, Color Vision : =false, Vision : =false, BP : =false}
+[INFO ] 2023-03-14 12:01:00.210 [main] GpModuleStepDefinition - Choose The Counter is: philipinesdoctor1 01
+[INFO ] 2023-03-14 12:01:02.104 [main] GpModuleStepDefinition - Signed into the counter successfully
+[INFO ] 2023-03-14 12:01:06.308 [main] GpModuleStepDefinition - Role Section: STEMZ GP
+[INFO ] 2023-03-14 12:01:07.466 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 12:01:08.521 [main] StemzGPCertificatePage - Physician Worklist : 
+[INFO ] 2023-03-14 12:01:09.285 [main] GpModuleStepDefinition - Choose The Counter is: 
+[INFO ] 2023-03-14 12:01:10.948 [main] GpModuleStepDefinition - Signed into the counter successfully
+[INFO ] 2023-03-14 12:01:14.650 [main] StemzGPCertificatePage - Referral to be Reported
+[INFO ] 2023-03-14 12:01:17.377 [main] StemzGPCertificatePage - Physician Worklist : 
+[INFO ] 2023-03-14 12:01:23.534 [main] StemzGPCertificatePage - Referral to be Reported
+[INFO ] 2023-03-14 12:01:53.683 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-03-14 12:01:55.570 [main] GROStepDefinition - Start Time  = 1678775515570
+[INFO ] 2023-03-14 12:01:55.571 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-03-14 12:01:55.653 [main] GROStepDefinition - Username: mangai
+[INFO ] 2023-03-14 12:01:55.730 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-03-14 12:01:58.536 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-03-14 12:01:59.657 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 12:02:02.263 [main] GROStepDefinition - Choose The Counter is: MA Counter 02
+[INFO ] 2023-03-14 12:02:04.887 [main] GROStepDefinition - Signed into the counter successfully
+[INFO ] 2023-03-14 12:02:06.573 [main] GROStepDefinition - Visa Number: 998090982037
+[INFO ] 2023-03-14 12:02:07.667 [main] GROStepDefinition - Biometric skip request sent successfully
+[INFO ] 2023-03-14 12:02:11.198 [main] GROStepDefinition - Patient Profile Page
+[INFO ] 2023-03-14 12:02:11.199 [main] GROStepDefinition - Personal Details: 
+[INFO ] 2023-03-14 12:02:11.199 [main] GROStepDefinition - Visa Gender Type: Female
+[INFO ] 2023-03-14 12:02:13.669 [main] GROStepDefinition - Applicant Believes Pregnant?: No
+[INFO ] 2023-03-14 12:02:13.670 [main] GROStepDefinition - Successfully enter the Personal information details
+[INFO ] 2023-03-14 12:02:13.670 [main] GROStepDefinition - Communcation Details: 
+[INFO ] 2023-03-14 12:02:13.697 [main] GROStepDefinition - Country: Philippines
+[INFO ] 2023-03-14 12:02:14.458 [main] GROStepDefinition - Preferred Language to Speak: Tamil
+[INFO ] 2023-03-14 12:02:15.159 [main] GROStepDefinition - Preferred Language to Read: Tamil
+[INFO ] 2023-03-14 12:02:17.193 [main] GROStepDefinition - Preferred Location for Referral: Manila
+[INFO ] 2023-03-14 12:02:18.191 [main] GROStepDefinition - Preferred Hospital: Manilla Hospital
+[INFO ] 2023-03-14 12:02:18.192 [main] GROStepDefinition - Successfully enter The Communication Details
+[INFO ] 2023-03-14 12:02:18.192 [main] GROStepDefinition - Encounter Details: 
+[INFO ] 2023-03-14 12:02:19.689 [main] GROStepDefinition - SMS Alert Number: 9790000000
+[INFO ] 2023-03-14 12:02:19.713 [main] GROStepDefinition - Job Position : Pharmacist
+[INFO ] 2023-03-14 12:02:19.731 [main] GROStepDefinition - Is Job applicable of Driving: false
+[INFO ] 2023-03-14 12:02:19.731 [main] GROStepDefinition - Successfully enter The Encounter details
+[INFO ] 2023-03-14 12:03:13.676 [main] GpModuleStepDefinition - Start Time  = 1678775593676
+[INFO ] 2023-03-14 12:03:34.738 [main] LabJuniorStepDefinition - Start Time  = 1678775614738
+[INFO ] 2023-03-14 12:03:55.778 [main] LabSeniorStepDefinition - Start Time  = 1678775635778
+[INFO ] 2023-03-14 12:04:16.808 [main] LabSupervisorStepDefinition - Start Time  = 1678775656808
+[INFO ] 2023-03-14 12:04:37.962 [main] StemzGPCertificatePage - Nurse And Stemz Gp Referral : {BMI : =0, Deformatory : =0, BetaHcg : =0, Color Vision : =0, Bp: =0, Vision : =0, Cardiology : =0}
+[INFO ] 2023-03-14 12:04:37.963 [main] StemzGPCertificatePage - Nurse And Stemz Gp Referral Count : 0
+[INFO ] 2023-03-14 12:04:37.963 [main] StemzGPCertificatePage - Lab Comformatory Referral : {HBSAG : =0, AntiHCV : =0, HIV : =0, RPR : =0}
+[INFO ] 2023-03-14 12:04:37.963 [main] StemzGPCertificatePage - Lab Comformatory Referral Count : 0
+[INFO ] 2023-03-14 12:04:37.963 [main] StemzGPCertificatePage -  Lab Additional Referral Details : {SGOT : =0, Glucose : =0, SGPT : =0, Creatinine : =0, Hamoglobin : =0}
+[INFO ] 2023-03-14 12:04:37.964 [main] StemzGPCertificatePage - Lab Additional Referral Count : 0
+[INFO ] 2023-03-14 12:04:37.964 [main] StemzGPCertificatePage - Nurse And Stemz Gp Referral Count : 0Lab Comformatory Referral Count :0Lab Additional Referral Count : 0
+[INFO ] 2023-03-14 12:04:37.964 [main] StemzGPCertificatePage - Referrals : {BMI : =false, Cardilogy : =false, Beta HCG=false, Deformatory : =false, Color Vision : =false, Vision : =false, BP : =false}
+[INFO ] 2023-03-14 12:04:45.278 [main] GpModuleStepDefinition - Role Section: STEMZ GP
+[INFO ] 2023-03-14 12:04:46.396 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 12:04:48.198 [main] GpModuleStepDefinition - Choose The Counter is: philipinesdoctor1 01
+[INFO ] 2023-03-14 12:04:49.824 [main] GpModuleStepDefinition - Signed into the counter successfully
+[INFO ] 2023-03-14 12:04:56.162 [main] StemzGPCertificatePage - Physician Worklist : 
+[INFO ] 2023-03-14 12:05:02.293 [main] StemzGPCertificatePage - Referral to be Reported
+[INFO ] 2023-03-14 12:24:03.807 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-03-14 12:24:06.882 [main] GROStepDefinition - Start Time  = 1678776846882
+[INFO ] 2023-03-14 12:24:06.882 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-03-14 12:24:06.969 [main] GROStepDefinition - Username: mangai
+[INFO ] 2023-03-14 12:24:07.051 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-03-14 12:24:09.367 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-03-14 12:24:10.514 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 12:24:12.953 [main] GROStepDefinition - Choose The Counter is: MA Counter 01
+[INFO ] 2023-03-14 12:24:15.599 [main] GROStepDefinition - Signed into the counter successfully
+[INFO ] 2023-03-14 12:24:17.282 [main] GROStepDefinition - Visa Number: 998090982038
+[INFO ] 2023-03-14 12:24:18.367 [main] GROStepDefinition - Biometric skip request sent successfully
+[INFO ] 2023-03-14 12:24:21.902 [main] GROStepDefinition - Patient Profile Page
+[INFO ] 2023-03-14 12:24:21.902 [main] GROStepDefinition - Personal Details: 
+[INFO ] 2023-03-14 12:24:21.903 [main] GROStepDefinition - Visa Gender Type: Female
+[INFO ] 2023-03-14 12:24:24.316 [main] GROStepDefinition - Applicant Believes Pregnant?: No
+[INFO ] 2023-03-14 12:24:24.317 [main] GROStepDefinition - Successfully enter the Personal information details
+[INFO ] 2023-03-14 12:24:24.317 [main] GROStepDefinition - Communcation Details: 
+[INFO ] 2023-03-14 12:24:24.350 [main] GROStepDefinition - Country: Philippines
+[INFO ] 2023-03-14 12:24:25.133 [main] GROStepDefinition - Preferred Language to Speak: Tamil
+[INFO ] 2023-03-14 12:24:25.871 [main] GROStepDefinition - Preferred Language to Read: Tamil
+[INFO ] 2023-03-14 12:24:27.924 [main] GROStepDefinition - Preferred Location for Referral: Manila
+[INFO ] 2023-03-14 12:24:28.954 [main] GROStepDefinition - Preferred Hospital: Manilla Hospital
+[INFO ] 2023-03-14 12:24:28.954 [main] GROStepDefinition - Successfully enter The Communication Details
+[INFO ] 2023-03-14 12:24:28.955 [main] GROStepDefinition - Encounter Details: 
+[INFO ] 2023-03-14 12:24:30.473 [main] GROStepDefinition - SMS Alert Number: 9790000000
+[INFO ] 2023-03-14 12:24:30.496 [main] GROStepDefinition - Job Position : Pharmacist
+[INFO ] 2023-03-14 12:24:30.513 [main] GROStepDefinition - Is Job applicable of Driving: false
+[INFO ] 2023-03-14 12:24:30.513 [main] GROStepDefinition - Successfully enter The Encounter details
+[INFO ] 2023-03-14 12:24:57.976 [main] GpModuleStepDefinition - Start Time  = 1678776897976
+[INFO ] 2023-03-14 12:25:18.999 [main] LabJuniorStepDefinition - Start Time  = 1678776918999
+[INFO ] 2023-03-14 12:25:40.081 [main] LabSeniorStepDefinition - Start Time  = 1678776940081
+[INFO ] 2023-03-14 12:26:01.105 [main] LabSupervisorStepDefinition - Start Time  = 1678776961105
+[INFO ] 2023-03-14 12:26:22.240 [main] StemzGPCertificatePage - Nurse And Stemz Gp Referral : {BMI : =0, Deformatory : =0, BetaHcg : =0, Color Vision : =0, Bp: =0, Vision : =0, Cardiology : =0}
+[INFO ] 2023-03-14 12:26:22.240 [main] StemzGPCertificatePage - Nurse And Stemz Gp Referral Count : 0
+[INFO ] 2023-03-14 12:26:22.240 [main] StemzGPCertificatePage - Lab Comformatory Referral : {HBSAG : =0, AntiHCV : =0, HIV : =0, RPR : =0}
+[INFO ] 2023-03-14 12:26:22.241 [main] StemzGPCertificatePage - Lab Comformatory Referral Count : 0
+[INFO ] 2023-03-14 12:26:22.241 [main] StemzGPCertificatePage -  Lab Additional Referral Details : {SGOT : =0, Glucose : =0, SGPT : =0, Creatinine : =0, Hamoglobin : =0}
+[INFO ] 2023-03-14 12:26:22.241 [main] StemzGPCertificatePage - Lab Additional Referral Count : 0
+[INFO ] 2023-03-14 12:26:22.241 [main] StemzGPCertificatePage - Nurse And Stemz Gp Referral Count : 0Lab Comformatory Referral Count :0Lab Additional Referral Count : 0
+[INFO ] 2023-03-14 12:26:22.242 [main] StemzGPCertificatePage - Referrals : {BMI : =false, Cardilogy : =false, Beta HCG=false, Deformatory : =false, Color Vision : =false, Vision : =false, BP : =false}
+[INFO ] 2023-03-14 12:26:29.578 [main] GpModuleStepDefinition - Role Section: STEMZ GP
+[INFO ] 2023-03-14 12:26:30.696 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 12:26:32.489 [main] GpModuleStepDefinition - Choose The Counter is: MA Counter 05
+[INFO ] 2023-03-14 12:26:34.118 [main] GpModuleStepDefinition - Signed into the counter successfully
+[INFO ] 2023-03-14 12:26:40.428 [main] StemzGPCertificatePage - Physician Worklist : 
+[INFO ] 2023-03-14 12:56:35.887 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-03-14 12:56:37.750 [main] GROStepDefinition - Start Time  = 1678778797750
+[INFO ] 2023-03-14 12:56:37.750 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-03-14 12:56:37.842 [main] GROStepDefinition - Username: mangai
+[INFO ] 2023-03-14 12:56:37.920 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-03-14 12:56:40.587 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-03-14 12:56:41.701 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 12:57:18.442 [main] GpModuleStepDefinition - Start Time  = 1678778838442
+[INFO ] 2023-03-14 12:57:35.218 [main] LabJuniorStepDefinition - Start Time  = 1678778855218
+[INFO ] 2023-03-14 12:57:36.238 [main] LabSeniorStepDefinition - Start Time  = 1678778856238
+[INFO ] 2023-03-14 12:57:37.270 [main] LabSupervisorStepDefinition - Start Time  = 1678778857270
+[INFO ] 2023-03-14 12:57:57.025 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-03-14 12:57:58.934 [main] GROStepDefinition - Start Time  = 1678778878934
+[INFO ] 2023-03-14 12:57:58.935 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-03-14 12:57:59.029 [main] GROStepDefinition - Username: mangai
+[INFO ] 2023-03-14 12:57:59.108 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-03-14 12:58:01.475 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-03-14 12:58:02.608 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 12:58:46.198 [main] GpModuleStepDefinition - Start Time  = 1678778926198
+[INFO ] 2023-03-14 12:59:07.300 [main] LabJuniorStepDefinition - Start Time  = 1678778947300
+[INFO ] 2023-03-14 12:59:28.349 [main] LabSeniorStepDefinition - Start Time  = 1678778968349
+[INFO ] 2023-03-14 12:59:33.978 [main] LabSupervisorStepDefinition - Start Time  = 1678778973978
+[INFO ] 2023-03-14 13:12:41.191 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-03-14 13:12:43.470 [main] GpModuleStepDefinition - Start Time  = 1678779763470
+[INFO ] 2023-03-14 13:12:45.101 [main] LabJuniorStepDefinition - Start Time  = 1678779765101
+[INFO ] 2023-03-14 13:12:46.743 [main] LabSeniorStepDefinition - Start Time  = 1678779766743
+[INFO ] 2023-03-14 13:12:48.370 [main] LabSupervisorStepDefinition - Start Time  = 1678779768369
+[INFO ] 2023-03-14 13:13:00.228 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-03-14 13:13:01.496 [main] GROStepDefinition - Start Time  = 1678779781496
+[INFO ] 2023-03-14 13:13:01.497 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-03-14 13:13:01.585 [main] GROStepDefinition - Username: mangai
+[INFO ] 2023-03-14 13:13:01.664 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-03-14 13:13:04.109 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-03-14 13:13:05.263 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 13:39:40.562 [main] ApplicationStatusCheck - MOI
+[INFO ] 2023-03-14 13:40:20.249 [main] ApplicationStatusCheck - MOI
+[INFO ] 2023-03-14 13:41:21.659 [main] ApplicationStatusCheck - MOI
+[INFO ] 2023-03-14 13:41:24.839 [main] ApplicationStatusCheck - Role Section: MOI
+[INFO ] 2023-03-14 13:41:25.935 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 13:44:12.276 [main] ApplicationStatusCheck - MOI
+[INFO ] 2023-03-14 13:44:15.429 [main] ApplicationStatusCheck - Role Section: MOI
+[INFO ] 2023-03-14 13:44:16.538 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 13:46:14.374 [main] ApplicationStatusCheck - MOI
+[INFO ] 2023-03-14 13:46:17.517 [main] ApplicationStatusCheck - Role Section: MOI
+[INFO ] 2023-03-14 13:46:18.623 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 13:49:01.057 [main] ApplicationStatusCheck - MOI
+[INFO ] 2023-03-14 13:49:04.204 [main] ApplicationStatusCheck - Role Section: MOI
+[INFO ] 2023-03-14 13:49:05.344 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 13:55:11.859 [main] ApplicationStatusCheck - MOI
+[INFO ] 2023-03-14 13:56:47.344 [main] ApplicationStatusCheck - MOI
+[INFO ] 2023-03-14 14:05:30.800 [main] ApplicationStatusCheck - MOI
+[INFO ] 2023-03-14 14:05:33.971 [main] ApplicationStatusCheck - Role Section: MOI
+[INFO ] 2023-03-14 14:05:35.082 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 16:24:59.315 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-03-14 16:25:01.198 [main] GROStepDefinition - Start Time  = 1678791301198
+[INFO ] 2023-03-14 16:25:01.198 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-03-14 16:25:01.379 [main] GROStepDefinition - Username: mangai
+[INFO ] 2023-03-14 16:25:01.462 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-03-14 16:25:03.857 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-03-14 16:25:04.996 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 16:25:14.684 [main] GpModuleStepDefinition - Start Time  = 1678791314684
+[INFO ] 2023-03-14 16:25:15.714 [main] LabJuniorStepDefinition - Start Time  = 1678791315713
+[INFO ] 2023-03-14 16:25:16.736 [main] LabSeniorStepDefinition - Start Time  = 1678791316736
+[INFO ] 2023-03-14 16:25:17.773 [main] LabSupervisorStepDefinition - Start Time  = 1678791317773
+[INFO ] 2023-03-14 17:38:49.476 [main] ApplicationStatusCheck - MOI
+[INFO ] 2023-03-14 17:38:52.660 [main] ApplicationStatusCheck - Role Section: MOI
+[INFO ] 2023-03-14 17:38:53.775 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 17:41:10.640 [main] ApplicationStatusCheck - MOI
+[INFO ] 2023-03-14 17:41:13.783 [main] ApplicationStatusCheck - Role Section: MOI
+[INFO ] 2023-03-14 17:41:14.898 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 17:42:57.464 [main] ApplicationStatusCheck - MOI
+[INFO ] 2023-03-14 17:43:00.615 [main] ApplicationStatusCheck - Role Section: MOI
+[INFO ] 2023-03-14 17:43:01.729 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 17:44:45.445 [main] ApplicationStatusCheck - MOI
+[INFO ] 2023-03-14 17:44:48.599 [main] ApplicationStatusCheck - Role Section: MOI
+[INFO ] 2023-03-14 17:44:49.698 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 17:44:57.627 [main] ApplicationStatusCheck - Visa Number : 998090982042
+[INFO ] 2023-03-14 17:44:57.628 [main] ApplicationStatusCheck - Current Status :
+[INFO ] 2023-03-14 17:44:57.628 [main] ApplicationStatusCheck - Type :                             Status
+[INFO ] 2023-03-14 17:49:20.485 [main] ApplicationStatusCheck - MOI
+[INFO ] 2023-03-14 17:49:23.631 [main] ApplicationStatusCheck - Role Section: MOI
+[INFO ] 2023-03-14 17:49:24.735 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 17:49:32.686 [main] ApplicationStatusCheck - Visa Number : 362019004214
+[INFO ] 2023-03-14 17:49:32.686 [main] ApplicationStatusCheck - Current Status :
+[INFO ] 2023-03-14 17:49:32.686 [main] ApplicationStatusCheck - Type :                             Status
+[INFO ] 2023-03-14 17:50:33.849 [main] ApplicationStatusCheck - MOI
+[INFO ] 2023-03-14 17:50:37.023 [main] ApplicationStatusCheck - Role Section: MOI
+[INFO ] 2023-03-14 17:50:38.169 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 17:50:46.240 [main] ApplicationStatusCheck - Visa Number : 362019004214
+[INFO ] 2023-03-14 17:50:46.240 [main] ApplicationStatusCheck - Current Status :
+[INFO ] 2023-03-14 17:50:46.240 [main] ApplicationStatusCheck - Type :                             Status
+[INFO ] 2023-03-14 17:50:48.311 [main] ApplicationStatusCheck -   Registration Date ------  10/03/2023 12:17:39
+[INFO ] 2023-03-14 17:50:48.353 [main] ApplicationStatusCheck -   MOI Portal Status ------  REVISIT
+[INFO ] 2023-03-14 17:50:48.398 [main] ApplicationStatusCheck -   Glosys Primary Status ------  Applicant required to revisit center
+[INFO ] 2023-03-14 17:50:48.513 [main] ApplicationStatusCheck -   Glosys Secondary Status ------  Nurse Station Process not completed.
+[INFO ] 2023-03-14 17:50:48.569 [main] ApplicationStatusCheck -   Glosys Tertiary Status ------  Nurse Station not visited
+[INFO ] 2023-03-14 17:50:48.618 [main] ApplicationStatusCheck -   Applicant is required to revisit center? ------  YES
+[INFO ] 2023-03-14 18:00:18.261 [main] ApplicationStatusCheck - MOI
+[INFO ] 2023-03-14 18:00:21.416 [main] ApplicationStatusCheck - Role Section: MOI
+[INFO ] 2023-03-14 18:00:22.547 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 18:00:30.818 [main] ApplicationStatusCheck - Visa Number : 362019004214
+[INFO ] 2023-03-14 18:00:30.818 [main] ApplicationStatusCheck - Current Status :
+[INFO ] 2023-03-14 18:00:30.818 [main] ApplicationStatusCheck -      Type :                             Status
+[INFO ] 2023-03-14 18:00:32.889 [main] ApplicationStatusCheck -   Registration Date ------  10/03/2023 12:17:39
+[INFO ] 2023-03-14 18:00:32.931 [main] ApplicationStatusCheck -   MOI Portal Status ------  REVISIT
+[INFO ] 2023-03-14 18:00:32.975 [main] ApplicationStatusCheck -   Glosys Primary Status ------  Applicant required to revisit center
+[INFO ] 2023-03-14 18:00:33.016 [main] ApplicationStatusCheck -   Glosys Secondary Status ------  Nurse Station Process not completed.
+[INFO ] 2023-03-14 18:00:33.055 [main] ApplicationStatusCheck -   Glosys Tertiary Status ------  Nurse Station not visited
+[INFO ] 2023-03-14 18:00:33.174 [main] ApplicationStatusCheck -   Applicant is required to revisit center? ------  YES
+[INFO ] 2023-03-14 18:02:19.624 [main] ApplicationStatusCheck - MOI
+[INFO ] 2023-03-14 18:02:22.889 [main] ApplicationStatusCheck - Role Section: MOI
+[INFO ] 2023-03-14 18:02:24.341 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 18:02:32.893 [main] ApplicationStatusCheck - Visa Number : 362019004214
+[INFO ] 2023-03-14 18:02:32.894 [main] ApplicationStatusCheck - Current Status :
+[INFO ] 2023-03-14 18:02:32.894 [main] ApplicationStatusCheck -      Type :                             Status
+[INFO ] 2023-03-14 18:02:34.978 [main] ApplicationStatusCheck -   Registration Date ------  10/03/2023 12:17:39
+[INFO ] 2023-03-14 18:02:35.023 [main] ApplicationStatusCheck -   MOI Portal Status ------  REVISIT
+[INFO ] 2023-03-14 18:02:35.141 [main] ApplicationStatusCheck -   Glosys Primary Status ------  Applicant required to revisit center
+[INFO ] 2023-03-14 18:02:35.186 [main] ApplicationStatusCheck -   Glosys Secondary Status ------  Nurse Station Process not completed.
+[INFO ] 2023-03-14 18:02:35.232 [main] ApplicationStatusCheck -   Glosys Tertiary Status ------  Nurse Station not visited
+[INFO ] 2023-03-14 18:02:35.270 [main] ApplicationStatusCheck -   Applicant is required to revisit center? ------  YES
+[INFO ] 2023-03-14 18:09:17.143 [main] ApplicationStatusCheck - MOI
+[INFO ] 2023-03-14 18:09:20.316 [main] ApplicationStatusCheck - Role Section: MOI
+[INFO ] 2023-03-14 18:09:21.460 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 18:09:29.386 [main] ApplicationStatusCheck - Visa Number : 362019004214
+[INFO ] 2023-03-14 18:09:29.386 [main] ApplicationStatusCheck - Current Status :
+[INFO ] 2023-03-14 18:09:29.386 [main] ApplicationStatusCheck -      Type :                             Status
+[INFO ] 2023-03-14 18:09:31.438 [main] ApplicationStatusCheck -   Registration Date ------  10/03/2023 12:17:39
+[INFO ] 2023-03-14 18:09:31.485 [main] ApplicationStatusCheck -   MOI Portal Status ------  REVISIT
+[INFO ] 2023-03-14 18:09:31.526 [main] ApplicationStatusCheck -   Glosys Primary Status ------  Applicant required to revisit center
+[INFO ] 2023-03-14 18:09:31.568 [main] ApplicationStatusCheck -   Glosys Secondary Status ------  Nurse Station Process not completed.
+[INFO ] 2023-03-14 18:09:31.674 [main] ApplicationStatusCheck -   Glosys Tertiary Status ------  Nurse Station not visited
+[INFO ] 2023-03-14 18:09:31.718 [main] ApplicationStatusCheck -   Applicant is required to revisit center? ------  YES
+[INFO ] 2023-03-14 18:19:44.735 [main] ApplicationStatusCheck - MOI
+[INFO ] 2023-03-14 18:19:47.873 [main] ApplicationStatusCheck - Role Section: MOI
+[INFO ] 2023-03-14 18:19:48.980 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 18:19:56.751 [main] ApplicationStatusCheck - Visa Number : 362019004214
+[INFO ] 2023-03-14 18:19:56.751 [main] ApplicationStatusCheck - Current Status :
+[INFO ] 2023-03-14 18:19:56.752 [main] ApplicationStatusCheck -      Type :                             Status
+[INFO ] 2023-03-14 18:19:58.824 [main] ApplicationStatusCheck -   Registration Date ------  10/03/2023 12:17:39
+[INFO ] 2023-03-14 18:19:58.937 [main] ApplicationStatusCheck -   MOI Portal Status ------  REVISIT
+[INFO ] 2023-03-14 18:19:58.977 [main] ApplicationStatusCheck -   Glosys Primary Status ------  Applicant required to revisit center
+[INFO ] 2023-03-14 18:19:59.018 [main] ApplicationStatusCheck -   Glosys Secondary Status ------  Nurse Station Process not completed.
+[INFO ] 2023-03-14 18:19:59.059 [main] ApplicationStatusCheck -   Glosys Tertiary Status ------  Nurse Station not visited
+[INFO ] 2023-03-14 18:19:59.101 [main] ApplicationStatusCheck -   Applicant is required to revisit center? ------  YES
+[INFO ] 2023-03-14 18:23:30.165 [main] ApplicationStatusCheck - MOI
+[INFO ] 2023-03-14 18:23:33.327 [main] ApplicationStatusCheck - Role Section: MOI
+[INFO ] 2023-03-14 18:23:34.430 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 18:23:42.720 [main] ApplicationStatusCheck - Visa Number : 362019004214
+[INFO ] 2023-03-14 18:23:42.720 [main] ApplicationStatusCheck - Current Status :
+[INFO ] 2023-03-14 18:23:42.720 [main] ApplicationStatusCheck -      Type :                             Status
+[INFO ] 2023-03-14 18:23:44.775 [main] ApplicationStatusCheck -   Registration Date ------  10/03/2023 12:17:39
+[INFO ] 2023-03-14 18:23:44.889 [main] ApplicationStatusCheck -   MOI Portal Status ------  REVISIT
+[INFO ] 2023-03-14 18:23:44.929 [main] ApplicationStatusCheck -   Glosys Primary Status ------  Applicant required to revisit center
+[INFO ] 2023-03-14 18:23:44.968 [main] ApplicationStatusCheck -   Glosys Secondary Status ------  Nurse Station Process not completed.
+[INFO ] 2023-03-14 18:23:45.008 [main] ApplicationStatusCheck -   Glosys Tertiary Status ------  Nurse Station not visited
+[INFO ] 2023-03-14 18:23:45.047 [main] ApplicationStatusCheck -   Applicant is required to revisit center? ------  YES
+[INFO ] 2023-03-14 18:24:47.584 [main] ApplicationStatusCheck - MOI
+[INFO ] 2023-03-14 18:24:50.733 [main] ApplicationStatusCheck - Role Section: MOI
+[INFO ] 2023-03-14 18:24:51.855 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 18:24:59.580 [main] ApplicationStatusCheck - Visa Number : 362019004214
+[INFO ] 2023-03-14 18:24:59.581 [main] ApplicationStatusCheck - Current Status :
+[INFO ] 2023-03-14 18:24:59.581 [main] ApplicationStatusCheck -      Type :                             Status
+[INFO ] 2023-03-14 18:25:01.712 [main] ApplicationStatusCheck -   Registration Date ------  10/03/2023 12:17:39
+[INFO ] 2023-03-14 18:25:01.752 [main] ApplicationStatusCheck -   MOI Portal Status ------  REVISIT
+[INFO ] 2023-03-14 18:25:01.790 [main] ApplicationStatusCheck -   Glosys Primary Status ------  Applicant required to revisit center
+[INFO ] 2023-03-14 18:25:01.831 [main] ApplicationStatusCheck -   Glosys Secondary Status ------  Nurse Station Process not completed.
+[INFO ] 2023-03-14 18:25:01.870 [main] ApplicationStatusCheck -   Glosys Tertiary Status ------  Nurse Station not visited
+[INFO ] 2023-03-14 18:25:01.910 [main] ApplicationStatusCheck -   Applicant is required to revisit center? ------  YES
+[INFO ] 2023-03-14 18:28:45.269 [main] ApplicationStatusCheck - MOI
+[INFO ] 2023-03-14 18:28:48.402 [main] ApplicationStatusCheck - Role Section: MOI
+[INFO ] 2023-03-14 18:28:49.522 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 18:28:57.376 [main] ApplicationStatusCheck - Visa Number : 362019004214
+[INFO ] 2023-03-14 18:28:57.376 [main] ApplicationStatusCheck - Current Status :
+[INFO ] 2023-03-14 18:28:57.376 [main] ApplicationStatusCheck -      Type :                             Status
+[INFO ] 2023-03-14 18:28:59.425 [main] ApplicationStatusCheck -   Registration Date ------  10/03/2023 12:17:39
+[INFO ] 2023-03-14 18:28:59.466 [main] ApplicationStatusCheck -   MOI Portal Status ------  REVISIT
+[INFO ] 2023-03-14 18:28:59.506 [main] ApplicationStatusCheck -   Glosys Primary Status ------  Applicant required to revisit center
+[INFO ] 2023-03-14 18:28:59.548 [main] ApplicationStatusCheck -   Glosys Secondary Status ------  Nurse Station Process not completed.
+[INFO ] 2023-03-14 18:28:59.589 [main] ApplicationStatusCheck -   Glosys Tertiary Status ------  Nurse Station not visited
+[INFO ] 2023-03-14 18:28:59.630 [main] ApplicationStatusCheck -   Applicant is required to revisit center? ------  YES
+[INFO ] 2023-03-14 18:31:08.104 [main] ApplicationStatusCheck - MOI
+[INFO ] 2023-03-14 18:31:11.249 [main] ApplicationStatusCheck - Role Section: MOI
+[INFO ] 2023-03-14 18:31:12.361 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 18:31:19.255 [main] ApplicationStatusCheck - Visa Number : 362019004214
+[INFO ] 2023-03-14 18:31:19.255 [main] ApplicationStatusCheck - Current Status :
+[INFO ] 2023-03-14 18:31:19.256 [main] ApplicationStatusCheck -      Type :                             Status
+[INFO ] 2023-03-14 18:31:21.311 [main] ApplicationStatusCheck -   Registration Date ------  10/03/2023 12:17:39
+[INFO ] 2023-03-14 18:31:21.353 [main] ApplicationStatusCheck -   MOI Portal Status ------  REVISIT
+[INFO ] 2023-03-14 18:31:21.395 [main] ApplicationStatusCheck -   Glosys Primary Status ------  Applicant required to revisit center
+[INFO ] 2023-03-14 18:31:21.439 [main] ApplicationStatusCheck -   Glosys Secondary Status ------  Nurse Station Process not completed.
+[INFO ] 2023-03-14 18:31:21.480 [main] ApplicationStatusCheck -   Glosys Tertiary Status ------  Nurse Station not visited
+[INFO ] 2023-03-14 18:31:21.522 [main] ApplicationStatusCheck -   Applicant is required to revisit center? ------  YES
+[INFO ] 2023-03-14 18:40:16.631 [main] ApplicationStatusCheck - MOI
+[INFO ] 2023-03-14 18:40:19.783 [main] ApplicationStatusCheck - Role Section: MOI
+[INFO ] 2023-03-14 18:40:20.968 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 18:40:27.833 [main] ApplicationStatusCheck - Visa Number : 362019004214
+[INFO ] 2023-03-14 18:40:27.833 [main] ApplicationStatusCheck - Current Status :
+[INFO ] 2023-03-14 18:40:27.833 [main] ApplicationStatusCheck -      Type :                             Status
+[INFO ] 2023-03-14 18:40:29.916 [main] ApplicationStatusCheck -   Registration Date ------  10/03/2023 12:17:39
+[INFO ] 2023-03-14 18:40:29.958 [main] ApplicationStatusCheck -   MOI Portal Status ------  REVISIT
+[INFO ] 2023-03-14 18:40:30.001 [main] ApplicationStatusCheck -   Glosys Primary Status ------  Applicant required to revisit center
+[INFO ] 2023-03-14 18:40:30.043 [main] ApplicationStatusCheck -   Glosys Secondary Status ------  Nurse Station Process not completed.
+[INFO ] 2023-03-14 18:40:30.086 [main] ApplicationStatusCheck -   Glosys Tertiary Status ------  Nurse Station not visited
+[INFO ] 2023-03-14 18:40:30.129 [main] ApplicationStatusCheck -   Applicant is required to revisit center? ------  YES
+[INFO ] 2023-03-14 18:40:53.154 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-03-14 18:41:00.251 [main] ApplicationStatusCheck - MOI
+[INFO ] 2023-03-14 18:41:03.419 [main] ApplicationStatusCheck - Role Section: MOI
+[INFO ] 2023-03-14 18:41:04.579 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 18:41:11.708 [main] ApplicationStatusCheck - Visa Number : 362019004214
+[INFO ] 2023-03-14 18:41:11.709 [main] ApplicationStatusCheck - Current Status :
+[INFO ] 2023-03-14 18:41:11.709 [main] ApplicationStatusCheck -      Type :                             Status
+[INFO ] 2023-03-14 18:41:13.760 [main] ApplicationStatusCheck -   Registration Date ------  10/03/2023 12:17:39
+[INFO ] 2023-03-14 18:41:13.801 [main] ApplicationStatusCheck -   MOI Portal Status ------  REVISIT
+[INFO ] 2023-03-14 18:41:13.843 [main] ApplicationStatusCheck -   Glosys Primary Status ------  Applicant required to revisit center
+[INFO ] 2023-03-14 18:41:13.884 [main] ApplicationStatusCheck -   Glosys Secondary Status ------  Nurse Station Process not completed.
+[INFO ] 2023-03-14 18:41:13.926 [main] ApplicationStatusCheck -   Glosys Tertiary Status ------  Nurse Station not visited
+[INFO ] 2023-03-14 18:41:13.967 [main] ApplicationStatusCheck -   Applicant is required to revisit center? ------  YES
+[INFO ] 2023-03-14 18:41:23.846 [main] GROStepDefinition - Start Time  = 1678799483846
+[INFO ] 2023-03-14 18:41:23.846 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-03-14 18:41:25.016 [main] GpModuleStepDefinition - Start Time  = 1678799485016
+[INFO ] 2023-03-14 18:41:26.093 [main] LabJuniorStepDefinition - Start Time  = 1678799486093
+[INFO ] 2023-03-14 18:41:27.125 [main] LabSeniorStepDefinition - Start Time  = 1678799487125
+[INFO ] 2023-03-14 18:41:28.147 [main] LabSupervisorStepDefinition - Start Time  = 1678799488147
+[INFO ] 2023-03-14 18:42:26.247 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-03-14 18:42:33.236 [main] ApplicationStatusCheck - MOI
+[INFO ] 2023-03-14 18:42:36.367 [main] ApplicationStatusCheck - Role Section: MOI
+[INFO ] 2023-03-14 18:42:37.510 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-03-14 18:42:44.312 [main] ApplicationStatusCheck - Visa Number : 362019004214
+[INFO ] 2023-03-14 18:42:44.312 [main] ApplicationStatusCheck - Current Status :
+[INFO ] 2023-03-14 18:42:44.312 [main] ApplicationStatusCheck -      Type :                             Status
+[INFO ] 2023-03-14 18:42:46.389 [main] ApplicationStatusCheck -   Registration Date ------  10/03/2023 12:17:39
+[INFO ] 2023-03-14 18:42:46.431 [main] ApplicationStatusCheck -   MOI Portal Status ------  REVISIT
+[INFO ] 2023-03-14 18:42:46.474 [main] ApplicationStatusCheck -   Glosys Primary Status ------  Applicant required to revisit center
+[INFO ] 2023-03-14 18:42:46.579 [main] ApplicationStatusCheck -   Glosys Secondary Status ------  Nurse Station Process not completed.
+[INFO ] 2023-03-14 18:42:46.621 [main] ApplicationStatusCheck -   Glosys Tertiary Status ------  Nurse Station not visited
+[INFO ] 2023-03-14 18:42:46.665 [main] ApplicationStatusCheck -   Applicant is required to revisit center? ------  YES
+[INFO ] 2023-03-14 18:42:56.382 [main] GROStepDefinition - Start Time  = 1678799576382
+[INFO ] 2023-03-14 18:42:56.382 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-03-14 18:42:57.614 [main] GpModuleStepDefinition - Start Time  = 1678799577614
+[INFO ] 2023-03-14 18:42:58.650 [main] LabJuniorStepDefinition - Start Time  = 1678799578650
+[INFO ] 2023-03-14 18:42:59.692 [main] LabSeniorStepDefinition - Start Time  = 1678799579692
+[INFO ] 2023-03-14 18:43:00.734 [main] LabSupervisorStepDefinition - Start Time  = 1678799580734
+[INFO ] 2023-03-14 18:43:14.130 [main] ApplicationStatusCheck - MOI

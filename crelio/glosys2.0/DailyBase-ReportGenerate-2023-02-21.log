@@ -1,0 +1,96 @@
+[INFO ] 2023-02-21 11:33:37.944 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-02-21 11:34:15.527 [main] GROStepDefinition - Start Time  = 1676959455527
+[INFO ] 2023-02-21 11:34:15.528 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-02-21 11:34:18.547 [main] GpModuleStepDefinition - Start Time  = 1676959458547
+[INFO ] 2023-02-21 11:34:19.539 [main] LabJuniorStepDefinition - Start Time  = 1676959459539
+[INFO ] 2023-02-21 11:34:20.532 [main] LabSeniorStepDefinition - Start Time  = 1676959460532
+[INFO ] 2023-02-21 11:34:21.553 [main] LabSupervisorStepDefinition - Start Time  = 1676959461553
+[INFO ] 2023-02-21 11:34:29.723 [main] AutoFitReviewer - Start Time  = 1676959469723
+[INFO ] 2023-02-21 11:34:32.818 [main] AutoFitReviewer - Role Section: Autofit Reviewer
+[INFO ] 2023-02-21 11:34:35.527 [main] CommonDefinition - Country : India
+[INFO ] 2023-02-21 11:34:42.839 [main] AutoFitReviewer - Autofit Pending :
+[INFO ] 2023-02-21 11:34:42.839 [main] AutoFitReviewer - Country : India
+[INFO ] 2023-02-21 11:34:42.840 [main] AutoFitReviewer - Status : Autofit Pending
+[INFO ] 2023-02-21 11:34:42.840 [main] AutoFitReviewer - Visa Number : 998090981858
+[INFO ] 2023-02-21 11:54:25.574 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-02-21 11:54:27.397 [main] GROStepDefinition - Start Time  = 1676960667397
+[INFO ] 2023-02-21 11:54:27.398 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-02-21 11:54:27.475 [main] GROStepDefinition - Username: venkat
+[INFO ] 2023-02-21 11:54:27.892 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-02-21 11:54:30.853 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-02-21 11:54:32.450 [main] CommonDefinition - Country : India
+[INFO ] 2023-02-21 11:54:49.263 [main] GpModuleStepDefinition - Start Time  = 1676960689263
+[INFO ] 2023-02-21 11:54:50.249 [main] LabJuniorStepDefinition - Start Time  = 1676960690249
+[INFO ] 2023-02-21 11:54:51.238 [main] LabSeniorStepDefinition - Start Time  = 1676960691238
+[INFO ] 2023-02-21 11:54:52.230 [main] LabSupervisorStepDefinition - Start Time  = 1676960692230
+[INFO ] 2023-02-21 11:55:05.025 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-02-21 11:55:06.536 [main] GROStepDefinition - Start Time  = 1676960706536
+[INFO ] 2023-02-21 11:55:06.537 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-02-21 11:55:06.614 [main] GROStepDefinition - Username: venkat
+[INFO ] 2023-02-21 11:55:06.687 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-02-21 11:55:09.760 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-02-21 11:55:11.319 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-02-21 11:55:16.658 [main] GROStepDefinition - Choose The Counter is: MA Counter 01
+[INFO ] 2023-02-21 11:55:18.840 [main] GROStepDefinition - Signed into the counter successfully
+[INFO ] 2023-02-21 11:55:22.011 [main] GROStepDefinition - Visa Number: 998090981858
+[INFO ] 2023-02-21 11:55:23.188 [main] GROStepDefinition - Biometric skip request sent successfully
+[INFO ] 2023-02-21 11:55:32.306 [main] GpModuleStepDefinition - Start Time  = 1676960732306
+[INFO ] 2023-02-21 11:55:33.297 [main] LabJuniorStepDefinition - Start Time  = 1676960733297
+[INFO ] 2023-02-21 11:56:25.783 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-02-21 11:56:57.631 [main] GpModuleStepDefinition - Start Time  = 1676960817631
+[INFO ] 2023-02-21 11:56:58.660 [main] LabJuniorStepDefinition - Start Time  = 1676960818660
+[INFO ] 2023-02-21 11:56:59.699 [main] LabSeniorStepDefinition - Start Time  = 1676960819699
+[INFO ] 2023-02-21 11:57:00.716 [main] LabSupervisorStepDefinition - Start Time  = 1676960820716
+[INFO ] 2023-02-21 11:58:37.959 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-02-21 11:59:02.782 [main] GROStepDefinition - Start Time  = 1676960942782
+[INFO ] 2023-02-21 11:59:02.783 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-02-21 11:59:02.859 [main] GROStepDefinition - Username: venkat
+[INFO ] 2023-02-21 11:59:02.935 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-02-21 11:59:11.495 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-02-21 11:59:13.096 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-02-21 11:59:31.280 [main] GROStepDefinition - Choose The Counter is: MA Counter 02
+[INFO ] 2023-02-21 11:59:36.209 [main] GROStepDefinition - Signed into the counter successfully
+[INFO ] 2023-02-21 11:59:44.456 [main] GROStepDefinition - Visa Number: 998090981859
+[INFO ] 2023-02-21 11:59:46.509 [main] GROStepDefinition - Biometric skip request sent successfully
+[INFO ] 2023-02-21 11:59:53.025 [main] GROStepDefinition - Patient Profile Page
+[INFO ] 2023-02-21 11:59:53.026 [main] GROStepDefinition - Personal Details: 
+[INFO ] 2023-02-21 11:59:53.026 [main] GROStepDefinition - Visa Gender Type: Select Gender
+[INFO ] 2023-02-21 12:00:38.095 [main] GpModuleStepDefinition - Start Time  = 1676961038095
+[INFO ] 2023-02-21 12:00:59.141 [main] LabJuniorStepDefinition - Start Time  = 1676961059141
+[INFO ] 2023-02-21 12:01:20.217 [main] LabSeniorStepDefinition - Start Time  = 1676961080217
+[INFO ] 2023-02-21 12:01:41.256 [main] LabSupervisorStepDefinition - Start Time  = 1676961101256
+[INFO ] 2023-02-21 12:02:07.913 [main] AutoFitReviewer - Start Time  = 1676961127913
+[INFO ] 2023-02-21 12:02:15.619 [main] AutoFitReviewer - Role Section: Autofit Reviewer
+[INFO ] 2023-02-21 12:02:18.229 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-02-21 12:17:01.324 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-02-21 12:17:38.296 [main] GROStepDefinition - Start Time  = 1676962058296
+[INFO ] 2023-02-21 12:17:38.296 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-02-21 12:17:38.374 [main] GROStepDefinition - Username: venkat
+[INFO ] 2023-02-21 12:17:38.446 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-02-21 12:17:49.621 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-02-21 12:17:51.236 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-02-21 12:18:11.457 [main] GROStepDefinition - Choose The Counter is: MA Counter 01
+[INFO ] 2023-02-21 12:18:15.880 [main] GROStepDefinition - Signed into the counter successfully
+[INFO ] 2023-02-21 12:18:24.152 [main] GROStepDefinition - Visa Number: 998090981860
+[INFO ] 2023-02-21 12:18:26.707 [main] GROStepDefinition - Biometric skip request sent successfully
+[INFO ] 2023-02-21 12:18:44.753 [main] GROStepDefinition - Patient Profile Page
+[INFO ] 2023-02-21 12:18:44.753 [main] GROStepDefinition - Personal Details: 
+[INFO ] 2023-02-21 12:18:44.754 [main] GROStepDefinition - Visa Gender Type: Select Gender
+[INFO ] 2023-02-21 12:23:21.392 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-02-21 12:23:34.917 [main] GROStepDefinition - Start Time  = 1676962414917
+[INFO ] 2023-02-21 12:23:34.918 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-02-21 12:23:38.050 [main] GpModuleStepDefinition - Start Time  = 1676962418049
+[INFO ] 2023-02-21 12:23:39.076 [main] LabJuniorStepDefinition - Start Time  = 1676962419076
+[INFO ] 2023-02-21 12:23:40.102 [main] LabSeniorStepDefinition - Start Time  = 1676962420102
+[INFO ] 2023-02-21 12:23:41.135 [main] LabSupervisorStepDefinition - Start Time  = 1676962421135
+[INFO ] 2023-02-21 12:24:02.982 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  Chrome Browser
+[INFO ] 2023-02-21 12:25:37.883 [main] GROStepDefinition - Start Time  = 1676962537883
+[INFO ] 2023-02-21 12:25:37.884 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-02-21 12:25:37.969 [main] GROStepDefinition - Username: venkat
+[INFO ] 2023-02-21 12:25:38.048 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-02-21 12:25:46.224 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-02-21 12:25:47.830 [main] CommonDefinition - Country : Philippines
+[INFO ] 2023-02-21 12:26:02.654 [main] GpModuleStepDefinition - Start Time  = 1676962562654
+[INFO ] 2023-02-21 12:26:03.676 [main] LabJuniorStepDefinition - Start Time  = 1676962563676
+[INFO ] 2023-02-21 12:26:04.705 [main] LabSeniorStepDefinition - Start Time  = 1676962564705
+[INFO ] 2023-02-21 12:26:05.734 [main] LabSupervisorStepDefinition - Start Time  = 1676962565734

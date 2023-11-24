@@ -1,0 +1,48 @@
+			// Edit Bill
+			RegistrationPOM.getInstance().clicBillHistory();
+			RegistrationPOM.getInstance().clickDatePicker();
+
+			RegistrationPOM.getInstance().clickDatePicker();
+			RegistrationPOM.getInstance().clickSelectDateBasesOn();
+			RegistrationPOM.getInstance().clickApply();
+
+			RegistrationPOM.getInstance().clickMenu();
+			RegistrationPOM.getInstance().enterThePatientNameUpdate("");
+			CommonUtility.enterFunction();
+
+			RegistrationPOM.getInstance().clickThreeDot();
+
+			RegistrationPOM.getInstance().clickEditBill();
+			Organization = RegistrationPOM.getInstance().getTheOrganization();
+			LOGGER.info("Organization : " + Organization);
+			if (Organization.equals("DIRECT")) {
+
+			}
+			RegistrationPOM.getInstance().clearTheOrganization();
+
+			RegistrationPOM.getInstance().enterTheOrganization("");
+
+			Robot robot1 = new Robot();
+			robot1.keyPress(KeyEvent.VK_DOWN);
+			robot1.keyRelease(KeyEvent.VK_TAB);
+			robot1.keyPress(KeyEvent.VK_ENTER);
+			robot1.keyRelease(KeyEvent.VK_ENTER);
+
+			RegistrationPOM.getInstance().clickTheAdd();
+			RegistrationPOM.getInstance().clickTheRemove();
+
+			RegistrationPOM.getInstance().clickTheSubmitForPayment();
+			RegistrationPOM.getInstance().clickTheUpdate();
+			RegistrationPOM.getInstance().clickTheYesImSure();
+
+			robot1.keyPress(KeyEvent.VK_CONTROL);
+			robot1.keyPress(KeyEvent.VK_W);
+			robot1.keyRelease(KeyEvent.VK_CONTROL);
+			robot1.keyRelease(KeyEvent.VK_W);
+
+			RegistrationPOM.getInstance().clickMenu();
+			RegistrationPOM.getInstance().clearTheUpdatedPatient();
+
+			RegistrationPOM.getInstance().enterTheOrganization("");
+
+			// -----------------------------------------------

@@ -1,0 +1,1461 @@
+[INFO ] 2023-01-03 10:50:47.381 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-01-03 10:50:53.662 [main] GROStepDefinition - Start Time  = 1672723253662
+[INFO ] 2023-01-03 10:50:53.700 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-01-03 10:50:53.977 [main] GROStepDefinition - Username: venkat
+[INFO ] 2023-01-03 10:50:54.091 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-01-03 10:50:58.661 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-01-03 10:51:10.799 [main] GROStepDefinition - Choose The Counter is: 
+[ERROR] 2023-01-03 10:51:10.863 [main] GROStepDefinition - New Counter is  available please add this counter  : 
+[INFO ] 2023-01-03 10:51:13.126 [main] GROStepDefinition - Signed into the counter successfully
+[INFO ] 2023-01-03 10:51:18.159 [main] GROStepDefinition - Visa Number: 998090981168
+[INFO ] 2023-01-03 10:51:20.333 [main] GROStepDefinition - Biometric skip request sent successfully
+[INFO ] 2023-01-03 10:51:24.378 [main] GROStepDefinition - Patient Profile Page
+[INFO ] 2023-01-03 10:51:24.378 [main] GROStepDefinition - Personal Details: 
+[INFO ] 2023-01-03 10:51:24.378 [main] GROStepDefinition - Visa Gender Type: Female
+[INFO ] 2023-01-03 10:51:30.368 [main] GROStepDefinition - Applicant Believes Pregnant?: Maybe
+[INFO ] 2023-01-03 10:51:30.368 [main] GROStepDefinition - Successfully enter the Personal information details
+[INFO ] 2023-01-03 10:51:30.368 [main] GROStepDefinition - Communcation Details: 
+[INFO ] 2023-01-03 10:51:31.412 [main] GROStepDefinition - Country: India
+[INFO ] 2023-01-03 10:51:33.765 [main] GROStepDefinition - Preferred Language to Speak: Tamil
+[INFO ] 2023-01-03 10:51:34.857 [main] GROStepDefinition - Preferred Language to Read: Tamil
+[INFO ] 2023-01-03 10:51:38.596 [main] GROStepDefinition - Preferred Location for Referral: Chennai
+[INFO ] 2023-01-03 10:51:40.691 [main] GROStepDefinition - Preferred Hospital: Apollo Hospital
+[INFO ] 2023-01-03 10:51:40.691 [main] GROStepDefinition - Successfully enter The Communication Details
+[INFO ] 2023-01-03 10:51:40.691 [main] GROStepDefinition - Encounter Details: 
+[INFO ] 2023-01-03 10:51:44.341 [main] GROStepDefinition - SMS Alert Number: 9790000000
+[INFO ] 2023-01-03 10:51:44.387 [main] GROStepDefinition - Job Position : Pharmacist
+[INFO ] 2023-01-03 10:51:44.558 [main] GROStepDefinition - Is Job applicable of Driving: false
+[INFO ] 2023-01-03 10:51:44.559 [main] GROStepDefinition - Successfully enter The Encounter details
+[INFO ] 2023-01-03 10:52:18.074 [main] GpModuleStepDefinition - Start Time  = 1672723338074
+[INFO ] 2023-01-03 10:52:52.208 [main] LabJuniorStepDefinition - Start Time  = 1672723372208
+[INFO ] 2023-01-03 10:53:14.292 [main] LabSeniorStepDefinition - Start Time  = 1672723394291
+[INFO ] 2023-01-03 10:53:36.395 [main] LabSupervisorStepDefinition - Start Time  = 1672723416395
+[INFO ] 2023-01-03 11:04:51.804 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-01-03 11:04:56.132 [main] GpModuleStepDefinition - Start Time  = 1672724096132
+[INFO ] 2023-01-03 11:04:57.772 [main] LabJuniorStepDefinition - Start Time  = 1672724097771
+[INFO ] 2023-01-03 11:05:00.415 [main] LabSeniorStepDefinition - Start Time  = 1672724100415
+[INFO ] 2023-01-03 11:05:13.076 [main] LabSupervisorStepDefinition - Start Time  = 1672724113076
+[INFO ] 2023-01-03 11:05:16.276 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-01-03 11:05:20.867 [main] GROStepDefinition - Start Time  = 1672724120867
+[INFO ] 2023-01-03 11:05:20.882 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-01-03 11:05:21.048 [main] GROStepDefinition - Username: venkat
+[INFO ] 2023-01-03 11:05:21.136 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-01-03 11:05:25.524 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-01-03 11:05:37.368 [main] GROStepDefinition - Choose The Counter is: 
+[ERROR] 2023-01-03 11:05:37.369 [main] GROStepDefinition - New Counter is  available please add this counter  : 
+[ERROR] 2023-01-03 11:05:57.815 [main] GROStepDefinition - Please select counter and try again
+[INFO ] 2023-01-03 11:06:26.249 [main] GpModuleStepDefinition - Start Time  = 1672724186249
+[INFO ] 2023-01-03 11:06:47.418 [main] LabJuniorStepDefinition - Start Time  = 1672724207418
+[INFO ] 2023-01-03 11:07:09.486 [main] LabSeniorStepDefinition - Start Time  = 1672724229486
+[INFO ] 2023-01-03 11:07:31.621 [main] LabSupervisorStepDefinition - Start Time  = 1672724251620
+[INFO ] 2023-01-03 11:14:06.312 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-01-03 11:14:11.041 [main] GROStepDefinition - Start Time  = 1672724651041
+[INFO ] 2023-01-03 11:14:11.052 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-01-03 11:14:11.196 [main] GROStepDefinition - Username: venkat
+[INFO ] 2023-01-03 11:14:11.287 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-01-03 11:14:15.654 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-01-03 11:14:55.252 [main] GpModuleStepDefinition - Start Time  = 1672724695252
+[INFO ] 2023-01-03 11:15:16.328 [main] LabJuniorStepDefinition - Start Time  = 1672724716328
+[INFO ] 2023-01-03 11:15:38.419 [main] LabSeniorStepDefinition - Start Time  = 1672724738419
+[INFO ] 2023-01-03 11:16:00.506 [main] LabSupervisorStepDefinition - Start Time  = 1672724760506
+[INFO ] 2023-01-03 11:19:50.260 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-01-03 11:19:54.530 [main] GROStepDefinition - Start Time  = 1672724994530
+[INFO ] 2023-01-03 11:19:54.534 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-01-03 11:19:54.626 [main] GROStepDefinition - Username: venkat
+[INFO ] 2023-01-03 11:19:54.711 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-01-03 11:19:59.095 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-01-03 11:20:38.548 [main] GpModuleStepDefinition - Start Time  = 1672725038547
+[INFO ] 2023-01-03 11:20:59.623 [main] LabJuniorStepDefinition - Start Time  = 1672725059623
+[INFO ] 2023-01-03 11:21:21.735 [main] LabSeniorStepDefinition - Start Time  = 1672725081735
+[INFO ] 2023-01-03 11:21:43.758 [main] LabSupervisorStepDefinition - Start Time  = 1672725103758
+[INFO ] 2023-01-03 11:24:28.027 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-01-03 11:24:33.150 [main] GROStepDefinition - Start Time  = 1672725273150
+[INFO ] 2023-01-03 11:24:33.156 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-01-03 11:24:33.256 [main] GROStepDefinition - Username: venkat
+[INFO ] 2023-01-03 11:24:33.356 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-01-03 11:24:37.617 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-01-03 11:24:51.204 [main] GROStepDefinition - Choose The Counter is: Counter - 01
+[INFO ] 2023-01-03 11:25:38.590 [main] GpModuleStepDefinition - Start Time  = 1672725338590
+[INFO ] 2023-01-03 11:25:51.659 [main] LabJuniorStepDefinition - Start Time  = 1672725351659
+[INFO ] 2023-01-03 11:25:53.685 [main] LabSeniorStepDefinition - Start Time  = 1672725353685
+[INFO ] 2023-01-03 11:25:55.709 [main] LabSupervisorStepDefinition - Start Time  = 1672725355709
+[INFO ] 2023-01-03 11:26:03.091 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-01-03 11:26:09.189 [main] GROStepDefinition - Start Time  = 1672725369189
+[INFO ] 2023-01-03 11:26:09.194 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-01-03 11:26:09.288 [main] GROStepDefinition - Username: venkat
+[INFO ] 2023-01-03 11:26:09.375 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-01-03 11:26:13.662 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-01-03 11:26:27.246 [main] GROStepDefinition - Choose The Counter is: Counter - 01
+[INFO ] 2023-01-03 11:26:29.766 [main] GROStepDefinition - Signed into the counter successfully
+[INFO ] 2023-01-03 11:26:34.594 [main] GROStepDefinition - Visa Number: 998090981170
+[INFO ] 2023-01-03 11:26:36.767 [main] GROStepDefinition - Biometric skip request sent successfully
+[INFO ] 2023-01-03 11:26:40.890 [main] GROStepDefinition - Patient Profile Page
+[INFO ] 2023-01-03 11:26:40.890 [main] GROStepDefinition - Personal Details: 
+[INFO ] 2023-01-03 11:26:40.890 [main] GROStepDefinition - Visa Gender Type: Female
+[INFO ] 2023-01-03 11:26:46.779 [main] GROStepDefinition - Applicant Believes Pregnant?: Maybe
+[INFO ] 2023-01-03 11:26:46.779 [main] GROStepDefinition - Successfully enter the Personal information details
+[INFO ] 2023-01-03 11:26:46.779 [main] GROStepDefinition - Communcation Details: 
+[INFO ] 2023-01-03 11:26:47.865 [main] GROStepDefinition - Country: India
+[INFO ] 2023-01-03 11:26:50.159 [main] GROStepDefinition - Preferred Language to Speak: Tamil
+[INFO ] 2023-01-03 11:26:51.161 [main] GROStepDefinition - Preferred Language to Read: Tamil
+[INFO ] 2023-01-03 11:26:54.863 [main] GROStepDefinition - Preferred Location for Referral: Chennai
+[INFO ] 2023-01-03 11:26:56.904 [main] GROStepDefinition - Preferred Hospital: Apollo Hospital
+[INFO ] 2023-01-03 11:26:56.904 [main] GROStepDefinition - Successfully enter The Communication Details
+[INFO ] 2023-01-03 11:26:56.905 [main] GROStepDefinition - Encounter Details: 
+[INFO ] 2023-01-03 11:27:00.135 [main] GROStepDefinition - SMS Alert Number: 9790000000
+[INFO ] 2023-01-03 11:27:00.165 [main] GROStepDefinition - Job Position : Pharmacist
+[INFO ] 2023-01-03 11:27:00.190 [main] GROStepDefinition - Is Job applicable of Driving: false
+[INFO ] 2023-01-03 11:27:00.190 [main] GROStepDefinition - Successfully enter The Encounter details
+[INFO ] 2023-01-03 11:27:10.257 [main] GROStepDefinition - APPLICANT CONSENT AND DECLARATION FORM
+[INFO ] 2023-01-03 11:27:10.257 [main] GROStepDefinition - Applicant Details Created Successflly
+[INFO ] 2023-01-03 11:27:10.258 [main] GROStepDefinition - Place Order Page
+[INFO ] 2023-01-03 11:27:10.393 [main] GROStepDefinition - Token Genarated :   Token no (NND003) generated successfully
+[INFO ] 2023-01-03 11:27:10.394 [main] GROStepDefinition - Visa Gender Type: Female - MaybeXray Page Not Allowed
+[INFO ] 2023-01-03 11:27:10.394 [main] GROStepDefinition - Token : NND003
+[INFO ] 2023-01-03 11:27:15.541 [main] GROStepDefinition -  Generate Service Recipt
+[INFO ] 2023-01-03 11:27:17.623 [main] GROStepDefinition - Capture Identify Page:
+[INFO ] 2023-01-03 11:27:17.624 [main] GROStepDefinition - Vaccination Document Status Condition is: No
+[INFO ] 2023-01-03 11:27:17.624 [main] GROStepDefinition - Referral Document Status Condition is: No
+[INFO ] 2023-01-03 11:27:20.768 [main] GROStepDefinition - Applicant identity details updated successfully
+[INFO ] 2023-01-03 11:27:22.908 [main] GROStepDefinition - GRO Module Feedback Collected
+[INFO ] 2023-01-03 11:27:35.300 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-01-03 11:27:37.313 [main] GROStepDefinition - GRO Runing Time:
+[INFO ] 2023-01-03 11:27:37.313 [main] CommonDefinition - Total Time Mints = Mints: 1 mints  28 seconds
+[INFO ] 2023-01-03 11:27:37.314 [main] CommonDefinition -  Total Time  Seconds = 88 seconds
+[INFO ] 2023-01-03 11:27:40.420 [main] NurseModuleStepDefinition - Start Time  = 1672725457336
+[INFO ] 2023-01-03 11:27:41.556 [main] NurseModuleStepDefinition - Nurse Module
+[INFO ] 2023-01-03 11:27:46.721 [main] NurseModuleStepDefinition - Role Section: Nurse
+[INFO ] 2023-01-03 11:27:58.467 [main] NurseModuleStepDefinition - Choose The Counter Is: Male Nurse Room counter 2
+[INFO ] 2023-01-03 11:28:03.538 [main] GpModuleStepDefinition - Start Time  = 1672725483538
+[INFO ] 2023-01-03 11:28:24.585 [main] LabJuniorStepDefinition - Start Time  = 1672725504585
+[INFO ] 2023-01-03 11:28:46.642 [main] LabSeniorStepDefinition - Start Time  = 1672725526642
+[INFO ] 2023-01-03 11:29:08.706 [main] LabSupervisorStepDefinition - Start Time  = 1672725548706
+[INFO ] 2023-01-03 12:17:58.455 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-01-03 12:18:33.025 [main] GROStepDefinition - Start Time  = 1672728513025
+[INFO ] 2023-01-03 12:18:33.215 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-01-03 12:18:33.432 [main] GROStepDefinition - Username: venkat
+[INFO ] 2023-01-03 12:18:33.700 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-01-03 12:18:38.421 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-01-03 12:18:51.185 [main] GROStepDefinition - Choose The Counter is: Counter - 01
+[INFO ] 2023-01-03 12:18:52.871 [main] GROStepDefinition - Signed into the counter successfully
+[INFO ] 2023-01-03 12:18:57.736 [main] GROStepDefinition - Visa Number: 998090981171
+[INFO ] 2023-01-03 12:18:59.885 [main] GROStepDefinition - Biometric skip request sent successfully
+[INFO ] 2023-01-03 12:19:03.980 [main] GROStepDefinition - Patient Profile Page
+[INFO ] 2023-01-03 12:19:03.982 [main] GROStepDefinition - Personal Details: 
+[INFO ] 2023-01-03 12:19:03.983 [main] GROStepDefinition - Visa Gender Type: Female
+[INFO ] 2023-01-03 12:19:09.860 [main] GROStepDefinition - Applicant Believes Pregnant?: Maybe
+[INFO ] 2023-01-03 12:19:09.861 [main] GROStepDefinition - Successfully enter the Personal information details
+[INFO ] 2023-01-03 12:19:09.862 [main] GROStepDefinition - Communcation Details: 
+[INFO ] 2023-01-03 12:19:10.921 [main] GROStepDefinition - Country: India
+[INFO ] 2023-01-03 12:19:13.233 [main] GROStepDefinition - Preferred Language to Speak: Tamil
+[INFO ] 2023-01-03 12:19:14.260 [main] GROStepDefinition - Preferred Language to Read: Tamil
+[INFO ] 2023-01-03 12:19:18.087 [main] GROStepDefinition - Preferred Location for Referral: Chennai
+[INFO ] 2023-01-03 12:19:20.212 [main] GROStepDefinition - Preferred Hospital: Apollo Hospital
+[INFO ] 2023-01-03 12:19:20.735 [main] GROStepDefinition - Successfully enter The Communication Details
+[INFO ] 2023-01-03 12:19:20.740 [main] GROStepDefinition - Encounter Details: 
+[INFO ] 2023-01-03 12:19:24.073 [main] GROStepDefinition - SMS Alert Number: 9790000000
+[INFO ] 2023-01-03 12:19:24.702 [main] GROStepDefinition - Job Position : Pharmacist
+[INFO ] 2023-01-03 12:19:24.730 [main] GROStepDefinition - Is Job applicable of Driving: false
+[INFO ] 2023-01-03 12:19:24.731 [main] GROStepDefinition - Successfully enter The Encounter details
+[INFO ] 2023-01-03 12:19:34.963 [main] GROStepDefinition - APPLICANT CONSENT AND DECLARATION FORM
+[INFO ] 2023-01-03 12:19:34.964 [main] GROStepDefinition - Applicant Details Created Successflly
+[INFO ] 2023-01-03 12:19:34.964 [main] GROStepDefinition - Place Order Page
+[INFO ] 2023-01-03 12:19:35.090 [main] GROStepDefinition - Token Genarated :   Token no (NND005) generated successfully
+[INFO ] 2023-01-03 12:19:35.102 [main] GROStepDefinition - Visa Gender Type: Female - MaybeXray Page Not Allowed
+[INFO ] 2023-01-03 12:19:35.190 [main] GROStepDefinition - Token : NND005
+[INFO ] 2023-01-03 12:19:41.764 [main] GROStepDefinition -  Generate Service Recipt
+[INFO ] 2023-01-03 12:19:41.769 [main] GROStepDefinition - Capture Identify Page:
+[INFO ] 2023-01-03 12:19:41.769 [main] GROStepDefinition - Vaccination Document Status Condition is: No
+[INFO ] 2023-01-03 12:19:41.770 [main] GROStepDefinition - Referral Document Status Condition is: No
+[INFO ] 2023-01-03 12:19:45.017 [main] GROStepDefinition - Applicant identity details updated successfully
+[INFO ] 2023-01-03 12:19:47.449 [main] GROStepDefinition - GRO Module Feedback Collected
+[INFO ] 2023-01-03 12:20:01.872 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-01-03 12:20:04.855 [main] GROStepDefinition - GRO Runing Time:
+[INFO ] 2023-01-03 12:20:04.857 [main] CommonDefinition - Total Time Mints = Mints: 1 mints  31 seconds
+[INFO ] 2023-01-03 12:20:04.859 [main] CommonDefinition -  Total Time  Seconds = 91 seconds
+[INFO ] 2023-01-03 12:20:08.059 [main] NurseModuleStepDefinition - Start Time  = 1672728604933
+[INFO ] 2023-01-03 12:20:09.229 [main] NurseModuleStepDefinition - Nurse Module
+[INFO ] 2023-01-03 12:20:15.478 [main] NurseModuleStepDefinition - Role Section: Nurse
+[INFO ] 2023-01-03 12:20:24.634 [main] NurseModuleStepDefinition - Choose The Counter Is: Counter - 03
+[INFO ] 2023-01-03 12:20:35.909 [main] NurseTokenVerify - Nurse Module Token : NND003
+[INFO ] 2023-01-03 12:20:35.910 [main] NurseTokenVerify - Token Lenght For Nurse String : 03
+[INFO ] 2023-01-03 12:20:35.911 [main] NurseTokenVerify -  Nurse Current Token Number Next Token In Last Two Number 3
+[INFO ] 2023-01-03 12:20:35.911 [main] NurseTokenVerify - Gro Token for String 05
+[INFO ] 2023-01-03 12:20:35.912 [main] NurseTokenVerify - Gro Token Last Two Number  In Int: 5
+[INFO ] 2023-01-03 12:20:35.912 [main] NurseTokenVerify - Nurse Token : 3 -- Gro Token  :5
+[INFO ] 2023-01-03 12:20:44.499 [main] NurseTokenVerify - Nurse Module  Loop Token : NND005
+[INFO ] 2023-01-03 12:20:44.532 [main] NurseTokenVerify - Get The Loop Next Token For Nurse  5
+[INFO ] 2023-01-03 12:20:44.551 [main] NurseTokenVerify - Nurse Token : 5-- Gro Token  :5
+[INFO ] 2023-01-03 12:20:45.910 [main] NurseTokenVerify - Successfully Verified in Token
+[INFO ] 2023-01-03 12:20:48.071 [main] NurseModuleStepDefinition - Record Vitals:
+[INFO ] 2023-01-03 12:20:51.763 [main] NurseModuleStepDefinition -  Ab Noraml Height: 200
+[INFO ] 2023-01-03 12:20:53.259 [main] NurseModuleStepDefinition - Ab Normal Weight: 200
+[INFO ] 2023-01-03 12:20:54.849 [main] NurseModuleStepDefinition - Successfully enter the Body Mass Index
+[INFO ] 2023-01-03 12:20:59.486 [main] NurseModuleStepDefinition - AbNormal Vision (R): 6/36
+[INFO ] 2023-01-03 12:21:02.002 [main] NurseModuleStepDefinition - AbNormal Vision (L): 6/36
+[INFO ] 2023-01-03 12:21:02.003 [main] NurseModuleStepDefinition - Successfully enter the Vision Module
+[INFO ] 2023-01-03 12:21:04.009 [main] NurseModuleStepDefinition - Job Describtion : Pharmacist
+[INFO ] 2023-01-03 12:21:04.960 [main] NurseModuleStepDefinition - AbNormal Blood Pressure: 200
+[INFO ] 2023-01-03 12:21:05.873 [main] NurseModuleStepDefinition - AbNormal Systolic Pressure: 160
+[INFO ] 2023-01-03 12:21:07.144 [main] NurseModuleStepDefinition - Successfully enter the Other Module
+[INFO ] 2023-01-03 12:21:07.146 [main] NurseModuleStepDefinition - New applicant vitals details created successfully
+[INFO ] 2023-01-03 12:21:07.146 [main] NurseModuleStepDefinition - Speciman Genaration :
+[INFO ] 2023-01-03 12:21:10.444 [main] NurseModuleStepDefinition - Order ID : 3364
+[INFO ] 2023-01-03 12:21:10.446 [main] NurseModuleStepDefinition - Plasma Specimen Number: Yet to be Generated
+[INFO ] 2023-01-03 12:21:10.446 [main] NurseModuleStepDefinition - Serum Specimen Number: Yet to be Generated
+[INFO ] 2023-01-03 12:21:10.447 [main] NurseModuleStepDefinition - Whole Blood Specimen Number: Yet to be Generated
+[INFO ] 2023-01-03 12:21:26.629 [main] NurseModuleStepDefinition - Speciman Genarated Successfully
+[INFO ] 2023-01-03 12:21:27.228 [main] NurseModuleStepDefinition - Speciman Collection :
+[INFO ] 2023-01-03 12:21:28.829 [main] NurseModuleStepDefinition - Plasma Specimen Number: BLP1443702800: Generated
+[INFO ] 2023-01-03 12:21:28.831 [main] NurseModuleStepDefinition - Serum Specimen Number: BLS1458948633: Generated
+[INFO ] 2023-01-03 12:21:28.831 [main] NurseModuleStepDefinition - Whole Blood Specimen Number: WBL1418915100: Generated
+[INFO ] 2023-01-03 12:21:31.299 [main] NurseModuleStepDefinition - Speciman Collected Successfully
+[INFO ] 2023-01-03 12:21:31.301 [main] NurseModuleStepDefinition - Vaccination: 
+[INFO ] 2023-01-03 12:21:35.424 [main] NurseModuleStepDefinition - Nurse Module Feedback collected successfully
+[INFO ] 2023-01-03 12:21:41.429 [main] NurseModuleStepDefinition - Sample Outgoing
+[INFO ] 2023-01-03 12:21:50.710 [main] NurseModuleStepDefinition - Plasma Specimen Number: BLP1443702800
+[INFO ] 2023-01-03 12:21:50.712 [main] NurseModuleStepDefinition - Serum Specimen Number: BLS1458948633
+[INFO ] 2023-01-03 12:21:50.713 [main] NurseModuleStepDefinition - Whole Blood Specimen Number: WBL1418915100
+[INFO ] 2023-01-03 12:21:50.714 [main] NurseModuleStepDefinition - Scan Specimen Number
+[INFO ] 2023-01-03 12:21:53.227 [main] NurseModuleStepDefinition - Successfully scan the Plasma Specimen Number: BLP1443702800
+[INFO ] 2023-01-03 12:21:56.273 [main] NurseModuleStepDefinition - Successfully scan the Serum Specimen Number: BLS1458948633
+[INFO ] 2023-01-03 12:21:58.579 [main] NurseModuleStepDefinition - Suceessfully scan the Whole Blood Specimen Number: WBL1418915100
+[INFO ] 2023-01-03 12:21:58.580 [main] NurseModuleStepDefinition - Lab Technician and GRO Information
+[INFO ] 2023-01-03 12:22:02.384 [main] NurseModuleStepDefinition - Lab Tech Name: Lab Technician Glossys
+[INFO ] 2023-01-03 12:22:04.253 [main] NurseModuleStepDefinition - GRO Name: GRO Glossys
+[INFO ] 2023-01-03 12:22:05.429 [main] NurseModuleStepDefinition -  Sample's Sent to LAB successfully
+[INFO ] 2023-01-03 12:22:14.308 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-01-03 12:22:16.313 [main] NurseModuleStepDefinition - Nurse Runing Time:
+[INFO ] 2023-01-03 12:22:16.315 [main] CommonDefinition - Total Time Mints = Mints: 2 mints  11 seconds
+[INFO ] 2023-01-03 12:22:16.316 [main] CommonDefinition -  Total Time  Seconds = 131 seconds
+[INFO ] 2023-01-03 12:22:16.379 [main] GpModuleStepDefinition - Start Time  = 1672728736379
+[INFO ] 2023-01-03 12:22:17.502 [main] GpModuleStepDefinition - Username: venkat
+[INFO ] 2023-01-03 12:22:18.599 [main] GpModuleStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-01-03 12:22:19.697 [main] GpModuleStepDefinition - Stemz GP Module
+[INFO ] 2023-01-03 12:22:22.899 [main] GpModuleStepDefinition - Role Section: STEMZ GP
+[INFO ] 2023-01-03 12:22:30.358 [main] GpModuleStepDefinition - Choose The Counter Is: 
+[INFO ] 2023-01-03 12:22:41.514 [main] NurseTokenVerify - Nurse Module Token : NNDX004
+[INFO ] 2023-01-03 12:22:41.515 [main] NurseTokenVerify - Token Lenght For Nurse String : 04
+[INFO ] 2023-01-03 12:22:41.516 [main] NurseTokenVerify -  Nurse Current Token Number Next Token In Last Two Number 4
+[INFO ] 2023-01-03 12:22:41.516 [main] NurseTokenVerify - Gro Token for String 05
+[INFO ] 2023-01-03 12:22:41.517 [main] NurseTokenVerify - Gro Token Last Two Number  In Int: 5
+[INFO ] 2023-01-03 12:22:41.517 [main] NurseTokenVerify - Nurse Token : 4 -- Gro Token  :5
+[INFO ] 2023-01-03 12:22:49.639 [main] NurseTokenVerify - Nurse Module  Loop Token : NND005
+[INFO ] 2023-01-03 12:22:50.258 [main] NurseTokenVerify - Get The Loop Next Token For Nurse  5
+[INFO ] 2023-01-03 12:22:50.261 [main] NurseTokenVerify - Nurse Token : 5-- Gro Token  :5
+[INFO ] 2023-01-03 12:22:51.586 [main] NurseTokenVerify - Successfully Verified in Token
+[INFO ] 2023-01-03 12:22:51.588 [main] GpModuleStepDefinition - Verification  Token
+[INFO ] 2023-01-03 12:22:53.744 [main] GpModuleStepDefinition - Gp Consulation Process
+[INFO ] 2023-01-03 12:23:02.734 [main] GpModuleStepDefinition - Consulation
+[INFO ] 2023-01-03 12:23:08.309 [main] GpModuleStepDefinition - Preset: Normal
+[INFO ] 2023-01-03 12:23:08.311 [main] GpModuleStepDefinition - CardiologyProblem
+[INFO ] 2023-01-03 12:23:21.721 [main] ExternalSpeciality - Successfully Cardilogy Referral Created
+[INFO ] 2023-01-03 12:23:21.722 [main] GpModuleStepDefinition - DeformityProblem
+[INFO ] 2023-01-03 12:23:37.967 [main] ExternalSpeciality - Successfully Deformity Referral Created
+[INFO ] 2023-01-03 12:23:40.004 [main] GpModuleStepDefinition - Medical History: No
+[INFO ] 2023-01-03 12:23:41.279 [main] GpModuleStepDefinition - Pervious Illness: No
+[INFO ] 2023-01-03 12:23:42.451 [main] GpModuleStepDefinition - Your Meals In Last 10 Hours: No
+[INFO ] 2023-01-03 12:23:43.600 [main] GpModuleStepDefinition - Psychiatric Or Neurological Disorder: No
+[INFO ] 2023-01-03 12:23:46.366 [main] GpModuleStepDefinition - Comments: Okay
+[INFO ] 2023-01-03 12:24:19.901 [main] LabJuniorStepDefinition - Start Time  = 1672728859901
+[INFO ] 2023-01-03 12:24:41.946 [main] LabSeniorStepDefinition - Start Time  = 1672728881946
+[INFO ] 2023-01-03 12:25:04.032 [main] LabSupervisorStepDefinition - Start Time  = 1672728904032
+[INFO ] 2023-01-03 12:55:52.859 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-01-03 12:56:07.133 [main] GROStepDefinition - Start Time  = 1672730767133
+[INFO ] 2023-01-03 12:56:07.148 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-01-03 12:56:07.292 [main] GROStepDefinition - Username: venkat
+[INFO ] 2023-01-03 12:56:07.416 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-01-03 12:56:11.671 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-01-03 12:56:24.469 [main] GROStepDefinition - Choose The Counter is: Counter - 01
+[INFO ] 2023-01-03 12:56:26.194 [main] GROStepDefinition - Signed into the counter successfully
+[INFO ] 2023-01-03 12:56:31.086 [main] GROStepDefinition - Visa Number: 998090981172
+[INFO ] 2023-01-03 12:56:33.231 [main] GROStepDefinition - Biometric skip request sent successfully
+[INFO ] 2023-01-03 12:56:37.294 [main] GROStepDefinition - Patient Profile Page
+[INFO ] 2023-01-03 12:56:37.296 [main] GROStepDefinition - Personal Details: 
+[INFO ] 2023-01-03 12:56:37.297 [main] GROStepDefinition - Visa Gender Type: Female
+[INFO ] 2023-01-03 12:56:43.282 [main] GROStepDefinition - Applicant Believes Pregnant?: Maybe
+[INFO ] 2023-01-03 12:56:43.283 [main] GROStepDefinition - Successfully enter the Personal information details
+[INFO ] 2023-01-03 12:56:43.284 [main] GROStepDefinition - Communcation Details: 
+[INFO ] 2023-01-03 12:56:47.446 [main] GpModuleStepDefinition - Start Time  = 1672730807446
+[INFO ] 2023-01-03 12:56:48.489 [main] LabJuniorStepDefinition - Start Time  = 1672730808488
+[INFO ] 2023-01-03 12:56:50.536 [main] LabSeniorStepDefinition - Start Time  = 1672730810536
+[INFO ] 2023-01-03 12:56:52.577 [main] LabSupervisorStepDefinition - Start Time  = 1672730812577
+[INFO ] 2023-01-03 13:04:51.981 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-01-03 13:05:04.198 [main] GROStepDefinition - Start Time  = 1672731304198
+[INFO ] 2023-01-03 13:05:04.211 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-01-03 13:05:04.329 [main] GROStepDefinition - Username: venkat
+[INFO ] 2023-01-03 13:05:04.415 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-01-03 13:05:08.721 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-01-03 13:05:21.234 [main] GROStepDefinition - Choose The Counter is: Counter - 02
+[INFO ] 2023-01-03 13:05:22.860 [main] GROStepDefinition - Signed into the counter successfully
+[INFO ] 2023-01-03 13:05:27.197 [main] GROStepDefinition - Visa Number: 998090981173
+[INFO ] 2023-01-03 13:05:29.338 [main] GROStepDefinition - Biometric skip request sent successfully
+[INFO ] 2023-01-03 13:05:33.403 [main] GROStepDefinition - Patient Profile Page
+[INFO ] 2023-01-03 13:05:33.404 [main] GROStepDefinition - Personal Details: 
+[INFO ] 2023-01-03 13:05:33.405 [main] GROStepDefinition - Visa Gender Type: Female
+[INFO ] 2023-01-03 13:05:39.341 [main] GROStepDefinition - Applicant Believes Pregnant?: Maybe
+[INFO ] 2023-01-03 13:05:39.342 [main] GROStepDefinition - Successfully enter the Personal information details
+[INFO ] 2023-01-03 13:05:39.342 [main] GROStepDefinition - Communcation Details: 
+[INFO ] 2023-01-03 13:05:40.381 [main] GROStepDefinition - Country: India
+[INFO ] 2023-01-03 13:05:43.028 [main] GROStepDefinition - Preferred Language to Speak: Tamil
+[INFO ] 2023-01-03 13:05:44.092 [main] GROStepDefinition - Preferred Language to Read: Tamil
+[INFO ] 2023-01-03 13:05:47.815 [main] GROStepDefinition - Preferred Location for Referral: Chennai
+[INFO ] 2023-01-03 13:05:49.890 [main] GROStepDefinition - Preferred Hospital: Apollo Hospital
+[INFO ] 2023-01-03 13:05:49.892 [main] GROStepDefinition - Successfully enter The Communication Details
+[INFO ] 2023-01-03 13:05:49.893 [main] GROStepDefinition - Encounter Details: 
+[INFO ] 2023-01-03 13:05:53.219 [main] GROStepDefinition - SMS Alert Number: 9790000000
+[INFO ] 2023-01-03 13:05:53.252 [main] GROStepDefinition - Job Position : Pharmacist
+[INFO ] 2023-01-03 13:05:53.280 [main] GROStepDefinition - Is Job applicable of Driving: false
+[INFO ] 2023-01-03 13:05:53.281 [main] GROStepDefinition - Successfully enter The Encounter details
+[INFO ] 2023-01-03 13:06:03.411 [main] GROStepDefinition - APPLICANT CONSENT AND DECLARATION FORM
+[INFO ] 2023-01-03 13:06:03.412 [main] GROStepDefinition - Applicant Details Created Successflly
+[INFO ] 2023-01-03 13:06:03.413 [main] GROStepDefinition - Place Order Page
+[INFO ] 2023-01-03 13:06:03.507 [main] GROStepDefinition - Token Genarated :   Token no (NND011) generated successfully
+[INFO ] 2023-01-03 13:06:03.527 [main] GROStepDefinition - Visa Gender Type: Female - MaybeXray Page Not Allowed
+[INFO ] 2023-01-03 13:06:03.602 [main] GROStepDefinition - Token : NND011
+[INFO ] 2023-01-03 13:06:08.874 [main] GROStepDefinition -  Generate Service Recipt
+[INFO ] 2023-01-03 13:06:09.103 [main] GROStepDefinition - Capture Identify Page:
+[INFO ] 2023-01-03 13:06:09.103 [main] GROStepDefinition - Vaccination Document Status Condition is: No
+[INFO ] 2023-01-03 13:06:09.104 [main] GROStepDefinition - Referral Document Status Condition is: No
+[INFO ] 2023-01-03 13:06:12.302 [main] GROStepDefinition - Applicant identity details updated successfully
+[INFO ] 2023-01-03 13:06:14.420 [main] GROStepDefinition - GRO Module Feedback Collected
+[INFO ] 2023-01-03 13:06:26.901 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-01-03 13:06:28.914 [main] GROStepDefinition - GRO Runing Time:
+[INFO ] 2023-01-03 13:06:29.009 [main] CommonDefinition - Total Time Mints = Mints: 1 mints  24 seconds
+[INFO ] 2023-01-03 13:06:29.010 [main] CommonDefinition -  Total Time  Seconds = 84 seconds
+[INFO ] 2023-01-03 13:06:32.160 [main] NurseModuleStepDefinition - Start Time  = 1672731389053
+[INFO ] 2023-01-03 13:06:33.304 [main] NurseModuleStepDefinition - Nurse Module
+[INFO ] 2023-01-03 13:06:38.516 [main] NurseModuleStepDefinition - Role Section: Nurse
+[INFO ] 2023-01-03 13:06:47.613 [main] NurseModuleStepDefinition - Choose The Counter Is: Male Nurse Room counter 2
+[INFO ] 2023-01-03 13:06:58.273 [main] NurseTokenVerify - Nurse Module Token : NND003
+[INFO ] 2023-01-03 13:06:58.274 [main] NurseTokenVerify - Token Lenght For Nurse String : 03
+[INFO ] 2023-01-03 13:06:58.275 [main] NurseTokenVerify -  Nurse Current Token Number Next Token In Last Two Number 3
+[INFO ] 2023-01-03 13:06:58.275 [main] NurseTokenVerify - Gro Token for String 11
+[INFO ] 2023-01-03 13:06:58.276 [main] NurseTokenVerify - Gro Token Last Two Number  In Int: 11
+[INFO ] 2023-01-03 13:06:58.276 [main] NurseTokenVerify - Nurse Token : 3 -- Gro Token  :11
+[INFO ] 2023-01-03 13:07:06.636 [main] NurseTokenVerify - Nurse Module  Loop Token : NNDX007
+[INFO ] 2023-01-03 13:07:06.636 [main] NurseTokenVerify - Get The Loop Next Token For Nurse  7
+[INFO ] 2023-01-03 13:07:06.638 [main] NurseTokenVerify - Nurse Token : 7-- Gro Token  :11
+[INFO ] 2023-01-03 13:07:14.943 [main] NurseTokenVerify - Nurse Module  Loop Token : NND011
+[INFO ] 2023-01-03 13:07:14.958 [main] NurseTokenVerify - Get The Loop Next Token For Nurse  11
+[INFO ] 2023-01-03 13:07:14.959 [main] NurseTokenVerify - Nurse Token : 11-- Gro Token  :11
+[INFO ] 2023-01-03 13:07:16.127 [main] NurseTokenVerify - Successfully Verified The Token
+[INFO ] 2023-01-03 13:07:18.373 [main] NurseModuleStepDefinition - Record Vitals:
+[INFO ] 2023-01-03 13:07:21.979 [main] NurseModuleStepDefinition -  Ab Noraml Height: 200
+[INFO ] 2023-01-03 13:07:22.335 [main] NurseModuleStepDefinition - Ab Normal Weight: 200
+[INFO ] 2023-01-03 13:07:23.844 [main] NurseModuleStepDefinition - Successfully enter the Body Mass Index
+[INFO ] 2023-01-03 13:07:26.742 [main] NurseModuleStepDefinition - Vision (R): 6/6
+[INFO ] 2023-01-03 13:07:29.523 [main] NurseModuleStepDefinition - Vision (L): 6/6
+[INFO ] 2023-01-03 13:07:29.525 [main] NurseModuleStepDefinition - Successfully enter the Vision Module
+[INFO ] 2023-01-03 13:07:31.532 [main] NurseModuleStepDefinition - Job Describtion : Pharmacist
+[INFO ] 2023-01-03 13:07:32.371 [main] NurseModuleStepDefinition - Nurse Assign The AbNormal Blood Pressure Value: 200
+[INFO ] 2023-01-03 13:07:33.291 [main] NurseModuleStepDefinition - Nurse Assign The AbNormal Systolic Pressure Value: 160
+[INFO ] 2023-01-03 13:07:34.484 [main] NurseModuleStepDefinition - Successfully enter the Other Module
+[INFO ] 2023-01-03 13:07:34.485 [main] NurseModuleStepDefinition - New applicant vitals details created successfully
+[INFO ] 2023-01-03 13:07:34.486 [main] NurseModuleStepDefinition - Speciman Genaration :
+[INFO ] 2023-01-03 13:07:37.766 [main] NurseModuleStepDefinition - Order ID : 3367
+[INFO ] 2023-01-03 13:07:37.767 [main] NurseModuleStepDefinition - Plasma Specimen Number: Yet to be Generated
+[INFO ] 2023-01-03 13:07:37.768 [main] NurseModuleStepDefinition - Serum Specimen Number: Yet to be Generated
+[INFO ] 2023-01-03 13:07:37.768 [main] NurseModuleStepDefinition - Whole Blood Specimen Number: Yet to be Generated
+[INFO ] 2023-01-03 13:07:53.961 [main] NurseModuleStepDefinition - Speciman Genarated Successfully
+[INFO ] 2023-01-03 13:07:53.962 [main] NurseModuleStepDefinition - Speciman Collection :
+[INFO ] 2023-01-03 13:07:55.600 [main] NurseModuleStepDefinition - Plasma Specimen Number: BLP1445331785: Generated
+[INFO ] 2023-01-03 13:07:55.601 [main] NurseModuleStepDefinition - Serum Specimen Number: BLS1475386061: Generated
+[INFO ] 2023-01-03 13:07:55.602 [main] NurseModuleStepDefinition - Whole Blood Specimen Number: WBL1494676076: Generated
+[INFO ] 2023-01-03 13:07:58.115 [main] NurseModuleStepDefinition - Speciman Collected Successfully
+[INFO ] 2023-01-03 13:07:58.116 [main] NurseModuleStepDefinition - Vaccination: 
+[INFO ] 2023-01-03 13:08:02.318 [main] NurseModuleStepDefinition - Nurse Module Feedback collected successfully
+[INFO ] 2023-01-03 13:08:08.326 [main] NurseModuleStepDefinition - Sample Outgoing
+[INFO ] 2023-01-03 13:08:16.767 [main] NurseModuleStepDefinition - Plasma Specimen Number: BLP1445331785
+[INFO ] 2023-01-03 13:08:16.769 [main] NurseModuleStepDefinition - Serum Specimen Number: BLS1475386061
+[INFO ] 2023-01-03 13:08:16.770 [main] NurseModuleStepDefinition - Whole Blood Specimen Number: WBL1494676076
+[INFO ] 2023-01-03 13:08:16.770 [main] NurseModuleStepDefinition - Scan Specimen Number
+[INFO ] 2023-01-03 13:08:19.299 [main] NurseModuleStepDefinition - Successfully scan the Plasma Specimen Number: BLP1445331785
+[INFO ] 2023-01-03 13:08:21.436 [main] NurseModuleStepDefinition - Successfully scan the Serum Specimen Number: BLS1475386061
+[INFO ] 2023-01-03 13:08:23.580 [main] NurseModuleStepDefinition - Suceessfully scan the Whole Blood Specimen Number: WBL1494676076
+[INFO ] 2023-01-03 13:08:23.581 [main] NurseModuleStepDefinition - Lab Technician and GRO Information
+[INFO ] 2023-01-03 13:08:27.351 [main] NurseModuleStepDefinition - Lab Tech Name: Lab Technician Glossys
+[INFO ] 2023-01-03 13:08:29.212 [main] NurseModuleStepDefinition - GRO Name: GRO Glossys
+[INFO ] 2023-01-03 13:08:30.374 [main] NurseModuleStepDefinition -  Sample's Sent to LAB successfully
+[INFO ] 2023-01-03 13:08:38.841 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-01-03 13:08:40.848 [main] NurseModuleStepDefinition - Nurse Runing Time:
+[INFO ] 2023-01-03 13:08:40.850 [main] CommonDefinition - Total Time Mints = Mints: 2 mints  11 seconds
+[INFO ] 2023-01-03 13:08:40.851 [main] CommonDefinition -  Total Time  Seconds = 131 seconds
+[INFO ] 2023-01-03 13:08:40.868 [main] GpModuleStepDefinition - Start Time  = 1672731520868
+[INFO ] 2023-01-03 13:08:41.973 [main] GpModuleStepDefinition - Username: venkat
+[INFO ] 2023-01-03 13:08:43.071 [main] GpModuleStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-01-03 13:08:44.145 [main] GpModuleStepDefinition - Stemz GP Module
+[INFO ] 2023-01-03 13:08:47.320 [main] GpModuleStepDefinition - Role Section: STEMZ GP
+[INFO ] 2023-01-03 13:08:54.720 [main] GpModuleStepDefinition - Choose The Counter Is: 
+[INFO ] 2023-01-03 13:09:05.806 [main] NurseTokenVerify - Nurse Module Token : NND011
+[INFO ] 2023-01-03 13:09:05.807 [main] NurseTokenVerify - Token Lenght For Nurse String : 11
+[INFO ] 2023-01-03 13:09:05.808 [main] NurseTokenVerify -  Nurse Current Token Number Next Token In Last Two Number 11
+[INFO ] 2023-01-03 13:09:05.809 [main] NurseTokenVerify - Gro Token for String 11
+[INFO ] 2023-01-03 13:09:05.810 [main] NurseTokenVerify - Gro Token Last Two Number  In Int: 11
+[INFO ] 2023-01-03 13:09:07.019 [main] NurseTokenVerify - Successfully Verified The Token
+[INFO ] 2023-01-03 13:09:09.207 [main] GpModuleStepDefinition - Gp Consulation Process
+[INFO ] 2023-01-03 13:09:36.915 [main] LabJuniorStepDefinition - Start Time  = 1672731576915
+[INFO ] 2023-01-03 13:09:59.023 [main] LabSeniorStepDefinition - Start Time  = 1672731599023
+[INFO ] 2023-01-03 13:10:21.074 [main] LabSupervisorStepDefinition - Start Time  = 1672731621074
+[INFO ] 2023-01-03 13:12:41.229 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-01-03 13:12:56.835 [main] GROStepDefinition - Start Time  = 1672731776835
+[INFO ] 2023-01-03 13:12:56.853 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-01-03 13:12:56.975 [main] GROStepDefinition - Username: venkat
+[INFO ] 2023-01-03 13:12:57.067 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-01-03 13:13:01.352 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-01-03 13:13:14.152 [main] GROStepDefinition - Choose The Counter is: Counter - 01
+[INFO ] 2023-01-03 13:13:15.877 [main] GROStepDefinition - Signed into the counter successfully
+[INFO ] 2023-01-03 13:13:20.671 [main] GROStepDefinition - Visa Number: 998090981174
+[INFO ] 2023-01-03 13:13:22.885 [main] GROStepDefinition - Biometric skip request sent successfully
+[INFO ] 2023-01-03 13:13:26.954 [main] GROStepDefinition - Patient Profile Page
+[INFO ] 2023-01-03 13:13:26.956 [main] GROStepDefinition - Personal Details: 
+[INFO ] 2023-01-03 13:13:26.957 [main] GROStepDefinition - Visa Gender Type: Female
+[INFO ] 2023-01-03 13:13:32.884 [main] GROStepDefinition - Applicant Believes Pregnant?: Maybe
+[INFO ] 2023-01-03 13:13:32.885 [main] GROStepDefinition - Successfully enter the Personal information details
+[INFO ] 2023-01-03 13:13:32.886 [main] GROStepDefinition - Communcation Details: 
+[INFO ] 2023-01-03 13:13:33.932 [main] GROStepDefinition - Country: India
+[INFO ] 2023-01-03 13:13:36.207 [main] GROStepDefinition - Preferred Language to Speak: Tamil
+[INFO ] 2023-01-03 13:13:37.247 [main] GROStepDefinition - Preferred Language to Read: Tamil
+[INFO ] 2023-01-03 13:13:40.928 [main] GROStepDefinition - Preferred Location for Referral: Chennai
+[INFO ] 2023-01-03 13:13:42.940 [main] GROStepDefinition - Preferred Hospital: Apollo Hospital
+[INFO ] 2023-01-03 13:13:42.941 [main] GROStepDefinition - Successfully enter The Communication Details
+[INFO ] 2023-01-03 13:13:42.941 [main] GROStepDefinition - Encounter Details: 
+[INFO ] 2023-01-03 13:13:46.313 [main] GROStepDefinition - SMS Alert Number: 9790000000
+[INFO ] 2023-01-03 13:13:46.346 [main] GROStepDefinition - Job Position : Pharmacist
+[INFO ] 2023-01-03 13:13:46.374 [main] GROStepDefinition - Is Job applicable of Driving: false
+[INFO ] 2023-01-03 13:13:46.375 [main] GROStepDefinition - Successfully enter The Encounter details
+[INFO ] 2023-01-03 13:13:56.565 [main] GROStepDefinition - APPLICANT CONSENT AND DECLARATION FORM
+[INFO ] 2023-01-03 13:13:56.566 [main] GROStepDefinition - Applicant Details Created Successflly
+[INFO ] 2023-01-03 13:13:56.567 [main] GROStepDefinition - Place Order Page
+[INFO ] 2023-01-03 13:13:56.642 [main] GROStepDefinition - Token Genarated :   Token no (NND012) generated successfully
+[INFO ] 2023-01-03 13:13:56.659 [main] GROStepDefinition - Visa Gender Type: Female - MaybeXray Page Not Allowed
+[INFO ] 2023-01-03 13:13:57.726 [main] GROStepDefinition - Token : NND012
+[INFO ] 2023-01-03 13:14:03.280 [main] GROStepDefinition -  Generate Service Recipt
+[INFO ] 2023-01-03 13:14:03.282 [main] GROStepDefinition - Capture Identify Page:
+[INFO ] 2023-01-03 13:14:03.283 [main] GROStepDefinition - Vaccination Document Status Condition is: No
+[INFO ] 2023-01-03 13:14:03.284 [main] GROStepDefinition - Referral Document Status Condition is: No
+[INFO ] 2023-01-03 13:14:06.502 [main] GROStepDefinition - Applicant identity details updated successfully
+[INFO ] 2023-01-03 13:14:08.653 [main] GROStepDefinition - GRO Module Feedback Collected
+[INFO ] 2023-01-03 13:14:21.215 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-01-03 13:14:23.223 [main] GROStepDefinition - GRO Runing Time:
+[INFO ] 2023-01-03 13:14:23.224 [main] CommonDefinition - Total Time Mints = Mints: 1 mints  26 seconds
+[INFO ] 2023-01-03 13:14:23.225 [main] CommonDefinition -  Total Time  Seconds = 86 seconds
+[INFO ] 2023-01-03 13:14:26.392 [main] NurseModuleStepDefinition - Start Time  = 1672731863257
+[INFO ] 2023-01-03 13:14:27.759 [main] NurseModuleStepDefinition - Nurse Module
+[INFO ] 2023-01-03 13:14:32.949 [main] NurseModuleStepDefinition - Role Section: Nurse
+[INFO ] 2023-01-03 13:14:41.931 [main] NurseModuleStepDefinition - Choose The Counter Is: Male Nurse Room counter 2
+[INFO ] 2023-01-03 13:14:52.409 [main] NurseTokenVerify - Nurse Module Token : NND012
+[INFO ] 2023-01-03 13:14:52.410 [main] NurseTokenVerify - Token Lenght For Nurse String : 12
+[INFO ] 2023-01-03 13:14:52.410 [main] NurseTokenVerify -  Nurse Current Token Number Next Token In Last Two Number 12
+[INFO ] 2023-01-03 13:14:52.411 [main] NurseTokenVerify - Gro Token for String 12
+[INFO ] 2023-01-03 13:14:52.412 [main] NurseTokenVerify - Gro Token Last Two Number  In Int: 12
+[INFO ] 2023-01-03 13:14:53.570 [main] NurseTokenVerify - Successfully Verified The Token
+[INFO ] 2023-01-03 13:14:55.724 [main] NurseModuleStepDefinition - Record Vitals:
+[INFO ] 2023-01-03 13:14:59.447 [main] NurseModuleStepDefinition -  Ab Noraml Height: 200
+[INFO ] 2023-01-03 13:14:59.774 [main] NurseModuleStepDefinition - Ab Normal Weight: 200
+[INFO ] 2023-01-03 13:15:01.282 [main] NurseModuleStepDefinition - Successfully enter the Body Mass Index
+[INFO ] 2023-01-03 13:15:04.179 [main] NurseModuleStepDefinition - Vision (R): 6/6
+[INFO ] 2023-01-03 13:15:07.048 [main] NurseModuleStepDefinition - Vision (L): 6/6
+[INFO ] 2023-01-03 13:15:07.050 [main] NurseModuleStepDefinition - Successfully enter the Vision Module
+[INFO ] 2023-01-03 13:15:09.063 [main] NurseModuleStepDefinition - Job Describtion : Pharmacist
+[INFO ] 2023-01-03 13:15:09.992 [main] NurseModuleStepDefinition - Nurse Assign The AbNormal Blood Pressure Value: 200
+[INFO ] 2023-01-03 13:15:10.883 [main] NurseModuleStepDefinition - Nurse Assign The AbNormal Systolic Pressure Value: 160
+[INFO ] 2023-01-03 13:15:12.080 [main] NurseModuleStepDefinition - Successfully enter the Other Module
+[INFO ] 2023-01-03 13:15:12.082 [main] NurseModuleStepDefinition - New applicant vitals details created successfully
+[INFO ] 2023-01-03 13:15:12.082 [main] NurseModuleStepDefinition - Speciman Genaration :
+[INFO ] 2023-01-03 13:15:15.409 [main] NurseModuleStepDefinition - Order ID : 3368
+[INFO ] 2023-01-03 13:15:15.410 [main] NurseModuleStepDefinition - Plasma Specimen Number: Yet to be Generated
+[INFO ] 2023-01-03 13:15:15.411 [main] NurseModuleStepDefinition - Serum Specimen Number: Yet to be Generated
+[INFO ] 2023-01-03 13:15:15.411 [main] NurseModuleStepDefinition - Whole Blood Specimen Number: Yet to be Generated
+[INFO ] 2023-01-03 13:15:31.597 [main] NurseModuleStepDefinition - Speciman Genarated Successfully
+[INFO ] 2023-01-03 13:15:31.598 [main] NurseModuleStepDefinition - Speciman Collection :
+[INFO ] 2023-01-03 13:15:33.220 [main] NurseModuleStepDefinition - Plasma Specimen Number: BLP1422310488: Generated
+[INFO ] 2023-01-03 13:15:33.242 [main] NurseModuleStepDefinition - Serum Specimen Number: BLS1419258393: Generated
+[INFO ] 2023-01-03 13:15:33.245 [main] NurseModuleStepDefinition - Whole Blood Specimen Number: WBL1415451604: Generated
+[INFO ] 2023-01-03 13:15:35.759 [main] NurseModuleStepDefinition - Speciman Collected Successfully
+[INFO ] 2023-01-03 13:15:35.761 [main] NurseModuleStepDefinition - Vaccination: 
+[INFO ] 2023-01-03 13:15:39.961 [main] NurseModuleStepDefinition - Nurse Module Feedback collected successfully
+[INFO ] 2023-01-03 13:15:45.975 [main] NurseModuleStepDefinition - Sample Outgoing
+[INFO ] 2023-01-03 13:15:54.558 [main] NurseModuleStepDefinition - Plasma Specimen Number: BLP1422310488
+[INFO ] 2023-01-03 13:15:54.560 [main] NurseModuleStepDefinition - Serum Specimen Number: BLS1419258393
+[INFO ] 2023-01-03 13:15:54.561 [main] NurseModuleStepDefinition - Whole Blood Specimen Number: WBL1415451604
+[INFO ] 2023-01-03 13:15:54.562 [main] NurseModuleStepDefinition - Scan Specimen Number
+[INFO ] 2023-01-03 13:15:57.106 [main] NurseModuleStepDefinition - Successfully scan the Plasma Specimen Number: BLP1422310488
+[INFO ] 2023-01-03 13:15:59.346 [main] NurseModuleStepDefinition - Successfully scan the Serum Specimen Number: BLS1419258393
+[INFO ] 2023-01-03 13:16:01.599 [main] NurseModuleStepDefinition - Suceessfully scan the Whole Blood Specimen Number: WBL1415451604
+[INFO ] 2023-01-03 13:16:01.600 [main] NurseModuleStepDefinition - Lab Technician and GRO Information
+[INFO ] 2023-01-03 13:16:05.455 [main] NurseModuleStepDefinition - Lab Tech Name: Lab Technician Glossys
+[INFO ] 2023-01-03 13:16:07.355 [main] NurseModuleStepDefinition - GRO Name: GRO Glossys
+[INFO ] 2023-01-03 13:16:08.526 [main] NurseModuleStepDefinition -  Sample's Sent to LAB successfully
+[INFO ] 2023-01-03 13:16:17.031 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-01-03 13:16:19.040 [main] NurseModuleStepDefinition - Nurse Runing Time:
+[INFO ] 2023-01-03 13:16:19.053 [main] CommonDefinition - Total Time Mints = Mints: 1 mints  55 seconds
+[INFO ] 2023-01-03 13:16:19.055 [main] CommonDefinition -  Total Time  Seconds = 115 seconds
+[INFO ] 2023-01-03 13:16:19.099 [main] GpModuleStepDefinition - Start Time  = 1672731979099
+[INFO ] 2023-01-03 13:16:20.199 [main] GpModuleStepDefinition - Username: venkat
+[INFO ] 2023-01-03 13:16:21.302 [main] GpModuleStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-01-03 13:16:22.445 [main] GpModuleStepDefinition - Stemz GP Module
+[INFO ] 2023-01-03 13:16:25.650 [main] GpModuleStepDefinition - Role Section: STEMZ GP
+[INFO ] 2023-01-03 13:16:33.171 [main] GpModuleStepDefinition - Choose The Counter Is: 
+[INFO ] 2023-01-03 13:16:44.460 [main] NurseTokenVerify - Nurse Module Token : VD008
+[INFO ] 2023-01-03 13:16:44.463 [main] NurseTokenVerify - Token Lenght For Nurse String : 08
+[INFO ] 2023-01-03 13:16:44.465 [main] NurseTokenVerify -  Nurse Current Token Number Next Token In Last Two Number 8
+[INFO ] 2023-01-03 13:16:44.465 [main] NurseTokenVerify - Gro Token for String 12
+[INFO ] 2023-01-03 13:16:44.466 [main] NurseTokenVerify - Gro Token Last Two Number  In Int: 12
+[INFO ] 2023-01-03 13:16:44.467 [main] NurseTokenVerify - Nurse Token : 8 -- Gro Token  :12
+[INFO ] 2023-01-03 13:16:52.928 [main] NurseTokenVerify - Nurse Module  Loop Token : NND012
+[INFO ] 2023-01-03 13:16:52.929 [main] NurseTokenVerify - Get The Loop Next Token For Nurse  12
+[INFO ] 2023-01-03 13:16:52.930 [main] NurseTokenVerify - Nurse Token : 12-- Gro Token  :12
+[INFO ] 2023-01-03 13:16:54.098 [main] NurseTokenVerify - Successfully Verified The Token
+[INFO ] 2023-01-03 13:16:56.367 [main] GpModuleStepDefinition - Gp Consulation Process
+[INFO ] 2023-01-03 13:17:04.209 [main] GpModuleStepDefinition - Stemz Gp Assign The AbNormal Blood Pressure Value: 200
+[INFO ] 2023-01-03 13:17:05.051 [main] GpModuleStepDefinition - Stemz Gp Assign The AbNormal Systolic Pressure Value: 160
+[INFO ] 2023-01-03 13:17:06.287 [main] GpModuleStepDefinition - Consulation
+[INFO ] 2023-01-03 13:17:11.864 [main] GpModuleStepDefinition - Preset: Normal
+[INFO ] 2023-01-03 13:17:11.866 [main] GpModuleStepDefinition - CardiologyProblem
+[INFO ] 2023-01-03 13:17:25.103 [main] ExternalSpeciality - Successfully Cardilogy Referral Created
+[INFO ] 2023-01-03 13:17:25.104 [main] GpModuleStepDefinition - DeformityProblem
+[INFO ] 2023-01-03 13:17:41.232 [main] ExternalSpeciality - Successfully Deformity Referral Created
+[INFO ] 2023-01-03 13:17:43.257 [main] GpModuleStepDefinition - Medical History: No
+[INFO ] 2023-01-03 13:17:44.468 [main] GpModuleStepDefinition - Pervious Illness: No
+[INFO ] 2023-01-03 13:17:45.637 [main] GpModuleStepDefinition - Your Meals In Last 10 Hours: No
+[INFO ] 2023-01-03 13:17:46.863 [main] GpModuleStepDefinition - Psychiatric Or Neurological Disorder: No
+[INFO ] 2023-01-03 13:17:49.147 [main] GpModuleStepDefinition - Comments: Okay
+[INFO ] 2023-01-03 13:18:05.779 [main] GpModuleStepDefinition - Consultation details updated successfully
+[INFO ] 2023-01-03 13:18:13.362 [main] GpModuleStepDefinition - Stemz GP Feedback collected successfully
+[INFO ] 2023-01-03 13:18:26.878 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-01-03 13:18:28.882 [main] GpModuleStepDefinition - Stemz Gp Run Time : 
+[INFO ] 2023-01-03 13:18:28.884 [main] CommonDefinition - Total Time Mints = Mints: 2 mints  9 seconds
+[INFO ] 2023-01-03 13:18:28.885 [main] CommonDefinition -  Total Time  Seconds = 129 seconds
+[INFO ] 2023-01-03 13:18:28.889 [main] GpModuleStepDefinition - 86388
+[INFO ] 2023-01-03 13:18:28.891 [main] GpModuleStepDefinition - 115783
+[INFO ] 2023-01-03 13:18:28.893 [main] GpModuleStepDefinition - Female Applicant & Pregnant :Maybe
+[INFO ] 2023-01-03 13:18:28.936 [main] LabJuniorStepDefinition - Start Time  = 1672732108936
+[INFO ] 2023-01-03 13:18:33.239 [main] LabJuniorStepDefinition - Lab Junior Module
+[INFO ] 2023-01-03 13:18:36.444 [main] LabJuniorStepDefinition - Role Section: Lab Junior
+[INFO ] 2023-01-03 13:18:40.727 [main] LabJuniorStepDefinition - Specimen Inscan Process
+[INFO ] 2023-01-03 13:18:56.579 [main] LabJuniorStepDefinition - Plasma Specimen Number: BLP1422310488
+[INFO ] 2023-01-03 13:18:57.272 [main] LabJuniorStepDefinition - Successfully Scan Plasma Specimen Number
+[INFO ] 2023-01-03 13:18:59.443 [main] LabJuniorStepDefinition - Serum Specimen Number: BLS1419258393
+[INFO ] 2023-01-03 13:19:00.096 [main] LabJuniorStepDefinition - Successfully Scan Serum Specimen Number
+[INFO ] 2023-01-03 13:19:02.167 [main] LabJuniorStepDefinition - Whole Blood Specimen Number: WBL1415451604
+[INFO ] 2023-01-03 13:19:02.984 [main] LabJuniorStepDefinition - Successfully Scan Whole Blood Number
+[INFO ] 2023-01-03 13:19:04.040 [main] LabJuniorStepDefinition - Lab ID: 1058
+[INFO ] 2023-01-03 13:19:07.744 [main] LabJuniorStepDefinition - Specimen inscan details saved successfully
+[INFO ] 2023-01-03 13:19:07.745 [main] LabJuniorStepDefinition - Lab Work List
+[INFO ] 2023-01-03 13:19:07.745 [main] LabJuniorStepDefinition - Gender Type: Female
+[INFO ] 2023-01-03 13:19:30.376 [main] LabJuniorWorkList - Haemoglobin: 11
+[INFO ] 2023-01-03 13:19:36.992 [main] LabJuniorWorkList - Blood Group: O Positive
+[INFO ] 2023-01-03 13:19:43.669 [main] LabJuniorWorkList - HIV: Negative
+[INFO ] 2023-01-03 13:19:50.345 [main] LabJuniorWorkList - Anti HCV: Negative
+[INFO ] 2023-01-03 13:19:54.909 [main] LabJuniorWorkList - HBsAg: Negative
+[INFO ] 2023-01-03 13:19:58.266 [main] LabJuniorWorkList - SGOT: 22
+[INFO ] 2023-01-03 13:20:01.686 [main] LabJuniorWorkList - SGPT: 44
+[INFO ] 2023-01-03 13:20:08.071 [main] LabJuniorWorkList - Creatinine: 1
+[INFO ] 2023-01-03 13:20:12.568 [main] LabJuniorWorkList - RPR: NonReactive
+[INFO ] 2023-01-03 13:20:17.073 [main] LabJuniorWorkList - BEta HC: Negative
+[INFO ] 2023-01-03 13:20:19.264 [main] LabJuniorWorkList - Glucose: 80
+[INFO ] 2023-01-03 13:20:23.596 [main] LabJuniorWorkList - Result submitted for authorization successfully
+[INFO ] 2023-01-03 13:20:35.002 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-01-03 13:20:37.018 [main] LabJuniorStepDefinition - Lab Junior Runing Time:
+[INFO ] 2023-01-03 13:20:37.020 [main] CommonDefinition - Total Time Mints = Mints: 2 mints  8 seconds
+[INFO ] 2023-01-03 13:20:37.020 [main] CommonDefinition -  Total Time  Seconds = 128 seconds
+[INFO ] 2023-01-03 13:20:37.029 [main] LabSeniorStepDefinition - Start Time  = 1672732237029
+[INFO ] 2023-01-03 13:20:41.270 [main] LabSeniorStepDefinition - Lab Senior Module
+[INFO ] 2023-01-03 13:20:44.438 [main] LabSeniorStepDefinition - Role Section: Lab Senior
+[INFO ] 2023-01-03 13:20:49.981 [main] LabSeniorStepDefinition - Result Entry Review
+[INFO ] 2023-01-03 13:20:55.538 [main] LabSeniorStepDefinition - Lab ID: 1058
+[INFO ] 2023-01-03 13:21:09.106 [main] LabSeniorStepDefinition - Lab Senior First Review
+[INFO ] 2023-01-03 13:21:09.108 [main] LabSeniorStepDefinition - Gender Type: Female
+[INFO ] 2023-01-03 13:21:10.213 [main] LabSeniorStepDefinition - Haemoglobin: 11 = Reviewed
+[INFO ] 2023-01-03 13:21:10.857 [main] LabSeniorStepDefinition - Blood Group: O Positive = Reviewed
+[INFO ] 2023-01-03 13:21:11.711 [main] LabSeniorStepDefinition - HIV: Negative = Reviewed
+[INFO ] 2023-01-03 13:21:12.370 [main] LabSeniorStepDefinition - Anti HCV: Negative = Reviewed
+[INFO ] 2023-01-03 13:21:12.974 [main] LabSeniorStepDefinition - HBsAg: Negative = Reviewed
+[INFO ] 2023-01-03 13:21:13.568 [main] LabSeniorStepDefinition - SGOT: 22 = Reviewed
+[INFO ] 2023-01-03 13:21:15.934 [main] LabSeniorStepDefinition - SGPT: 44 = Reviewed
+[INFO ] 2023-01-03 13:21:16.539 [main] LabSeniorStepDefinition - Creatinine: 1 = Reviewed
+[INFO ] 2023-01-03 13:21:17.138 [main] LabSeniorStepDefinition - RPR: NonReactive = Reviewed
+[INFO ] 2023-01-03 13:21:17.745 [main] LabSeniorStepDefinition - BEta HC: Negative = Reviewed
+[INFO ] 2023-01-03 13:21:18.451 [main] LabSeniorStepDefinition - Glucose: 80 = Reviewed
+[INFO ] 2023-01-03 13:21:19.912 [main] LabSeniorStepDefinition - Result submitted for authorization successfully
+[INFO ] 2023-01-03 13:21:26.281 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-01-03 13:21:28.287 [main] LabSeniorStepDefinition - Lab Senior Runing Time:
+[INFO ] 2023-01-03 13:21:28.288 [main] CommonDefinition - Total Time Mints = Mints: 0 mints  51 seconds
+[INFO ] 2023-01-03 13:21:28.288 [main] CommonDefinition -  Total Time  Seconds = 51 seconds
+[INFO ] 2023-01-03 13:21:28.297 [main] LabSupervisorStepDefinition - Start Time  = 1672732288297
+[INFO ] 2023-01-03 13:21:32.527 [main] LabSupervisorStepDefinition - Lab Supervisor Module
+[INFO ] 2023-01-03 13:21:35.970 [main] LabSupervisorStepDefinition - Role Section: Lab Supervisor
+[INFO ] 2023-01-03 13:21:40.719 [main] LabSupervisorStepDefinition - Pathalogist Worklist :
+[INFO ] 2023-01-03 13:21:46.257 [main] LabSupervisorStepDefinition - Lab ID: 1058
+[INFO ] 2023-01-03 13:21:55.772 [main] LabSupervisorStepDefinition - Result Entry :
+[INFO ] 2023-01-03 13:21:56.785 [main] LabSupervisorStepDefinition - Lab Supervisor Authorize in Result Entry :
+[INFO ] 2023-01-03 13:21:56.786 [main] LabSupervisorStepDefinition - Gender Type: Female
+[INFO ] 2023-01-03 13:21:56.786 [main] LabSupervisorStepDefinition - Hemoglobin: 11 = Authorized
+[INFO ] 2023-01-03 13:21:56.787 [main] LabSupervisorStepDefinition - Blood Group: O Positive = Authorized
+[INFO ] 2023-01-03 13:21:56.787 [main] LabSupervisorStepDefinition - HIV: Negative = Authorized
+[INFO ] 2023-01-03 13:21:56.788 [main] LabSupervisorStepDefinition - Anti HCV: Negative = Authorized
+[INFO ] 2023-01-03 13:21:56.788 [main] LabSupervisorStepDefinition - HBsAg: Negative = Authorized
+[INFO ] 2023-01-03 13:21:58.831 [main] LabSupervisorStepDefinition - SGOT: 22 = Authorized
+[INFO ] 2023-01-03 13:21:58.834 [main] LabSupervisorStepDefinition - SGPT: 44 = Authorized
+[INFO ] 2023-01-03 13:21:58.834 [main] LabSupervisorStepDefinition - Creatinine: 1 = Authorized
+[INFO ] 2023-01-03 13:21:58.835 [main] LabSupervisorStepDefinition - RPR: NonReactive = Authorized
+[INFO ] 2023-01-03 13:21:58.835 [main] LabSupervisorStepDefinition - BEta HC: Negative = Authorized
+[INFO ] 2023-01-03 13:21:58.835 [main] LabSupervisorStepDefinition - Glucose: 80 = Authorized
+[INFO ] 2023-01-03 13:22:01.988 [main] LabSupervisorStepDefinition - Results authorized successfully!
+[INFO ] 2023-01-03 13:22:08.437 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-01-03 13:22:10.456 [main] LabSupervisorStepDefinition - Log out For Supervisor
+[INFO ] 2023-01-03 13:22:10.458 [main] LabSupervisorStepDefinition - Lab Supervisor Runing Time:
+[INFO ] 2023-01-03 13:22:10.458 [main] CommonDefinition - Total Time Mints = Mints: 0 mints  42 seconds
+[INFO ] 2023-01-03 13:22:10.459 [main] CommonDefinition -  Total Time  Seconds = 42 seconds
+[INFO ] 2023-01-03 13:22:18.862 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-01-03 13:22:31.209 [main] GROStepDefinition - Choose The Counter is: Counter - 02
+[INFO ] 2023-01-03 13:22:32.802 [main] GROStepDefinition - Signed into the counter successfully
+[INFO ] 2023-01-03 13:22:39.139 [main] UploadReferralLetter - Total Referral Count And Details : 5
+[INFO ] 2023-01-03 13:22:39.140 [main] UploadReferralLetter - How Many Referrals Details And Count : {SGOT : =0, Glucose : =0, Cardilogy : =1, Beta HCG=1, RPR : =0, Color Vision : =0, Stemz BP : =1, AntiHCV : =0, SGPT : =0, BMI : =1, HBsAg : =0, Deformatory : =1, HIV : =0, Xray=0, Creatinine : =0, Vision : =0, Hamoglobin : =0}
+[INFO ] 2023-01-03 13:22:44.164 [main] PrintReferralLetter - Print Referral Letter Page: 
+[INFO ] 2023-01-03 13:22:45.204 [main] PrintReferralLetter - Referral: External Speciality
+Speciality: Cardiology, Orthopedic, General Medicine, Blood pressure Check, Gynaecology
+[INFO ] 2023-01-03 13:22:46.238 [main] PrintReferralLetter - Document Type: Cardiology
+[INFO ] 2023-01-03 13:22:50.096 [main] PrintReferralLetter - Cardiology Print Referral Letter saved Successfully
+[INFO ] 2023-01-03 13:26:58.029 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-01-03 13:27:12.056 [main] GROStepDefinition - Start Time  = 1672732632056
+[INFO ] 2023-01-03 13:27:12.067 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-01-03 13:27:12.164 [main] GROStepDefinition - Username: venkat
+[INFO ] 2023-01-03 13:27:12.255 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-01-03 13:27:16.566 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-01-03 13:42:54.359 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-01-03 13:43:07.753 [main] GROStepDefinition - Start Time  = 1672733587753
+[INFO ] 2023-01-03 13:43:07.770 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-01-03 13:43:07.943 [main] GROStepDefinition - Username: venkat
+[INFO ] 2023-01-03 13:43:08.051 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-01-03 13:43:12.558 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-01-03 13:43:25.526 [main] GROStepDefinition - Choose The Counter is: Counter - 01
+[INFO ] 2023-01-03 13:43:27.227 [main] GROStepDefinition - Signed into the counter successfully
+[INFO ] 2023-01-03 13:43:32.102 [main] GROStepDefinition - Visa Number: 998090981178
+[INFO ] 2023-01-03 13:43:34.252 [main] GROStepDefinition - Biometric skip request sent successfully
+[INFO ] 2023-01-03 13:43:38.354 [main] GROStepDefinition - Patient Profile Page
+[INFO ] 2023-01-03 13:43:38.356 [main] GROStepDefinition - Personal Details: 
+[INFO ] 2023-01-03 13:43:38.357 [main] GROStepDefinition - Visa Gender Type: Female
+[INFO ] 2023-01-03 13:43:44.337 [main] GROStepDefinition - Applicant Believes Pregnant?: Maybe
+[INFO ] 2023-01-03 13:43:44.337 [main] GROStepDefinition - Successfully enter the Personal information details
+[INFO ] 2023-01-03 13:43:44.337 [main] GROStepDefinition - Communcation Details: 
+[INFO ] 2023-01-03 13:43:45.408 [main] GROStepDefinition - Country: India
+[INFO ] 2023-01-03 13:43:47.742 [main] GROStepDefinition - Preferred Language to Speak: Tamil
+[INFO ] 2023-01-03 13:43:48.752 [main] GROStepDefinition - Preferred Language to Read: Tamil
+[INFO ] 2023-01-03 13:43:52.434 [main] GROStepDefinition - Preferred Location for Referral: Chennai
+[INFO ] 2023-01-03 13:43:54.593 [main] GROStepDefinition - Preferred Hospital: Apollo Hospital
+[INFO ] 2023-01-03 13:43:54.650 [main] GROStepDefinition - Successfully enter The Communication Details
+[INFO ] 2023-01-03 13:43:54.651 [main] GROStepDefinition - Encounter Details: 
+[INFO ] 2023-01-03 13:43:57.966 [main] GROStepDefinition - SMS Alert Number: 9790000000
+[INFO ] 2023-01-03 13:43:57.997 [main] GROStepDefinition - Job Position : Pharmacist
+[INFO ] 2023-01-03 13:43:58.061 [main] GROStepDefinition - Is Job applicable of Driving: false
+[INFO ] 2023-01-03 13:43:58.062 [main] GROStepDefinition - Successfully enter The Encounter details
+[INFO ] 2023-01-03 13:44:14.957 [main] GROStepDefinition - APPLICANT CONSENT AND DECLARATION FORM
+[INFO ] 2023-01-03 13:44:14.958 [main] GROStepDefinition - Applicant Details Created Successflly
+[INFO ] 2023-01-03 13:44:14.959 [main] GROStepDefinition - Place Order Page
+[INFO ] 2023-01-03 13:44:15.080 [main] GROStepDefinition - Token Genarated :   Token no (NND017) generated successfully
+[INFO ] 2023-01-03 13:44:15.105 [main] GROStepDefinition - Visa Gender Type: Female - MaybeXray Page Not Allowed
+[INFO ] 2023-01-03 13:44:15.136 [main] GROStepDefinition - Token : NND017
+[INFO ] 2023-01-03 13:44:20.376 [main] GROStepDefinition -  Generate Service Recipt
+[INFO ] 2023-01-03 13:44:20.379 [main] GROStepDefinition - Capture Identify Page:
+[INFO ] 2023-01-03 13:44:20.380 [main] GROStepDefinition - Vaccination Document Status Condition is: No
+[INFO ] 2023-01-03 13:44:20.380 [main] GROStepDefinition - Referral Document Status Condition is: No
+[INFO ] 2023-01-03 13:44:23.580 [main] GROStepDefinition - Applicant identity details updated successfully
+[INFO ] 2023-01-03 13:44:25.691 [main] GROStepDefinition - GRO Module Feedback Collected
+[INFO ] 2023-01-03 13:44:38.229 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-01-03 13:44:40.240 [main] GROStepDefinition - GRO Runing Time:
+[INFO ] 2023-01-03 13:44:40.242 [main] CommonDefinition - Total Time Mints = Mints: 1 mints  32 seconds
+[INFO ] 2023-01-03 13:44:40.244 [main] CommonDefinition -  Total Time  Seconds = 92 seconds
+[INFO ] 2023-01-03 13:44:43.393 [main] NurseModuleStepDefinition - Start Time  = 1672733680295
+[INFO ] 2023-01-03 13:44:44.532 [main] NurseModuleStepDefinition - Nurse Module
+[INFO ] 2023-01-03 13:44:49.800 [main] NurseModuleStepDefinition - Role Section: Nurse
+[INFO ] 2023-01-03 13:44:58.965 [main] NurseModuleStepDefinition - Choose The Counter Is: Male Nurse Room counter 2
+[INFO ] 2023-01-03 13:45:09.835 [main] NurseTokenVerify - Nurse Module Token : VNDX014
+[INFO ] 2023-01-03 13:45:09.836 [main] NurseTokenVerify - Token Lenght For Nurse String : 14
+[INFO ] 2023-01-03 13:45:09.837 [main] NurseTokenVerify -  Nurse Current Token Number Next Token In Last Two Number 14
+[INFO ] 2023-01-03 13:45:09.837 [main] NurseTokenVerify - Gro Token for String 17
+[INFO ] 2023-01-03 13:45:09.838 [main] NurseTokenVerify - Gro Token Last Two Number  In Int: 17
+[INFO ] 2023-01-03 13:45:09.838 [main] NurseTokenVerify - Nurse Token : 14 -- Gro Token  :17
+[INFO ] 2023-01-03 13:45:18.219 [main] NurseTokenVerify - Nurse Module  Loop Token : VNDX015
+[INFO ] 2023-01-03 13:45:18.220 [main] NurseTokenVerify - Get The Loop Next Token For Nurse  15
+[INFO ] 2023-01-03 13:45:18.221 [main] NurseTokenVerify - Nurse Token : 15-- Gro Token  :17
+[INFO ] 2023-01-03 13:45:26.606 [main] NurseTokenVerify - Nurse Module  Loop Token : NND003
+[INFO ] 2023-01-03 13:45:26.608 [main] NurseTokenVerify - Get The Loop Next Token For Nurse  3
+[INFO ] 2023-01-03 13:45:26.608 [main] NurseTokenVerify - Nurse Token : 3-- Gro Token  :17
+[INFO ] 2023-01-03 13:45:34.906 [main] NurseTokenVerify - Nurse Module  Loop Token : NNDX007
+[INFO ] 2023-01-03 13:45:34.907 [main] NurseTokenVerify - Get The Loop Next Token For Nurse  7
+[INFO ] 2023-01-03 13:45:34.908 [main] NurseTokenVerify - Nurse Token : 7-- Gro Token  :17
+[INFO ] 2023-01-03 13:45:43.223 [main] NurseTokenVerify - Nurse Module  Loop Token : NNDX013
+[INFO ] 2023-01-03 13:45:43.225 [main] NurseTokenVerify - Get The Loop Next Token For Nurse  13
+[INFO ] 2023-01-03 13:45:43.226 [main] NurseTokenVerify - Nurse Token : 13-- Gro Token  :17
+[INFO ] 2023-01-03 13:45:51.588 [main] NurseTokenVerify - Nurse Module  Loop Token : NND017
+[INFO ] 2023-01-03 13:45:51.590 [main] NurseTokenVerify - Get The Loop Next Token For Nurse  17
+[INFO ] 2023-01-03 13:45:51.591 [main] NurseTokenVerify - Nurse Token : 17-- Gro Token  :17
+[INFO ] 2023-01-03 13:45:52.722 [main] NurseTokenVerify - Successfully Verified The Token
+[INFO ] 2023-01-03 13:45:54.948 [main] NurseModuleStepDefinition - Record Vitals:
+[INFO ] 2023-01-03 13:45:58.561 [main] NurseModuleStepDefinition - Height: 160
+[INFO ] 2023-01-03 13:45:58.813 [main] NurseModuleStepDefinition - Weight: 60
+[INFO ] 2023-01-03 13:46:00.317 [main] NurseModuleStepDefinition - Successfully enter the Body Mass Index
+[INFO ] 2023-01-03 13:46:03.181 [main] NurseModuleStepDefinition - Vision (R): 6/6
+[INFO ] 2023-01-03 13:46:06.079 [main] NurseModuleStepDefinition - Vision (L): 6/6
+[INFO ] 2023-01-03 13:46:06.080 [main] NurseModuleStepDefinition - Successfully enter the Vision Module
+[INFO ] 2023-01-03 13:46:08.094 [main] NurseModuleStepDefinition - Job Describtion : Pharmacist
+[INFO ] 2023-01-03 13:46:08.880 [main] NurseModuleStepDefinition - Nurse Assign The AbNormal Blood Pressure Value: 200
+[INFO ] 2023-01-03 13:46:09.754 [main] NurseModuleStepDefinition - Nurse Assign The AbNormal Systolic Pressure Value: 160
+[INFO ] 2023-01-03 13:46:10.949 [main] NurseModuleStepDefinition - Successfully enter the Other Module
+[INFO ] 2023-01-03 13:46:10.949 [main] NurseModuleStepDefinition - New applicant vitals details created successfully
+[INFO ] 2023-01-03 13:46:10.950 [main] NurseModuleStepDefinition - Speciman Genaration :
+[INFO ] 2023-01-03 13:46:14.217 [main] NurseModuleStepDefinition - Order ID : 3370
+[INFO ] 2023-01-03 13:46:14.218 [main] NurseModuleStepDefinition - Plasma Specimen Number: Yet to be Generated
+[INFO ] 2023-01-03 13:46:14.218 [main] NurseModuleStepDefinition - Serum Specimen Number: Yet to be Generated
+[INFO ] 2023-01-03 13:46:14.219 [main] NurseModuleStepDefinition - Whole Blood Specimen Number: Yet to be Generated
+[INFO ] 2023-01-03 13:46:30.412 [main] NurseModuleStepDefinition - Speciman Genarated Successfully
+[INFO ] 2023-01-03 13:46:30.413 [main] NurseModuleStepDefinition - Speciman Collection :
+[INFO ] 2023-01-03 13:46:32.095 [main] NurseModuleStepDefinition - Plasma Specimen Number: BLP1416392808: Generated
+[INFO ] 2023-01-03 13:46:32.096 [main] NurseModuleStepDefinition - Serum Specimen Number: BLS1470001590: Generated
+[INFO ] 2023-01-03 13:46:32.096 [main] NurseModuleStepDefinition - Whole Blood Specimen Number: WBL1471998604: Generated
+[INFO ] 2023-01-03 13:46:34.470 [main] NurseModuleStepDefinition - Speciman Collected Successfully
+[INFO ] 2023-01-03 13:46:34.472 [main] NurseModuleStepDefinition - Vaccination: 
+[INFO ] 2023-01-03 13:46:38.635 [main] NurseModuleStepDefinition - Nurse Module Feedback collected successfully
+[INFO ] 2023-01-03 13:46:44.662 [main] NurseModuleStepDefinition - Sample Outgoing
+[INFO ] 2023-01-03 13:46:53.102 [main] NurseModuleStepDefinition - Plasma Specimen Number: BLP1416392808
+[INFO ] 2023-01-03 13:46:53.104 [main] NurseModuleStepDefinition - Serum Specimen Number: BLS1470001590
+[INFO ] 2023-01-03 13:46:53.104 [main] NurseModuleStepDefinition - Whole Blood Specimen Number: WBL1471998604
+[INFO ] 2023-01-03 13:46:53.104 [main] NurseModuleStepDefinition - Scan Specimen Number
+[INFO ] 2023-01-03 13:46:55.641 [main] NurseModuleStepDefinition - Successfully scan the Plasma Specimen Number: BLP1416392808
+[INFO ] 2023-01-03 13:46:57.745 [main] NurseModuleStepDefinition - Successfully scan the Serum Specimen Number: BLS1470001590
+[INFO ] 2023-01-03 13:46:59.909 [main] NurseModuleStepDefinition - Suceessfully scan the Whole Blood Specimen Number: WBL1471998604
+[INFO ] 2023-01-03 13:46:59.930 [main] NurseModuleStepDefinition - Lab Technician and GRO Information
+[INFO ] 2023-01-03 13:47:03.702 [main] NurseModuleStepDefinition - Lab Tech Name: Lab Technician Glossys
+[INFO ] 2023-01-03 13:47:05.630 [main] NurseModuleStepDefinition - GRO Name: GRO Glossys
+[INFO ] 2023-01-03 13:47:06.807 [main] NurseModuleStepDefinition -  Sample's Sent to LAB successfully
+[INFO ] 2023-01-03 13:47:15.266 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-01-03 13:47:17.273 [main] NurseModuleStepDefinition - Nurse Runing Time:
+[INFO ] 2023-01-03 13:47:17.275 [main] CommonDefinition - Total Time Mints = Mints: 2 mints  36 seconds
+[INFO ] 2023-01-03 13:47:17.275 [main] CommonDefinition -  Total Time  Seconds = 156 seconds
+[INFO ] 2023-01-03 13:47:17.293 [main] GpModuleStepDefinition - Start Time  = 1672733837293
+[INFO ] 2023-01-03 13:47:18.390 [main] GpModuleStepDefinition - Username: venkat
+[INFO ] 2023-01-03 13:47:19.467 [main] GpModuleStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-01-03 13:47:20.549 [main] GpModuleStepDefinition - Stemz GP Module
+[INFO ] 2023-01-03 13:47:23.732 [main] GpModuleStepDefinition - Role Section: STEMZ GP
+[INFO ] 2023-01-03 13:47:40.262 [main] LabJuniorStepDefinition - Start Time  = 1672733860262
+[INFO ] 2023-01-03 13:47:42.306 [main] LabSeniorStepDefinition - Start Time  = 1672733862306
+[INFO ] 2023-01-03 13:47:44.333 [main] LabSupervisorStepDefinition - Start Time  = 1672733864333
+[INFO ] 2023-01-03 13:48:08.241 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-01-03 13:48:18.944 [main] GROStepDefinition - Start Time  = 1672733898944
+[INFO ] 2023-01-03 13:48:18.986 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-01-03 13:48:19.103 [main] GROStepDefinition - Username: venkat
+[INFO ] 2023-01-03 13:48:19.198 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-01-03 13:48:23.603 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-01-03 13:48:37.318 [main] GROStepDefinition - Choose The Counter is: MA Counter 01
+[ERROR] 2023-01-03 13:48:37.319 [main] GROStepDefinition - New Counter is  available please add this counter  : MA Counter 01
+[INFO ] 2023-01-03 13:48:38.955 [main] GROStepDefinition - Signed into the counter successfully
+[INFO ] 2023-01-03 13:48:43.241 [main] GROStepDefinition - Visa Number: 998090981178
+[INFO ] 2023-01-03 13:49:28.575 [main] GpModuleStepDefinition - Start Time  = 1672733968575
+[INFO ] 2023-01-03 13:49:46.789 [main] LabJuniorStepDefinition - Start Time  = 1672733986789
+[INFO ] 2023-01-03 13:49:48.808 [main] LabSeniorStepDefinition - Start Time  = 1672733988808
+[INFO ] 2023-01-03 13:49:50.830 [main] LabSupervisorStepDefinition - Start Time  = 1672733990830
+[INFO ] 2023-01-03 13:50:03.632 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-01-03 13:50:16.714 [main] GROStepDefinition - Start Time  = 1672734016714
+[INFO ] 2023-01-03 13:50:16.724 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-01-03 13:50:16.862 [main] GROStepDefinition - Username: venkat
+[INFO ] 2023-01-03 13:50:16.956 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-01-03 13:50:21.528 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-01-03 13:50:35.100 [main] GROStepDefinition - Choose The Counter is: MA Counter 02
+[ERROR] 2023-01-03 13:50:35.102 [main] GROStepDefinition - New Counter is  available please add this counter  : MA Counter 02
+[INFO ] 2023-01-03 13:50:36.993 [main] GROStepDefinition - Signed into the counter successfully
+[INFO ] 2023-01-03 13:50:41.269 [main] GROStepDefinition - Visa Number: 998090981179
+[INFO ] 2023-01-03 13:50:43.393 [main] GROStepDefinition - Biometric skip request sent successfully
+[INFO ] 2023-01-03 13:50:47.448 [main] GROStepDefinition - Patient Profile Page
+[INFO ] 2023-01-03 13:50:47.450 [main] GROStepDefinition - Personal Details: 
+[INFO ] 2023-01-03 13:50:47.450 [main] GROStepDefinition - Visa Gender Type: Female
+[INFO ] 2023-01-03 13:50:53.439 [main] GROStepDefinition - Applicant Believes Pregnant?: Maybe
+[INFO ] 2023-01-03 13:50:53.440 [main] GROStepDefinition - Successfully enter the Personal information details
+[INFO ] 2023-01-03 13:50:53.440 [main] GROStepDefinition - Communcation Details: 
+[INFO ] 2023-01-03 13:50:54.487 [main] GROStepDefinition - Country: Philippines
+[INFO ] 2023-01-03 13:50:56.755 [main] GROStepDefinition - Preferred Language to Speak: Tamil
+[INFO ] 2023-01-03 13:50:57.859 [main] GROStepDefinition - Preferred Language to Read: Tamil
+[INFO ] 2023-01-03 13:51:01.451 [main] GROStepDefinition - Preferred Location for Referral: Manila
+[INFO ] 2023-01-03 13:51:03.487 [main] GROStepDefinition - Preferred Hospital: Manilla Hospital
+[INFO ] 2023-01-03 13:51:03.488 [main] GROStepDefinition - Successfully enter The Communication Details
+[INFO ] 2023-01-03 13:51:03.488 [main] GROStepDefinition - Encounter Details: 
+[INFO ] 2023-01-03 13:51:06.818 [main] GROStepDefinition - SMS Alert Number: 9790000000
+[INFO ] 2023-01-03 13:51:06.850 [main] GROStepDefinition - Job Position : Pharmacist
+[INFO ] 2023-01-03 13:51:06.876 [main] GROStepDefinition - Is Job applicable of Driving: false
+[INFO ] 2023-01-03 13:51:06.877 [main] GROStepDefinition - Successfully enter The Encounter details
+[INFO ] 2023-01-03 13:51:23.927 [main] GROStepDefinition - APPLICANT CONSENT AND DECLARATION FORM
+[INFO ] 2023-01-03 13:51:23.928 [main] GROStepDefinition - Applicant Details Created Successflly
+[INFO ] 2023-01-03 13:51:23.929 [main] GROStepDefinition - Place Order Page
+[INFO ] 2023-01-03 13:51:24.002 [main] GROStepDefinition - Token Genarated :   Token no (NND010) generated successfully
+[INFO ] 2023-01-03 13:51:24.033 [main] GROStepDefinition - Visa Gender Type: Female - MaybeXray Page Not Allowed
+[INFO ] 2023-01-03 13:51:24.084 [main] GROStepDefinition - Token : NND010
+[INFO ] 2023-01-03 13:51:29.344 [main] GROStepDefinition -  Generate Service Recipt
+[INFO ] 2023-01-03 13:51:29.346 [main] GROStepDefinition - Capture Identify Page:
+[INFO ] 2023-01-03 13:51:29.347 [main] GROStepDefinition - Vaccination Document Status Condition is: No
+[INFO ] 2023-01-03 13:51:29.347 [main] GROStepDefinition - Referral Document Status Condition is: No
+[INFO ] 2023-01-03 13:51:32.595 [main] GROStepDefinition - Applicant identity details updated successfully
+[INFO ] 2023-01-03 13:51:34.727 [main] GROStepDefinition - GRO Module Feedback Collected
+[INFO ] 2023-01-03 13:51:47.263 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-01-03 13:51:49.272 [main] GROStepDefinition - GRO Runing Time:
+[INFO ] 2023-01-03 13:51:49.275 [main] CommonDefinition - Total Time Mints = Mints: 1 mints  32 seconds
+[INFO ] 2023-01-03 13:51:49.276 [main] CommonDefinition -  Total Time  Seconds = 92 seconds
+[INFO ] 2023-01-03 13:51:52.461 [main] NurseModuleStepDefinition - Start Time  = 1672734109338
+[INFO ] 2023-01-03 13:51:53.609 [main] NurseModuleStepDefinition - Nurse Module
+[INFO ] 2023-01-03 13:51:59.023 [main] NurseModuleStepDefinition - Role Section: Nurse
+[INFO ] 2023-01-03 13:52:09.037 [main] NurseModuleStepDefinition - Choose The Counter Is: MA Counter 03
+[INFO ] 2023-01-03 13:52:19.478 [main] NurseTokenVerify - Nurse Module Token : NND008
+[INFO ] 2023-01-03 13:52:19.499 [main] NurseTokenVerify - Token Lenght For Nurse String : 08
+[INFO ] 2023-01-03 13:52:19.500 [main] NurseTokenVerify -  Nurse Current Token Number Next Token In Last Two Number 8
+[INFO ] 2023-01-03 13:52:19.500 [main] NurseTokenVerify - Gro Token for String 10
+[INFO ] 2023-01-03 13:52:19.501 [main] NurseTokenVerify - Gro Token Last Two Number  In Int: 10
+[INFO ] 2023-01-03 13:52:19.501 [main] NurseTokenVerify - Nurse Token : 8 -- Gro Token  :10
+[INFO ] 2023-01-03 13:52:27.710 [main] NurseTokenVerify - Nurse Module  Loop Token : NND010
+[INFO ] 2023-01-03 13:52:27.712 [main] NurseTokenVerify - Get The Loop Next Token For Nurse  10
+[INFO ] 2023-01-03 13:52:27.713 [main] NurseTokenVerify - Nurse Token : 10-- Gro Token  :10
+[INFO ] 2023-01-03 13:52:28.896 [main] NurseTokenVerify - Successfully Verified The Token
+[INFO ] 2023-01-03 13:52:31.117 [main] NurseModuleStepDefinition - Record Vitals:
+[INFO ] 2023-01-03 13:52:34.733 [main] NurseModuleStepDefinition - Height: 160
+[INFO ] 2023-01-03 13:52:35.039 [main] NurseModuleStepDefinition - Weight: 60
+[INFO ] 2023-01-03 13:52:36.553 [main] NurseModuleStepDefinition - Successfully enter the Body Mass Index
+[INFO ] 2023-01-03 13:52:39.399 [main] NurseModuleStepDefinition - Vision (R): 6/6
+[INFO ] 2023-01-03 13:52:42.241 [main] NurseModuleStepDefinition - Vision (L): 6/6
+[INFO ] 2023-01-03 13:52:42.284 [main] NurseModuleStepDefinition - Successfully enter the Vision Module
+[INFO ] 2023-01-03 13:52:44.337 [main] NurseModuleStepDefinition - Job Describtion : Pharmacist
+[INFO ] 2023-01-03 13:52:45.140 [main] NurseModuleStepDefinition - Nurse Assign The AbNormal Blood Pressure Value: 200
+[INFO ] 2023-01-03 13:52:46.055 [main] NurseModuleStepDefinition - Nurse Assign The AbNormal Systolic Pressure Value: 160
+[INFO ] 2023-01-03 13:52:47.251 [main] NurseModuleStepDefinition - Successfully enter the Other Module
+[INFO ] 2023-01-03 13:52:47.252 [main] NurseModuleStepDefinition - New applicant vitals details created successfully
+[INFO ] 2023-01-03 13:52:47.252 [main] NurseModuleStepDefinition - Speciman Genaration :
+[INFO ] 2023-01-03 13:52:50.558 [main] NurseModuleStepDefinition - Order ID : 3371
+[INFO ] 2023-01-03 13:52:50.559 [main] NurseModuleStepDefinition - Plasma Specimen Number: Yet to be Generated
+[INFO ] 2023-01-03 13:52:50.560 [main] NurseModuleStepDefinition - Serum Specimen Number: Yet to be Generated
+[INFO ] 2023-01-03 13:52:50.560 [main] NurseModuleStepDefinition - Whole Blood Specimen Number: Yet to be Generated
+[INFO ] 2023-01-03 13:53:06.753 [main] NurseModuleStepDefinition - Speciman Genarated Successfully
+[INFO ] 2023-01-03 13:53:06.755 [main] NurseModuleStepDefinition - Speciman Collection :
+[INFO ] 2023-01-03 13:53:18.437 [main] NurseModuleStepDefinition - Plasma Specimen Number: BLP2003652742: Generated
+[INFO ] 2023-01-03 13:53:18.439 [main] NurseModuleStepDefinition - Serum Specimen Number: BLS2000720840: Generated
+[INFO ] 2023-01-03 13:53:18.451 [main] NurseModuleStepDefinition - Whole Blood Specimen Number: WBL2026865091: Generated
+[INFO ] 2023-01-03 13:53:20.941 [main] NurseModuleStepDefinition - Speciman Collected Successfully
+[INFO ] 2023-01-03 13:53:20.965 [main] NurseModuleStepDefinition - Vaccination: 
+[INFO ] 2023-01-03 13:53:25.139 [main] NurseModuleStepDefinition - Nurse Module Feedback collected successfully
+[INFO ] 2023-01-03 13:53:31.145 [main] NurseModuleStepDefinition - Sample Outgoing
+[INFO ] 2023-01-03 13:53:39.844 [main] NurseModuleStepDefinition - Plasma Specimen Number: BLP2003652742
+[INFO ] 2023-01-03 13:53:39.845 [main] NurseModuleStepDefinition - Serum Specimen Number: BLS2000720840
+[INFO ] 2023-01-03 13:53:39.845 [main] NurseModuleStepDefinition - Whole Blood Specimen Number: WBL2026865091
+[INFO ] 2023-01-03 13:53:39.846 [main] NurseModuleStepDefinition - Scan Specimen Number
+[INFO ] 2023-01-03 13:53:42.409 [main] NurseModuleStepDefinition - Successfully scan the Plasma Specimen Number: BLP2003652742
+[INFO ] 2023-01-03 13:53:44.547 [main] NurseModuleStepDefinition - Successfully scan the Serum Specimen Number: BLS2000720840
+[INFO ] 2023-01-03 13:53:46.683 [main] NurseModuleStepDefinition - Suceessfully scan the Whole Blood Specimen Number: WBL2026865091
+[INFO ] 2023-01-03 13:53:46.685 [main] NurseModuleStepDefinition - Lab Technician and GRO Information
+[INFO ] 2023-01-03 13:53:50.466 [main] NurseModuleStepDefinition - Lab Tech Name: Lab Technician Glossys
+[INFO ] 2023-01-03 13:53:52.341 [main] NurseModuleStepDefinition - GRO Name: GRO Glossys
+[INFO ] 2023-01-03 13:53:53.518 [main] NurseModuleStepDefinition -  Sample's Sent to LAB successfully
+[INFO ] 2023-01-03 13:54:02.063 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-01-03 13:54:04.066 [main] NurseModuleStepDefinition - Nurse Runing Time:
+[INFO ] 2023-01-03 13:54:04.069 [main] CommonDefinition - Total Time Mints = Mints: 2 mints  14 seconds
+[INFO ] 2023-01-03 13:54:04.070 [main] CommonDefinition -  Total Time  Seconds = 134 seconds
+[INFO ] 2023-01-03 13:54:04.096 [main] GpModuleStepDefinition - Start Time  = 1672734244096
+[INFO ] 2023-01-03 13:54:05.225 [main] GpModuleStepDefinition - Username: venkat
+[INFO ] 2023-01-03 13:54:06.322 [main] GpModuleStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-01-03 13:54:07.405 [main] GpModuleStepDefinition - Stemz GP Module
+[INFO ] 2023-01-03 13:54:10.607 [main] GpModuleStepDefinition - Role Section: STEMZ GP
+[INFO ] 2023-01-03 13:54:19.011 [main] GpModuleStepDefinition - Choose The Counter Is: 
+[INFO ] 2023-01-03 13:54:30.253 [main] NurseTokenVerify - Nurse Module Token : NND010
+[INFO ] 2023-01-03 13:54:30.255 [main] NurseTokenVerify - Token Lenght For Nurse String : 10
+[INFO ] 2023-01-03 13:54:30.255 [main] NurseTokenVerify -  Nurse Current Token Number Next Token In Last Two Number 10
+[INFO ] 2023-01-03 13:54:30.256 [main] NurseTokenVerify - Gro Token for String 10
+[INFO ] 2023-01-03 13:54:30.256 [main] NurseTokenVerify - Gro Token Last Two Number  In Int: 10
+[INFO ] 2023-01-03 13:54:31.407 [main] NurseTokenVerify - Successfully Verified The Token
+[INFO ] 2023-01-03 13:54:33.611 [main] GpModuleStepDefinition - Gp Consulation Process
+[INFO ] 2023-01-03 13:54:41.605 [main] GpModuleStepDefinition - Stemz Gp Assign The AbNormal Blood Pressure Value: 200
+[INFO ] 2023-01-03 13:54:42.476 [main] GpModuleStepDefinition - Stemz Gp Assign The AbNormal Systolic Pressure Value: 160
+[INFO ] 2023-01-03 13:54:43.477 [main] GpModuleStepDefinition - Consulation
+[INFO ] 2023-01-03 13:54:49.032 [main] GpModuleStepDefinition - Preset: Normal
+[INFO ] 2023-01-03 13:54:49.057 [main] GpModuleStepDefinition - CardiologyProblem
+[INFO ] 2023-01-03 13:55:02.433 [main] ExternalSpeciality - Successfully Cardilogy Referral Created
+[INFO ] 2023-01-03 13:55:02.434 [main] GpModuleStepDefinition - DeformityProblem
+[INFO ] 2023-01-03 13:55:18.537 [main] ExternalSpeciality - Successfully Deformity Referral Created
+[INFO ] 2023-01-03 13:55:20.564 [main] GpModuleStepDefinition - Medical History: No
+[INFO ] 2023-01-03 13:55:21.786 [main] GpModuleStepDefinition - Pervious Illness: No
+[INFO ] 2023-01-03 13:55:22.975 [main] GpModuleStepDefinition - Your Meals In Last 10 Hours: No
+[INFO ] 2023-01-03 13:55:24.170 [main] GpModuleStepDefinition - Psychiatric Or Neurological Disorder: No
+[INFO ] 2023-01-03 13:55:26.514 [main] GpModuleStepDefinition - Comments: Okay
+[INFO ] 2023-01-03 13:55:43.136 [main] GpModuleStepDefinition - Consultation details updated successfully
+[INFO ] 2023-01-03 13:55:50.701 [main] GpModuleStepDefinition - Stemz GP Feedback collected successfully
+[INFO ] 2023-01-03 13:56:04.217 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-01-03 13:56:06.220 [main] GpModuleStepDefinition - Stemz Gp Run Time : 
+[INFO ] 2023-01-03 13:56:06.221 [main] CommonDefinition - Total Time Mints = Mints: 2 mints  2 seconds
+[INFO ] 2023-01-03 13:56:06.222 [main] CommonDefinition -  Total Time  Seconds = 122 seconds
+[INFO ] 2023-01-03 13:56:06.223 [main] GpModuleStepDefinition - 92558
+[INFO ] 2023-01-03 13:56:06.224 [main] GpModuleStepDefinition - 134728
+[INFO ] 2023-01-03 13:56:06.225 [main] GpModuleStepDefinition - Female Applicant & Pregnant :Maybe
+[INFO ] 2023-01-03 13:56:06.240 [main] LabJuniorStepDefinition - Start Time  = 1672734366240
+[INFO ] 2023-01-03 13:56:10.548 [main] LabJuniorStepDefinition - Lab Junior Module
+[INFO ] 2023-01-03 13:56:13.748 [main] LabJuniorStepDefinition - Role Section: Lab Junior
+[INFO ] 2023-01-03 13:56:19.072 [main] LabJuniorStepDefinition - Specimen Inscan Process
+[INFO ] 2023-01-03 13:56:35.324 [main] LabJuniorStepDefinition - Plasma Specimen Number: BLP2003652742
+[INFO ] 2023-01-03 13:56:36.103 [main] LabJuniorStepDefinition - Successfully Scan Plasma Specimen Number
+[INFO ] 2023-01-03 13:56:38.469 [main] LabJuniorStepDefinition - Serum Specimen Number: BLS2000720840
+[INFO ] 2023-01-03 13:56:39.144 [main] LabJuniorStepDefinition - Successfully Scan Serum Specimen Number
+[INFO ] 2023-01-03 13:56:41.479 [main] LabJuniorStepDefinition - Whole Blood Specimen Number: WBL2026865091
+[INFO ] 2023-01-03 13:56:42.244 [main] LabJuniorStepDefinition - Successfully Scan Whole Blood Number
+[INFO ] 2023-01-03 13:56:43.360 [main] LabJuniorStepDefinition - Lab ID: 1061
+[INFO ] 2023-01-03 13:56:47.063 [main] LabJuniorStepDefinition - Specimen inscan details saved successfully
+[INFO ] 2023-01-03 13:56:47.064 [main] LabJuniorStepDefinition - Lab Work List
+[INFO ] 2023-01-03 13:56:47.065 [main] LabJuniorStepDefinition - Gender Type: Female
+[INFO ] 2023-01-03 13:57:09.692 [main] LabJuniorWorkList - Haemoglobin: 11
+[INFO ] 2023-01-03 13:57:16.491 [main] LabJuniorWorkList - Blood Group: O Positive
+[INFO ] 2023-01-03 13:57:23.125 [main] LabJuniorWorkList - HIV: Negative
+[INFO ] 2023-01-03 13:57:29.702 [main] LabJuniorWorkList - Anti HCV: Negative
+[INFO ] 2023-01-03 13:57:34.363 [main] LabJuniorWorkList - HBsAg: Negative
+[INFO ] 2023-01-03 13:57:37.827 [main] LabJuniorWorkList - SGOT: 22
+[INFO ] 2023-01-03 13:57:41.249 [main] LabJuniorWorkList - SGPT: 44
+[INFO ] 2023-01-03 13:57:47.776 [main] LabJuniorWorkList - Creatinine: 1
+[INFO ] 2023-01-03 13:57:52.372 [main] LabJuniorWorkList - RPR: NonReactive
+[INFO ] 2023-01-03 13:57:56.996 [main] LabJuniorWorkList - BEta HC: Negative
+[INFO ] 2023-01-03 13:57:59.278 [main] LabJuniorWorkList - Glucose: 80
+[INFO ] 2023-01-03 13:58:03.710 [main] LabJuniorWorkList - Result submitted for authorization successfully
+[INFO ] 2023-01-03 13:58:15.343 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-01-03 13:58:17.358 [main] LabJuniorStepDefinition - Lab Junior Runing Time:
+[INFO ] 2023-01-03 13:58:17.360 [main] CommonDefinition - Total Time Mints = Mints: 2 mints  11 seconds
+[INFO ] 2023-01-03 13:58:17.361 [main] CommonDefinition -  Total Time  Seconds = 131 seconds
+[INFO ] 2023-01-03 13:58:17.403 [main] LabSeniorStepDefinition - Start Time  = 1672734497403
+[INFO ] 2023-01-03 13:58:21.672 [main] LabSeniorStepDefinition - Lab Senior Module
+[INFO ] 2023-01-03 13:58:24.881 [main] LabSeniorStepDefinition - Role Section: Lab Senior
+[INFO ] 2023-01-03 13:58:31.200 [main] LabSeniorStepDefinition - Result Entry Review
+[INFO ] 2023-01-03 13:58:37.106 [main] LabSeniorStepDefinition - Lab ID: 1061
+[INFO ] 2023-01-03 13:58:50.465 [main] LabSeniorStepDefinition - Lab Senior First Review
+[INFO ] 2023-01-03 13:58:50.466 [main] LabSeniorStepDefinition - Gender Type: Female
+[INFO ] 2023-01-03 13:58:51.593 [main] LabSeniorStepDefinition - Haemoglobin: 11 = Reviewed
+[INFO ] 2023-01-03 13:58:52.231 [main] LabSeniorStepDefinition - Blood Group: O Positive = Reviewed
+[INFO ] 2023-01-03 13:58:52.924 [main] LabSeniorStepDefinition - HIV: Negative = Reviewed
+[INFO ] 2023-01-03 13:58:53.553 [main] LabSeniorStepDefinition - Anti HCV: Negative = Reviewed
+[INFO ] 2023-01-03 13:58:54.221 [main] LabSeniorStepDefinition - HBsAg: Negative = Reviewed
+[INFO ] 2023-01-03 13:58:54.908 [main] LabSeniorStepDefinition - SGOT: 22 = Reviewed
+[INFO ] 2023-01-03 13:58:57.275 [main] LabSeniorStepDefinition - SGPT: 44 = Reviewed
+[INFO ] 2023-01-03 13:58:57.941 [main] LabSeniorStepDefinition - Creatinine: 1 = Reviewed
+[INFO ] 2023-01-03 13:58:58.625 [main] LabSeniorStepDefinition - RPR: NonReactive = Reviewed
+[INFO ] 2023-01-03 13:58:59.301 [main] LabSeniorStepDefinition - BEta HC: Negative = Reviewed
+[INFO ] 2023-01-03 13:59:00.134 [main] LabSeniorStepDefinition - Glucose: 80 = Reviewed
+[INFO ] 2023-01-03 13:59:01.592 [main] LabSeniorStepDefinition - Result submitted for authorization successfully
+[INFO ] 2023-01-03 13:59:08.167 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-01-03 13:59:10.172 [main] LabSeniorStepDefinition - Lab Senior Runing Time:
+[INFO ] 2023-01-03 13:59:10.173 [main] CommonDefinition - Total Time Mints = Mints: 0 mints  52 seconds
+[INFO ] 2023-01-03 13:59:10.174 [main] CommonDefinition -  Total Time  Seconds = 52 seconds
+[INFO ] 2023-01-03 13:59:10.209 [main] LabSupervisorStepDefinition - Start Time  = 1672734550209
+[INFO ] 2023-01-03 13:59:14.616 [main] LabSupervisorStepDefinition - Lab Supervisor Module
+[INFO ] 2023-01-03 13:59:18.112 [main] LabSupervisorStepDefinition - Role Section: Lab Supervisor
+[INFO ] 2023-01-03 13:59:23.411 [main] LabSupervisorStepDefinition - Pathalogist Worklist :
+[INFO ] 2023-01-03 13:59:29.088 [main] LabSupervisorStepDefinition - Lab ID: 1061
+[INFO ] 2023-01-03 13:59:38.700 [main] LabSupervisorStepDefinition - Result Entry :
+[INFO ] 2023-01-03 13:59:39.718 [main] LabSupervisorStepDefinition - Lab Supervisor Authorize in Result Entry :
+[INFO ] 2023-01-03 13:59:39.720 [main] LabSupervisorStepDefinition - Gender Type: Female
+[INFO ] 2023-01-03 13:59:39.721 [main] LabSupervisorStepDefinition - Hemoglobin: 11 = Authorized
+[INFO ] 2023-01-03 13:59:39.722 [main] LabSupervisorStepDefinition - Blood Group: O Positive = Authorized
+[INFO ] 2023-01-03 13:59:39.723 [main] LabSupervisorStepDefinition - HIV: Negative = Authorized
+[INFO ] 2023-01-03 13:59:39.724 [main] LabSupervisorStepDefinition - Anti HCV: Negative = Authorized
+[INFO ] 2023-01-03 13:59:39.725 [main] LabSupervisorStepDefinition - HBsAg: Negative = Authorized
+[INFO ] 2023-01-03 13:59:41.752 [main] LabSupervisorStepDefinition - SGOT: 22 = Authorized
+[INFO ] 2023-01-03 13:59:41.754 [main] LabSupervisorStepDefinition - SGPT: 44 = Authorized
+[INFO ] 2023-01-03 13:59:41.755 [main] LabSupervisorStepDefinition - Creatinine: 1 = Authorized
+[INFO ] 2023-01-03 13:59:41.756 [main] LabSupervisorStepDefinition - RPR: NonReactive = Authorized
+[INFO ] 2023-01-03 13:59:41.756 [main] LabSupervisorStepDefinition - BEta HC: Negative = Authorized
+[INFO ] 2023-01-03 13:59:41.757 [main] LabSupervisorStepDefinition - Glucose: 80 = Authorized
+[INFO ] 2023-01-03 13:59:44.970 [main] LabSupervisorStepDefinition - Results authorized successfully!
+[INFO ] 2023-01-03 13:59:51.852 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-01-03 13:59:53.981 [main] LabSupervisorStepDefinition - Log out For Supervisor
+[INFO ] 2023-01-03 13:59:53.983 [main] LabSupervisorStepDefinition - Lab Supervisor Runing Time:
+[INFO ] 2023-01-03 13:59:53.984 [main] CommonDefinition - Total Time Mints = Mints: 0 mints  43 seconds
+[INFO ] 2023-01-03 13:59:53.985 [main] CommonDefinition -  Total Time  Seconds = 43 seconds
+[INFO ] 2023-01-03 14:00:02.613 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-01-03 14:00:16.094 [main] GROStepDefinition - Choose The Counter is: MA Counter 01
+[ERROR] 2023-01-03 14:00:16.410 [main] GROStepDefinition - New Counter is  available please add this counter  : MA Counter 01
+[INFO ] 2023-01-03 14:00:18.046 [main] GROStepDefinition - Signed into the counter successfully
+[INFO ] 2023-01-03 14:00:24.457 [main] UploadReferralLetter - Total Referral Count And Details : 5
+[INFO ] 2023-01-03 14:00:24.459 [main] UploadReferralLetter - How Many Referrals Details And Count : {SGOT : =0, Glucose : =0, Cardilogy : =1, Beta HCG=1, RPR : =0, Color Vision : =0, Stemz BP : =2, AntiHCV : =0, SGPT : =0, BMI : =0, HBsAg : =0, Deformatory : =1, HIV : =0, Xray=0, Creatinine : =0, Vision : =0, Hamoglobin : =0}
+[INFO ] 2023-01-03 14:00:29.499 [main] PrintReferralLetter - Print Referral Letter Page: 
+[INFO ] 2023-01-03 14:00:30.572 [main] PrintReferralLetter - Referral: External Speciality
+Speciality: Cardiology, Orthopedic, General Medicine, Blood pressure Check, Gynaecology
+[INFO ] 2023-01-03 14:00:31.646 [main] PrintReferralLetter - Document Type: Cardiology
+[INFO ] 2023-01-03 14:00:37.044 [main] PrintReferralLetter - Cardiology Print Referral Letter saved Successfully
+[INFO ] 2023-01-03 14:00:37.113 [main] PrintReferralLetter - Document Type : Orthopedic
+[INFO ] 2023-01-03 14:00:41.511 [main] PrintReferralLetter - Orthopedic Print Referral Letter saved Successfully
+[INFO ] 2023-01-03 14:00:42.580 [main] PrintReferralLetter - Document Type : General Medicine
+[INFO ] 2023-01-03 14:00:47.159 [main] PrintReferralLetter - General Medicine Print Referral Letter saved Successfully
+[INFO ] 2023-01-03 14:00:48.214 [main] PrintReferralLetter - Document Type : Blood pressure Check
+[INFO ] 2023-01-03 14:00:52.983 [main] PrintReferralLetter - Blood pressure Check Print Referral Letter saved Successfully
+[INFO ] 2023-01-03 14:00:56.037 [main] PrintReferralLetter - Document Type : Gynaecology
+[INFO ] 2023-01-03 14:01:00.694 [main] PrintReferralLetter - Gynaecology Print Referral Letter saved Successfully
+[INFO ] 2023-01-03 14:01:08.340 [main] UploadReferralLetter - Referral: External Speciality
+Speciality: Cardiology, Orthopedic, General Medicine, Blood pressure Check, Gynaecology
+[INFO ] 2023-01-03 14:01:12.412 [main] UploadReferralLetter - Upload Referral Count : 5
+[INFO ] 2023-01-03 14:01:12.413 [main] UploadReferralLetter - Upload Referral Letter Page :
+[INFO ] 2023-01-03 14:01:13.450 [main] UploadReferralLetter - Document Type : Cardiology
+[INFO ] 2023-01-03 14:01:34.810 [main] UploadReferralLetter - Cardiology document uploaded successfully
+[INFO ] 2023-01-03 14:01:37.883 [main] UploadReferralLetter - Document Type : Orthopedic
+[INFO ] 2023-01-03 14:02:00.065 [main] UploadReferralLetter - Orthopedic document uploaded successfully
+[INFO ] 2023-01-03 14:02:03.145 [main] UploadReferralLetter - Document Type : General Medicine
+[INFO ] 2023-01-03 14:02:24.592 [main] UploadReferralLetter - General Medicine document uploaded successfully
+[INFO ] 2023-01-03 14:02:27.684 [main] UploadReferralLetter - Document Type : General Medicine
+[INFO ] 2023-01-03 14:02:45.097 [main] UploadReferralLetter - General Medicine document uploaded successfully
+[INFO ] 2023-01-03 14:02:48.178 [main] UploadReferralLetter - Document Type : Gynaecology
+[INFO ] 2023-01-03 14:03:10.470 [main] UploadReferralLetter - Gynaecology document uploaded successfully
+[INFO ] 2023-01-03 14:03:17.956 [main] PrintReceipt - Total Referral Count : 5
+[INFO ] 2023-01-03 14:03:18.012 [main] PrintReceipt - Print Receipt Name : Cardiology
+[INFO ] 2023-01-03 14:03:18.040 [main] PrintReceipt - Print Receipt Name : Orthopedic
+[INFO ] 2023-01-03 14:03:18.069 [main] PrintReceipt - Print Receipt Name : Blood pressure Check
+[INFO ] 2023-01-03 14:03:18.096 [main] PrintReceipt - Print Receipt Name : General Medicine
+[INFO ] 2023-01-03 14:03:18.125 [main] PrintReceipt - Print Receipt Name : Gynaecology
+[INFO ] 2023-01-03 14:03:31.491 [main] PrintReceipt - GRO Refferral Token :    Token no (ND012) generated successfully
+[INFO ] 2023-01-03 14:03:34.848 [main] PrintReceipt - Collected Feedback Successfully
+[INFO ] 2023-01-03 14:03:43.767 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-01-03 14:03:45.786 [main] StemzGPCertificatePage - Referrals : {BMI : =false, Cardilogy : =true, Beta HCG=true, Deformatory : =true, Color Vision : =false, Vision : =false, BP : =true}
+[INFO ] 2023-01-03 14:03:55.302 [main] GpModuleStepDefinition - Role Section: STEMZ GP
+[INFO ] 2023-01-03 14:04:03.698 [main] GpModuleStepDefinition - Choose The Counter Is: 
+[INFO ] 2023-01-03 14:04:13.897 [main] StemzGPCertificatePage - Physician Worklist : 
+[INFO ] 2023-01-03 14:04:20.081 [main] StemzGPCertificatePage - Referral to be Reported
+[INFO ] 2023-01-03 14:04:36.130 [main] StemzGPCertificatePage - Referral Document : 
+[INFO ] 2023-01-03 14:04:36.191 [main] StemzGPCertificatePage - Total Referral Count :5
+[INFO ] 2023-01-03 14:04:57.987 [main] StemzGPCertificatePage - Assigned to Central GP successfully!
+[INFO ] 2023-01-03 14:05:04.470 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-01-03 14:05:15.985 [main] CentralGp - Role Section: Central GP
+[INFO ] 2023-01-03 14:05:23.951 [main] CentralGp - Central GP Worklist : 
+[INFO ] 2023-01-03 14:32:03.142 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-01-03 14:32:06.270 [main] GpModuleStepDefinition - Start Time  = 1672736526270
+[INFO ] 2023-01-03 14:32:07.329 [main] LabJuniorStepDefinition - Start Time  = 1672736527329
+[INFO ] 2023-01-03 14:32:09.607 [main] LabSeniorStepDefinition - Start Time  = 1672736529607
+[INFO ] 2023-01-03 14:32:11.661 [main] LabSupervisorStepDefinition - Start Time  = 1672736531661
+[INFO ] 2023-01-03 14:50:24.558 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-01-03 14:50:38.104 [main] GROStepDefinition - Start Time  = 1672737638104
+[INFO ] 2023-01-03 14:50:38.117 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-01-03 14:50:38.332 [main] GROStepDefinition - Username: venkat
+[INFO ] 2023-01-03 14:50:38.435 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-01-03 14:50:42.935 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-01-03 14:50:56.589 [main] GROStepDefinition - Choose The Counter is: MA Counter 01
+[ERROR] 2023-01-03 14:50:56.590 [main] GROStepDefinition - New Counter is  available please add this counter  : MA Counter 01
+[INFO ] 2023-01-03 14:50:58.340 [main] GROStepDefinition - Signed into the counter successfully
+[INFO ] 2023-01-03 14:51:02.611 [main] GROStepDefinition - Visa Number: 998090981181
+[INFO ] 2023-01-03 14:51:04.783 [main] GROStepDefinition - Biometric skip request sent successfully
+[INFO ] 2023-01-03 14:51:08.873 [main] GROStepDefinition - Patient Profile Page
+[INFO ] 2023-01-03 14:51:08.875 [main] GROStepDefinition - Personal Details: 
+[INFO ] 2023-01-03 14:51:08.876 [main] GROStepDefinition - Visa Gender Type: Female
+[INFO ] 2023-01-03 14:51:14.702 [main] GROStepDefinition - Applicant Believes Pregnant?: Maybe
+[INFO ] 2023-01-03 14:51:14.704 [main] GROStepDefinition - Successfully enter the Personal information details
+[INFO ] 2023-01-03 14:51:14.704 [main] GROStepDefinition - Communcation Details: 
+[INFO ] 2023-01-03 14:51:15.774 [main] GROStepDefinition - Country: Philippines
+[INFO ] 2023-01-03 14:51:18.099 [main] GROStepDefinition - Preferred Language to Speak: Tamil
+[INFO ] 2023-01-03 14:51:19.132 [main] GROStepDefinition - Preferred Language to Read: Tamil
+[INFO ] 2023-01-03 14:51:22.839 [main] GROStepDefinition - Preferred Location for Referral: Manila
+[INFO ] 2023-01-03 14:51:24.928 [main] GROStepDefinition - Preferred Hospital: Manilla Hospital
+[INFO ] 2023-01-03 14:51:24.929 [main] GROStepDefinition - Successfully enter The Communication Details
+[INFO ] 2023-01-03 14:51:24.930 [main] GROStepDefinition - Encounter Details: 
+[INFO ] 2023-01-03 14:51:28.276 [main] GROStepDefinition - SMS Alert Number: 9790000000
+[INFO ] 2023-01-03 14:51:28.349 [main] GROStepDefinition - Job Position : Pharmacist
+[INFO ] 2023-01-03 14:51:28.377 [main] GROStepDefinition - Is Job applicable of Driving: false
+[INFO ] 2023-01-03 14:51:28.378 [main] GROStepDefinition - Successfully enter The Encounter details
+[INFO ] 2023-01-03 14:51:38.513 [main] GROStepDefinition - APPLICANT CONSENT AND DECLARATION FORM
+[INFO ] 2023-01-03 14:51:38.514 [main] GROStepDefinition - Applicant Details Created Successflly
+[INFO ] 2023-01-03 14:51:38.516 [main] GROStepDefinition - Place Order Page
+[INFO ] 2023-01-03 14:51:38.548 [main] GROStepDefinition - Token Genarated :   Token no (NND015) generated successfully
+[INFO ] 2023-01-03 14:51:38.549 [main] GROStepDefinition - Visa Gender Type: Female - MaybeXray Page Not Allowed
+[INFO ] 2023-01-03 14:51:38.550 [main] GROStepDefinition - Token : NND015
+[INFO ] 2023-01-03 14:51:43.747 [main] GROStepDefinition -  Generate Service Recipt
+[INFO ] 2023-01-03 14:51:43.750 [main] GROStepDefinition - Capture Identify Page:
+[INFO ] 2023-01-03 14:51:43.751 [main] GROStepDefinition - Vaccination Document Status Condition is: No
+[INFO ] 2023-01-03 14:51:43.752 [main] GROStepDefinition - Referral Document Status Condition is: No
+[INFO ] 2023-01-03 14:51:47.004 [main] GROStepDefinition - Applicant identity details updated successfully
+[INFO ] 2023-01-03 14:51:49.210 [main] GROStepDefinition - GRO Module Feedback Collected
+[INFO ] 2023-01-03 14:52:01.746 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-01-03 14:52:03.753 [main] GROStepDefinition - GRO Runing Time:
+[INFO ] 2023-01-03 14:52:03.755 [main] CommonDefinition - Total Time Mints = Mints: 1 mints  25 seconds
+[INFO ] 2023-01-03 14:52:03.756 [main] CommonDefinition -  Total Time  Seconds = 85 seconds
+[INFO ] 2023-01-03 14:52:06.899 [main] NurseModuleStepDefinition - Start Time  = 1672737723803
+[INFO ] 2023-01-03 14:52:08.045 [main] NurseModuleStepDefinition - Nurse Module
+[INFO ] 2023-01-03 14:52:13.356 [main] NurseModuleStepDefinition - Role Section: Nurse
+[INFO ] 2023-01-03 14:52:23.361 [main] NurseModuleStepDefinition - Choose The Counter Is: MA Counter 03
+[INFO ] 2023-01-03 14:52:33.847 [main] NurseTokenVerify - Nurse Module Token : NND015
+[INFO ] 2023-01-03 14:52:33.849 [main] NurseTokenVerify - Token Lenght For Nurse String : 15
+[INFO ] 2023-01-03 14:52:33.850 [main] NurseTokenVerify -  Nurse Current Token Number Next Token In Last Two Number 15
+[INFO ] 2023-01-03 14:52:33.851 [main] NurseTokenVerify - Gro Token for String 15
+[INFO ] 2023-01-03 14:52:33.851 [main] NurseTokenVerify - Gro Token Last Two Number  In Int: 15
+[INFO ] 2023-01-03 14:52:35.013 [main] NurseTokenVerify - Successfully Verified The Token
+[INFO ] 2023-01-03 14:52:37.181 [main] NurseModuleStepDefinition - Record Vitals:
+[INFO ] 2023-01-03 14:52:40.902 [main] NurseModuleStepDefinition - Height: 160
+[INFO ] 2023-01-03 14:52:41.149 [main] NurseModuleStepDefinition - Weight: 60
+[INFO ] 2023-01-03 14:52:42.663 [main] NurseModuleStepDefinition - Successfully enter the Body Mass Index
+[INFO ] 2023-01-03 14:52:45.560 [main] NurseModuleStepDefinition - Vision (R): 6/6
+[INFO ] 2023-01-03 14:52:48.453 [main] NurseModuleStepDefinition - Vision (L): 6/6
+[INFO ] 2023-01-03 14:52:48.454 [main] NurseModuleStepDefinition - Successfully enter the Vision Module
+[INFO ] 2023-01-03 14:52:50.464 [main] NurseModuleStepDefinition - Job Describtion : Pharmacist
+[INFO ] 2023-01-03 14:52:51.379 [main] NurseModuleStepDefinition - Nurse Assign The AbNormal Blood Pressure Value: 200
+[INFO ] 2023-01-03 14:52:52.215 [main] NurseModuleStepDefinition - Nurse Assign The AbNormal Systolic Pressure Value: 160
+[INFO ] 2023-01-03 14:52:53.469 [main] NurseModuleStepDefinition - Successfully enter the Other Module
+[INFO ] 2023-01-03 14:52:53.470 [main] NurseModuleStepDefinition - New applicant vitals details created successfully
+[INFO ] 2023-01-03 14:52:53.471 [main] NurseModuleStepDefinition - Speciman Genaration :
+[INFO ] 2023-01-03 14:52:56.770 [main] NurseModuleStepDefinition - Order ID : 3378
+[INFO ] 2023-01-03 14:52:56.772 [main] NurseModuleStepDefinition - Plasma Specimen Number: Yet to be Generated
+[INFO ] 2023-01-03 14:52:56.772 [main] NurseModuleStepDefinition - Serum Specimen Number: Yet to be Generated
+[INFO ] 2023-01-03 14:52:56.773 [main] NurseModuleStepDefinition - Whole Blood Specimen Number: Yet to be Generated
+[INFO ] 2023-01-03 14:53:13.022 [main] NurseModuleStepDefinition - Speciman Genarated Successfully
+[INFO ] 2023-01-03 14:53:13.023 [main] NurseModuleStepDefinition - Speciman Collection :
+[INFO ] 2023-01-03 14:53:14.672 [main] NurseModuleStepDefinition - Plasma Specimen Number: BLP2078116921: Generated
+[INFO ] 2023-01-03 14:53:14.673 [main] NurseModuleStepDefinition - Serum Specimen Number: BLS2091788352: Generated
+[INFO ] 2023-01-03 14:53:14.673 [main] NurseModuleStepDefinition - Whole Blood Specimen Number: WBL2083178815: Generated
+[INFO ] 2023-01-03 14:53:17.199 [main] NurseModuleStepDefinition - Speciman Collected Successfully
+[INFO ] 2023-01-03 14:53:17.200 [main] NurseModuleStepDefinition - Vaccination: 
+[INFO ] 2023-01-03 14:53:21.415 [main] NurseModuleStepDefinition - Nurse Module Feedback collected successfully
+[INFO ] 2023-01-03 14:53:27.425 [main] NurseModuleStepDefinition - Sample Outgoing
+[INFO ] 2023-01-03 14:53:36.135 [main] NurseModuleStepDefinition - Plasma Specimen Number: BLP2078116921
+[INFO ] 2023-01-03 14:53:36.136 [main] NurseModuleStepDefinition - Serum Specimen Number: BLS2091788352
+[INFO ] 2023-01-03 14:53:36.137 [main] NurseModuleStepDefinition - Whole Blood Specimen Number: WBL2083178815
+[INFO ] 2023-01-03 14:53:36.139 [main] NurseModuleStepDefinition - Scan Specimen Number
+[INFO ] 2023-01-03 14:53:38.741 [main] NurseModuleStepDefinition - Successfully scan the Plasma Specimen Number: BLP2078116921
+[INFO ] 2023-01-03 14:53:40.951 [main] NurseModuleStepDefinition - Successfully scan the Serum Specimen Number: BLS2091788352
+[INFO ] 2023-01-03 14:53:43.208 [main] NurseModuleStepDefinition - Suceessfully scan the Whole Blood Specimen Number: WBL2083178815
+[INFO ] 2023-01-03 14:53:43.210 [main] NurseModuleStepDefinition - Lab Technician and GRO Information
+[INFO ] 2023-01-03 14:53:47.010 [main] NurseModuleStepDefinition - Lab Tech Name: Lab Technician Glossys
+[INFO ] 2023-01-03 14:53:48.909 [main] NurseModuleStepDefinition - GRO Name: GRO Glossys
+[INFO ] 2023-01-03 14:53:50.110 [main] NurseModuleStepDefinition -  Sample's Sent to LAB successfully
+[INFO ] 2023-01-03 14:53:58.765 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-01-03 14:54:00.782 [main] NurseModuleStepDefinition - Nurse Runing Time:
+[INFO ] 2023-01-03 14:54:00.783 [main] CommonDefinition - Total Time Mints = Mints: 1 mints  56 seconds
+[INFO ] 2023-01-03 14:54:00.784 [main] CommonDefinition -  Total Time  Seconds = 116 seconds
+[INFO ] 2023-01-03 14:54:00.819 [main] GpModuleStepDefinition - Start Time  = 1672737840819
+[INFO ] 2023-01-03 14:54:01.943 [main] GpModuleStepDefinition - Username: venkat
+[INFO ] 2023-01-03 14:54:03.040 [main] GpModuleStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-01-03 14:54:04.131 [main] GpModuleStepDefinition - Stemz GP Module
+[INFO ] 2023-01-03 14:54:07.344 [main] GpModuleStepDefinition - Role Section: STEMZ GP
+[INFO ] 2023-01-03 14:54:15.782 [main] GpModuleStepDefinition - Choose The Counter Is: 
+[INFO ] 2023-01-03 14:54:26.958 [main] NurseTokenVerify - Nurse Module Token : ND012
+[INFO ] 2023-01-03 14:54:26.960 [main] NurseTokenVerify - Token Lenght For Nurse String : 12
+[INFO ] 2023-01-03 14:54:26.962 [main] NurseTokenVerify -  Nurse Current Token Number Next Token In Last Two Number 12
+[INFO ] 2023-01-03 14:54:26.964 [main] NurseTokenVerify - Gro Token for String 15
+[INFO ] 2023-01-03 14:54:26.966 [main] NurseTokenVerify - Gro Token Last Two Number  In Int: 15
+[INFO ] 2023-01-03 14:54:26.967 [main] NurseTokenVerify - Nurse Token : 12 -- Gro Token  :15
+[INFO ] 2023-01-03 14:54:35.123 [main] NurseTokenVerify - Nurse Module  Loop Token : NND015
+[INFO ] 2023-01-03 14:54:35.125 [main] NurseTokenVerify - Get The Loop Next Token For Nurse  15
+[INFO ] 2023-01-03 14:54:35.126 [main] NurseTokenVerify - Nurse Token : 15-- Gro Token  :15
+[INFO ] 2023-01-03 14:54:36.388 [main] NurseTokenVerify - Successfully Verified The Token
+[INFO ] 2023-01-03 14:54:38.541 [main] GpModuleStepDefinition - Gp Consulation Process
+[INFO ] 2023-01-03 14:54:46.052 [main] GpModuleStepDefinition - Stemz Gp Assign The AbNormal Blood Pressure Value: 200
+[INFO ] 2023-01-03 14:54:46.964 [main] GpModuleStepDefinition - Stemz Gp Assign The AbNormal Systolic Pressure Value: 160
+[INFO ] 2023-01-03 14:54:47.974 [main] GpModuleStepDefinition - Consulation
+[INFO ] 2023-01-03 14:54:54.025 [main] GpModuleStepDefinition - Preset: Normal
+[INFO ] 2023-01-03 14:54:56.040 [main] GpModuleStepDefinition - Medical History: No
+[INFO ] 2023-01-03 14:54:57.147 [main] GpModuleStepDefinition - Pervious Illness: No
+[INFO ] 2023-01-03 14:54:58.421 [main] GpModuleStepDefinition - Your Meals In Last 10 Hours: No
+[INFO ] 2023-01-03 14:54:59.547 [main] GpModuleStepDefinition - Psychiatric Or Neurological Disorder: No
+[INFO ] 2023-01-03 14:55:01.925 [main] GpModuleStepDefinition - Comments: Okay
+[INFO ] 2023-01-03 14:55:04.619 [main] LabJuniorStepDefinition - Start Time  = 1672737904619
+[INFO ] 2023-01-03 14:55:16.674 [main] LabJuniorStepDefinition - Lab Junior Module
+[INFO ] 2023-01-03 14:55:19.918 [main] LabJuniorStepDefinition - Role Section: Lab Junior
+[INFO ] 2023-01-03 14:55:21.951 [main] LabSeniorStepDefinition - Start Time  = 1672737921951
+[INFO ] 2023-01-03 14:55:23.971 [main] LabSupervisorStepDefinition - Start Time  = 1672737923971
+[INFO ] 2023-01-03 15:00:40.339 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-01-03 15:00:53.623 [main] GROStepDefinition - Start Time  = 1672738253623
+[INFO ] 2023-01-03 15:00:53.884 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-01-03 15:00:54.047 [main] GROStepDefinition - Username: venkat
+[INFO ] 2023-01-03 15:00:54.141 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-01-03 15:00:58.644 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-01-03 15:01:35.306 [main] GpModuleStepDefinition - Start Time  = 1672738295306
+[INFO ] 2023-01-03 15:01:40.637 [main] LabJuniorStepDefinition - Start Time  = 1672738300637
+[INFO ] 2023-01-03 15:01:42.695 [main] LabSeniorStepDefinition - Start Time  = 1672738302695
+[INFO ] 2023-01-03 15:01:44.799 [main] LabSupervisorStepDefinition - Start Time  = 1672738304799
+[INFO ] 2023-01-03 15:04:30.709 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-01-03 15:04:35.359 [main] GROStepDefinition - Start Time  = 1672738475359
+[INFO ] 2023-01-03 15:04:35.373 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-01-03 15:04:35.489 [main] GROStepDefinition - Username: venkat
+[INFO ] 2023-01-03 15:04:35.579 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-01-03 15:04:40.113 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-01-03 15:04:52.708 [main] GROStepDefinition - Choose The Counter is: Counter - 01
+[INFO ] 2023-01-03 15:04:54.338 [main] GROStepDefinition - Signed into the counter successfully
+[INFO ] 2023-01-03 15:04:58.621 [main] GROStepDefinition - Visa Number: 998090981183
+[INFO ] 2023-01-03 15:05:00.741 [main] GROStepDefinition - Biometric skip request sent successfully
+[INFO ] 2023-01-03 15:05:04.808 [main] GROStepDefinition - Patient Profile Page
+[INFO ] 2023-01-03 15:05:04.808 [main] GROStepDefinition - Personal Details: 
+[INFO ] 2023-01-03 15:05:04.808 [main] GROStepDefinition - Visa Gender Type: Female
+[INFO ] 2023-01-03 15:05:10.768 [main] GROStepDefinition - Applicant Believes Pregnant?: Maybe
+[INFO ] 2023-01-03 15:05:10.768 [main] GROStepDefinition - Successfully enter the Personal information details
+[INFO ] 2023-01-03 15:05:10.768 [main] GROStepDefinition - Communcation Details: 
+[INFO ] 2023-01-03 15:05:11.826 [main] GROStepDefinition - Country: India
+[INFO ] 2023-01-03 15:05:14.195 [main] GROStepDefinition - Preferred Language to Speak: Tamil
+[INFO ] 2023-01-03 15:05:15.273 [main] GROStepDefinition - Preferred Language to Read: Tamil
+[INFO ] 2023-01-03 15:05:18.850 [main] GROStepDefinition - Preferred Location for Referral: Chennai
+[INFO ] 2023-01-03 15:05:20.925 [main] GROStepDefinition - Preferred Hospital: Apollo Hospital
+[INFO ] 2023-01-03 15:05:20.927 [main] GROStepDefinition - Successfully enter The Communication Details
+[INFO ] 2023-01-03 15:05:20.928 [main] GROStepDefinition - Encounter Details: 
+[INFO ] 2023-01-03 15:05:24.125 [main] GROStepDefinition - SMS Alert Number: 9790000000
+[INFO ] 2023-01-03 15:05:24.155 [main] GROStepDefinition - Job Position : Pharmacist
+[INFO ] 2023-01-03 15:05:24.181 [main] GROStepDefinition - Is Job applicable of Driving: false
+[INFO ] 2023-01-03 15:05:24.183 [main] GROStepDefinition - Successfully enter The Encounter details
+[INFO ] 2023-01-03 15:05:41.107 [main] GROStepDefinition - APPLICANT CONSENT AND DECLARATION FORM
+[INFO ] 2023-01-03 15:05:41.109 [main] GROStepDefinition - Applicant Details Created Successflly
+[INFO ] 2023-01-03 15:05:41.110 [main] GROStepDefinition - Place Order Page
+[INFO ] 2023-01-03 15:05:41.198 [main] GROStepDefinition - Token Genarated :   Token no (NND024) generated successfully
+[INFO ] 2023-01-03 15:05:41.211 [main] GROStepDefinition - Visa Gender Type: Female - MaybeXray Page Not Allowed
+[INFO ] 2023-01-03 15:05:41.233 [main] GROStepDefinition - Token : NND024
+[INFO ] 2023-01-03 15:05:46.436 [main] GROStepDefinition -  Generate Service Recipt
+[INFO ] 2023-01-03 15:05:46.456 [main] GROStepDefinition - Capture Identify Page:
+[INFO ] 2023-01-03 15:05:46.457 [main] GROStepDefinition - Vaccination Document Status Condition is: No
+[INFO ] 2023-01-03 15:05:46.457 [main] GROStepDefinition - Referral Document Status Condition is: No
+[INFO ] 2023-01-03 15:05:49.610 [main] GROStepDefinition - Applicant identity details updated successfully
+[INFO ] 2023-01-03 15:05:51.706 [main] GROStepDefinition - GRO Module Feedback Collected
+[INFO ] 2023-01-03 15:06:04.117 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-01-03 15:06:06.123 [main] GROStepDefinition - GRO Runing Time:
+[INFO ] 2023-01-03 15:06:06.124 [main] CommonDefinition - Total Time Mints = Mints: 1 mints  30 seconds
+[INFO ] 2023-01-03 15:06:06.124 [main] CommonDefinition -  Total Time  Seconds = 90 seconds
+[INFO ] 2023-01-03 15:06:09.245 [main] NurseModuleStepDefinition - Start Time  = 1672738566149
+[INFO ] 2023-01-03 15:06:10.386 [main] NurseModuleStepDefinition - Nurse Module
+[INFO ] 2023-01-03 15:06:15.541 [main] NurseModuleStepDefinition - Role Section: Nurse
+[INFO ] 2023-01-03 15:06:24.377 [main] NurseModuleStepDefinition - Choose The Counter Is: Male Nurse Room counter 2
+[INFO ] 2023-01-03 15:06:34.701 [main] NurseTokenVerify - Nurse Module Token : NND003
+[INFO ] 2023-01-03 15:06:34.703 [main] NurseTokenVerify - Token Lenght For Nurse String : 03
+[INFO ] 2023-01-03 15:06:34.703 [main] NurseTokenVerify -  Nurse Current Token Number Next Token In Last Two Number 3
+[INFO ] 2023-01-03 15:06:34.703 [main] NurseTokenVerify - Gro Token for String 24
+[INFO ] 2023-01-03 15:06:34.704 [main] NurseTokenVerify - Gro Token Last Two Number  In Int: 24
+[INFO ] 2023-01-03 15:06:34.705 [main] NurseTokenVerify - Nurse Token : 3 -- Gro Token  :24
+[INFO ] 2023-01-03 15:06:42.627 [main] NurseTokenVerify - Nurse Module  Loop Token : VNDX014
+[INFO ] 2023-01-03 15:06:42.688 [main] NurseTokenVerify - Get The Loop Next Token For Nurse  14
+[INFO ] 2023-01-03 15:06:42.690 [main] NurseTokenVerify - Nurse Token : 14-- Gro Token  :24
+[INFO ] 2023-01-03 15:06:50.550 [main] NurseTokenVerify - Nurse Module  Loop Token : VNDX015
+[INFO ] 2023-01-03 15:06:50.552 [main] NurseTokenVerify - Get The Loop Next Token For Nurse  15
+[INFO ] 2023-01-03 15:06:50.554 [main] NurseTokenVerify - Nurse Token : 15-- Gro Token  :24
+[INFO ] 2023-01-03 15:06:58.382 [main] NurseTokenVerify - Nurse Module  Loop Token : NNDX007
+[INFO ] 2023-01-03 15:06:58.383 [main] NurseTokenVerify - Get The Loop Next Token For Nurse  7
+[INFO ] 2023-01-03 15:06:58.383 [main] NurseTokenVerify - Nurse Token : 7-- Gro Token  :24
+[INFO ] 2023-01-03 15:07:06.241 [main] NurseTokenVerify - Nurse Module  Loop Token : NNDX013
+[INFO ] 2023-01-03 15:07:06.558 [main] NurseTokenVerify - Get The Loop Next Token For Nurse  13
+[INFO ] 2023-01-03 15:07:06.605 [main] NurseTokenVerify - Nurse Token : 13-- Gro Token  :24
+[INFO ] 2023-01-03 15:07:14.464 [main] NurseTokenVerify - Nurse Module  Loop Token : NNDX022
+[INFO ] 2023-01-03 15:07:14.466 [main] NurseTokenVerify - Get The Loop Next Token For Nurse  22
+[INFO ] 2023-01-03 15:07:14.466 [main] NurseTokenVerify - Nurse Token : 22-- Gro Token  :24
+[INFO ] 2023-01-03 15:07:22.309 [main] NurseTokenVerify - Nurse Module  Loop Token : NND024
+[INFO ] 2023-01-03 15:07:22.311 [main] NurseTokenVerify - Get The Loop Next Token For Nurse  24
+[INFO ] 2023-01-03 15:07:22.311 [main] NurseTokenVerify - Nurse Token : 24-- Gro Token  :24
+[INFO ] 2023-01-03 15:07:23.398 [main] NurseTokenVerify - Successfully Verified The Token
+[INFO ] 2023-01-03 15:07:25.528 [main] NurseModuleStepDefinition - Record Vitals:
+[INFO ] 2023-01-03 15:07:29.158 [main] NurseModuleStepDefinition -  Ab Noraml Height: 200
+[INFO ] 2023-01-03 15:07:29.500 [main] NurseModuleStepDefinition - Ab Normal Weight: 200
+[INFO ] 2023-01-03 15:07:31.005 [main] NurseModuleStepDefinition - Successfully enter the Body Mass Index
+[INFO ] 2023-01-03 15:07:35.522 [main] NurseModuleStepDefinition - AbNormal Vision (R): 6/36
+[INFO ] 2023-01-03 15:07:37.979 [main] NurseModuleStepDefinition - AbNormal Vision (L): 6/36
+[INFO ] 2023-01-03 15:07:37.981 [main] NurseModuleStepDefinition - Successfully enter the Vision Module
+[INFO ] 2023-01-03 15:07:39.992 [main] NurseModuleStepDefinition - Job Describtion : Pharmacist
+[INFO ] 2023-01-03 15:07:40.799 [main] NurseModuleStepDefinition -  Nurse Assign The Systolic Pressure Value: 120
+[INFO ] 2023-01-03 15:07:41.603 [main] NurseModuleStepDefinition -  Nurse Assign The Diastolic Pressure Value: 80
+[INFO ] 2023-01-03 15:07:42.789 [main] NurseModuleStepDefinition - Successfully enter the Other Module
+[INFO ] 2023-01-03 15:07:42.790 [main] NurseModuleStepDefinition - New applicant vitals details created successfully
+[INFO ] 2023-01-03 15:07:42.791 [main] NurseModuleStepDefinition - Speciman Genaration :
+[INFO ] 2023-01-03 15:07:46.075 [main] NurseModuleStepDefinition - Order ID : 3379
+[INFO ] 2023-01-03 15:07:46.077 [main] NurseModuleStepDefinition - Plasma Specimen Number: Yet to be Generated
+[INFO ] 2023-01-03 15:07:46.077 [main] NurseModuleStepDefinition - Serum Specimen Number: Yet to be Generated
+[INFO ] 2023-01-03 15:07:46.078 [main] NurseModuleStepDefinition - Whole Blood Specimen Number: Yet to be Generated
+[INFO ] 2023-01-03 15:08:02.257 [main] NurseModuleStepDefinition - Speciman Genarated Successfully
+[INFO ] 2023-01-03 15:08:02.258 [main] NurseModuleStepDefinition - Speciman Collection :
+[INFO ] 2023-01-03 15:08:03.847 [main] NurseModuleStepDefinition - Plasma Specimen Number: BLP1480895738: Generated
+[INFO ] 2023-01-03 15:08:03.850 [main] NurseModuleStepDefinition - Serum Specimen Number: BLS1442315204: Generated
+[INFO ] 2023-01-03 15:08:03.851 [main] NurseModuleStepDefinition - Whole Blood Specimen Number: WBL1429074421: Generated
+[INFO ] 2023-01-03 15:08:06.281 [main] NurseModuleStepDefinition - Speciman Collected Successfully
+[INFO ] 2023-01-03 15:08:06.282 [main] NurseModuleStepDefinition - Vaccination: 
+[INFO ] 2023-01-03 15:08:10.434 [main] NurseModuleStepDefinition - Nurse Module Feedback collected successfully
+[INFO ] 2023-01-03 15:08:16.575 [main] NurseModuleStepDefinition - Sample Outgoing
+[INFO ] 2023-01-03 15:08:24.947 [main] NurseModuleStepDefinition - Plasma Specimen Number: BLP1480895738
+[INFO ] 2023-01-03 15:08:24.950 [main] NurseModuleStepDefinition - Serum Specimen Number: BLS1442315204
+[INFO ] 2023-01-03 15:08:24.950 [main] NurseModuleStepDefinition - Whole Blood Specimen Number: WBL1429074421
+[INFO ] 2023-01-03 15:08:24.951 [main] NurseModuleStepDefinition - Scan Specimen Number
+[INFO ] 2023-01-03 15:08:27.349 [main] NurseModuleStepDefinition - Successfully scan the Plasma Specimen Number: BLP1480895738
+[INFO ] 2023-01-03 15:08:29.480 [main] NurseModuleStepDefinition - Successfully scan the Serum Specimen Number: BLS1442315204
+[INFO ] 2023-01-03 15:08:31.599 [main] NurseModuleStepDefinition - Suceessfully scan the Whole Blood Specimen Number: WBL1429074421
+[INFO ] 2023-01-03 15:08:31.600 [main] NurseModuleStepDefinition - Lab Technician and GRO Information
+[INFO ] 2023-01-03 15:08:35.354 [main] NurseModuleStepDefinition - Lab Tech Name: Lab Technician Glossys
+[INFO ] 2023-01-03 15:08:37.091 [main] NurseModuleStepDefinition - GRO Name: GRO Glossys
+[INFO ] 2023-01-03 15:08:38.266 [main] NurseModuleStepDefinition -  Sample's Sent to LAB successfully
+[INFO ] 2023-01-03 15:08:46.676 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-01-03 15:08:48.691 [main] NurseModuleStepDefinition - Nurse Runing Time:
+[INFO ] 2023-01-03 15:08:48.692 [main] CommonDefinition - Total Time Mints = Mints: 2 mints  42 seconds
+[INFO ] 2023-01-03 15:08:48.692 [main] CommonDefinition -  Total Time  Seconds = 162 seconds
+[INFO ] 2023-01-03 15:08:48.702 [main] GpModuleStepDefinition - Start Time  = 1672738728702
+[INFO ] 2023-01-03 15:08:49.785 [main] GpModuleStepDefinition - Username: venkat
+[INFO ] 2023-01-03 15:08:50.880 [main] GpModuleStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-01-03 15:08:51.943 [main] GpModuleStepDefinition - Stemz GP Module
+[INFO ] 2023-01-03 15:08:55.109 [main] GpModuleStepDefinition - Role Section: STEMZ GP
+[INFO ] 2023-01-03 15:09:02.401 [main] GpModuleStepDefinition - Choose The Counter Is: 
+[INFO ] 2023-01-03 15:09:13.402 [main] NurseTokenVerify - Nurse Module Token : VD008
+[INFO ] 2023-01-03 15:09:13.403 [main] NurseTokenVerify - Token Lenght For Nurse String : 08
+[INFO ] 2023-01-03 15:09:13.403 [main] NurseTokenVerify -  Nurse Current Token Number Next Token In Last Two Number 8
+[INFO ] 2023-01-03 15:09:13.404 [main] NurseTokenVerify - Gro Token for String 24
+[INFO ] 2023-01-03 15:09:13.404 [main] NurseTokenVerify - Gro Token Last Two Number  In Int: 24
+[INFO ] 2023-01-03 15:09:13.405 [main] NurseTokenVerify - Nurse Token : 8 -- Gro Token  :24
+[INFO ] 2023-01-03 15:09:21.306 [main] NurseTokenVerify - Nurse Module  Loop Token : NND017
+[INFO ] 2023-01-03 15:09:21.307 [main] NurseTokenVerify - Get The Loop Next Token For Nurse  17
+[INFO ] 2023-01-03 15:09:21.307 [main] NurseTokenVerify - Nurse Token : 17-- Gro Token  :24
+[INFO ] 2023-01-03 15:09:29.166 [main] NurseTokenVerify - Nurse Module  Loop Token : NND024
+[INFO ] 2023-01-03 15:09:29.167 [main] NurseTokenVerify - Get The Loop Next Token For Nurse  24
+[INFO ] 2023-01-03 15:09:29.168 [main] NurseTokenVerify - Nurse Token : 24-- Gro Token  :24
+[INFO ] 2023-01-03 15:09:30.250 [main] NurseTokenVerify - Successfully Verified The Token
+[INFO ] 2023-01-03 15:09:32.401 [main] GpModuleStepDefinition - Gp Consulation Process
+[INFO ] 2023-01-03 15:09:42.281 [main] GpModuleStepDefinition - Stemz Gp Assign The AbNormal Blood Pressure Value: 120
+[INFO ] 2023-01-03 15:09:43.574 [main] GpModuleStepDefinition -  Stemz Gp Assign The Diastolic Pressure Value: 80
+[INFO ] 2023-01-03 15:09:44.587 [main] GpModuleStepDefinition - Consulation
+[INFO ] 2023-01-03 15:09:50.058 [main] GpModuleStepDefinition - Preset: Normal
+[INFO ] 2023-01-03 15:09:50.059 [main] GpModuleStepDefinition - CardiologyProblem
+[INFO ] 2023-01-03 15:10:03.256 [main] ExternalSpeciality - Successfully Cardilogy Referral Created
+[INFO ] 2023-01-03 15:10:03.258 [main] GpModuleStepDefinition - DeformityProblem
+[INFO ] 2023-01-03 15:10:19.306 [main] ExternalSpeciality - Successfully Deformity Referral Created
+[INFO ] 2023-01-03 15:10:21.329 [main] GpModuleStepDefinition - Medical History: No
+[INFO ] 2023-01-03 15:10:22.508 [main] GpModuleStepDefinition - Pervious Illness: No
+[INFO ] 2023-01-03 15:10:23.655 [main] GpModuleStepDefinition - Your Meals In Last 10 Hours: No
+[INFO ] 2023-01-03 15:10:24.791 [main] GpModuleStepDefinition - Psychiatric Or Neurological Disorder: No
+[INFO ] 2023-01-03 15:10:27.127 [main] GpModuleStepDefinition - Comments: Okay
+[INFO ] 2023-01-03 15:10:43.598 [main] GpModuleStepDefinition - Consultation details updated successfully
+[INFO ] 2023-01-03 15:10:51.076 [main] GpModuleStepDefinition - Stemz GP Feedback collected successfully
+[INFO ] 2023-01-03 15:11:04.516 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-01-03 15:11:06.520 [main] GpModuleStepDefinition - Stemz Gp Run Time : 
+[INFO ] 2023-01-03 15:11:06.522 [main] CommonDefinition - Total Time Mints = Mints: 2 mints  17 seconds
+[INFO ] 2023-01-03 15:11:06.523 [main] CommonDefinition -  Total Time  Seconds = 137 seconds
+[INFO ] 2023-01-03 15:11:06.525 [main] GpModuleStepDefinition - 90764
+[INFO ] 2023-01-03 15:11:06.525 [main] GpModuleStepDefinition - 162542
+[INFO ] 2023-01-03 15:11:06.525 [main] GpModuleStepDefinition - Female Applicant & Pregnant :Maybe
+[INFO ] 2023-01-03 15:11:06.534 [main] LabJuniorStepDefinition - Start Time  = 1672738866534
+[INFO ] 2023-01-03 15:11:10.746 [main] LabJuniorStepDefinition - Lab Junior Module
+[INFO ] 2023-01-03 15:11:13.905 [main] LabJuniorStepDefinition - Role Section: Lab Junior
+[INFO ] 2023-01-03 15:11:18.111 [main] LabJuniorStepDefinition - Specimen Inscan Process
+[INFO ] 2023-01-03 15:11:34.041 [main] LabJuniorStepDefinition - Plasma Specimen Number: BLP1480895738
+[INFO ] 2023-01-03 15:11:34.690 [main] LabJuniorStepDefinition - Successfully Scan Plasma Specimen Number
+[INFO ] 2023-01-03 15:11:36.932 [main] LabJuniorStepDefinition - Serum Specimen Number: BLS1442315204
+[INFO ] 2023-01-03 15:11:37.638 [main] LabJuniorStepDefinition - Successfully Scan Serum Specimen Number
+[INFO ] 2023-01-03 15:11:39.907 [main] LabJuniorStepDefinition - Whole Blood Specimen Number: WBL1429074421
+[INFO ] 2023-01-03 15:11:40.650 [main] LabJuniorStepDefinition - Successfully Scan Whole Blood Number
+[INFO ] 2023-01-03 15:11:41.692 [main] LabJuniorStepDefinition - Lab ID: 1066
+[INFO ] 2023-01-03 15:11:45.473 [main] LabJuniorStepDefinition - Specimen inscan details saved successfully
+[INFO ] 2023-01-03 15:11:45.475 [main] LabJuniorStepDefinition - Lab Work List
+[INFO ] 2023-01-03 15:11:45.475 [main] LabJuniorStepDefinition - Gender Type: Female
+[INFO ] 2023-01-03 15:12:07.760 [main] LabJuniorWorkList - Haemoglobin: 11
+[INFO ] 2023-01-03 15:12:14.287 [main] LabJuniorWorkList - Blood Group: O Positive
+[INFO ] 2023-01-03 15:12:20.778 [main] LabJuniorWorkList - HIV: Negative
+[INFO ] 2023-01-03 15:12:27.336 [main] LabJuniorWorkList - Anti HCV: Negative
+[INFO ] 2023-01-03 15:12:31.830 [main] LabJuniorWorkList - HBsAg: Negative
+[INFO ] 2023-01-03 15:12:35.219 [main] LabJuniorWorkList - SGOT: 22
+[INFO ] 2023-01-03 15:12:38.604 [main] LabJuniorWorkList - SGPT: 44
+[INFO ] 2023-01-03 15:12:45.036 [main] LabJuniorWorkList - Creatinine: 1
+[INFO ] 2023-01-03 15:12:49.548 [main] LabJuniorWorkList - RPR: NonReactive
+[INFO ] 2023-01-03 15:12:54.038 [main] LabJuniorWorkList - BEta HC: Negative
+[INFO ] 2023-01-03 15:12:56.239 [main] LabJuniorWorkList - Glucose: 80
+[INFO ] 2023-01-03 15:13:00.581 [main] LabJuniorWorkList - Result submitted for authorization successfully
+[INFO ] 2023-01-03 15:13:11.991 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-01-03 15:13:13.995 [main] LabJuniorStepDefinition - Lab Junior Runing Time:
+[INFO ] 2023-01-03 15:13:13.997 [main] CommonDefinition - Total Time Mints = Mints: 2 mints  7 seconds
+[INFO ] 2023-01-03 15:13:13.997 [main] CommonDefinition -  Total Time  Seconds = 127 seconds
+[INFO ] 2023-01-03 15:13:14.005 [main] LabSeniorStepDefinition - Start Time  = 1672738994005
+[INFO ] 2023-01-03 15:13:18.218 [main] LabSeniorStepDefinition - Lab Senior Module
+[INFO ] 2023-01-03 15:13:21.362 [main] LabSeniorStepDefinition - Role Section: Lab Senior
+[INFO ] 2023-01-03 15:13:26.596 [main] LabSeniorStepDefinition - Result Entry Review
+[INFO ] 2023-01-03 15:13:32.140 [main] LabSeniorStepDefinition - Lab ID: 1066
+[INFO ] 2023-01-03 15:13:45.341 [main] LabSeniorStepDefinition - Lab Senior First Review
+[INFO ] 2023-01-03 15:13:45.343 [main] LabSeniorStepDefinition - Gender Type: Female
+[INFO ] 2023-01-03 15:13:46.474 [main] LabSeniorStepDefinition - Haemoglobin: 11 = Reviewed
+[INFO ] 2023-01-03 15:13:47.081 [main] LabSeniorStepDefinition - Blood Group: O Positive = Reviewed
+[INFO ] 2023-01-03 15:13:47.675 [main] LabSeniorStepDefinition - HIV: Negative = Reviewed
+[INFO ] 2023-01-03 15:13:48.281 [main] LabSeniorStepDefinition - Anti HCV: Negative = Reviewed
+[INFO ] 2023-01-03 15:13:48.911 [main] LabSeniorStepDefinition - HBsAg: Negative = Reviewed
+[INFO ] 2023-01-03 15:13:49.517 [main] LabSeniorStepDefinition - SGOT: 22 = Reviewed
+[INFO ] 2023-01-03 15:13:51.839 [main] LabSeniorStepDefinition - SGPT: 44 = Reviewed
+[INFO ] 2023-01-03 15:13:52.464 [main] LabSeniorStepDefinition - Creatinine: 1 = Reviewed
+[INFO ] 2023-01-03 15:13:53.055 [main] LabSeniorStepDefinition - RPR: NonReactive = Reviewed
+[INFO ] 2023-01-03 15:13:53.654 [main] LabSeniorStepDefinition - BEta HC: Negative = Reviewed
+[INFO ] 2023-01-03 15:13:54.364 [main] LabSeniorStepDefinition - Glucose: 80 = Reviewed
+[INFO ] 2023-01-03 15:13:55.788 [main] LabSeniorStepDefinition - Result submitted for authorization successfully
+[INFO ] 2023-01-03 15:14:02.220 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-01-03 15:14:04.236 [main] LabSeniorStepDefinition - Lab Senior Runing Time:
+[INFO ] 2023-01-03 15:14:04.237 [main] CommonDefinition - Total Time Mints = Mints: 0 mints  50 seconds
+[INFO ] 2023-01-03 15:14:04.237 [main] CommonDefinition -  Total Time  Seconds = 50 seconds
+[INFO ] 2023-01-03 15:14:04.245 [main] LabSupervisorStepDefinition - Start Time  = 1672739044245
+[INFO ] 2023-01-03 15:14:08.462 [main] LabSupervisorStepDefinition - Lab Supervisor Module
+[INFO ] 2023-01-03 15:14:11.897 [main] LabSupervisorStepDefinition - Role Section: Lab Supervisor
+[INFO ] 2023-01-03 15:14:16.114 [main] LabSupervisorStepDefinition - Pathalogist Worklist :
+[INFO ] 2023-01-03 15:14:21.707 [main] LabSupervisorStepDefinition - Lab ID: 1066
+[INFO ] 2023-01-03 15:14:31.257 [main] LabSupervisorStepDefinition - Result Entry :
+[INFO ] 2023-01-03 15:14:32.363 [main] LabSupervisorStepDefinition - Lab Supervisor Authorize in Result Entry :
+[INFO ] 2023-01-03 15:14:32.365 [main] LabSupervisorStepDefinition - Gender Type: Female
+[INFO ] 2023-01-03 15:14:32.366 [main] LabSupervisorStepDefinition - Hemoglobin: 11 = Authorized
+[INFO ] 2023-01-03 15:14:32.366 [main] LabSupervisorStepDefinition - Blood Group: O Positive = Authorized
+[INFO ] 2023-01-03 15:14:32.367 [main] LabSupervisorStepDefinition - HIV: Negative = Authorized
+[INFO ] 2023-01-03 15:14:32.367 [main] LabSupervisorStepDefinition - Anti HCV: Negative = Authorized
+[INFO ] 2023-01-03 15:14:32.367 [main] LabSupervisorStepDefinition - HBsAg: Negative = Authorized
+[INFO ] 2023-01-03 15:14:34.435 [main] LabSupervisorStepDefinition - SGOT: 22 = Authorized
+[INFO ] 2023-01-03 15:14:34.436 [main] LabSupervisorStepDefinition - SGPT: 44 = Authorized
+[INFO ] 2023-01-03 15:14:34.437 [main] LabSupervisorStepDefinition - Creatinine: 1 = Authorized
+[INFO ] 2023-01-03 15:14:34.438 [main] LabSupervisorStepDefinition - RPR: NonReactive = Authorized
+[INFO ] 2023-01-03 15:14:34.438 [main] LabSupervisorStepDefinition - BEta HC: Negative = Authorized
+[INFO ] 2023-01-03 15:14:34.439 [main] LabSupervisorStepDefinition - Glucose: 80 = Authorized
+[INFO ] 2023-01-03 15:14:37.572 [main] LabSupervisorStepDefinition - Results authorized successfully!
+[INFO ] 2023-01-03 15:14:44.023 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-01-03 15:14:46.047 [main] LabSupervisorStepDefinition - Log out For Supervisor
+[INFO ] 2023-01-03 15:14:46.048 [main] LabSupervisorStepDefinition - Lab Supervisor Runing Time:
+[INFO ] 2023-01-03 15:14:46.049 [main] CommonDefinition - Total Time Mints = Mints: 0 mints  41 seconds
+[INFO ] 2023-01-03 15:14:46.049 [main] CommonDefinition -  Total Time  Seconds = 41 seconds
+[INFO ] 2023-01-03 15:14:54.599 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-01-03 15:15:06.991 [main] GROStepDefinition - Choose The Counter is: Counter - 01
+[INFO ] 2023-01-03 15:15:08.589 [main] GROStepDefinition - Signed into the counter successfully
+[INFO ] 2023-01-03 15:15:14.982 [main] UploadReferralLetter - Total Referral Count And Details : 6
+[INFO ] 2023-01-03 15:15:14.983 [main] UploadReferralLetter - How Many Referrals Details And Count : {SGOT : =0, Glucose : =0, Cardilogy : =1, Beta HCG=1, RPR : =0, Color Vision : =0, Stemz BP : =0, AntiHCV : =0, SGPT : =0, BMI : =1, HBsAg : =0, Deformatory : =1, HIV : =0, Xray=0, Creatinine : =0, Vision : =2, Hamoglobin : =0}
+[INFO ] 2023-01-03 15:15:20.013 [main] PrintReferralLetter - Print Referral Letter Page: 
+[INFO ] 2023-01-03 15:15:21.056 [main] PrintReferralLetter - Referral: External Speciality
+Speciality: Cardiology, Orthopedic, Ophthalmologist, Vision Recheck, General Medicine, Gynaecology
+[INFO ] 2023-01-03 15:15:22.093 [main] PrintReferralLetter - Document Type: Cardiology
+[INFO ] 2023-01-03 15:15:27.346 [main] PrintReferralLetter - Cardiology Print Referral Letter saved Successfully
+[INFO ] 2023-01-03 15:15:27.506 [main] PrintReferralLetter - Document Type : Orthopedic
+[INFO ] 2023-01-03 15:15:31.708 [main] PrintReferralLetter - Orthopedic Print Referral Letter saved Successfully
+[INFO ] 2023-01-03 15:15:32.751 [main] PrintReferralLetter - Document Type : Ophthalmologist
+[INFO ] 2023-01-03 15:15:37.170 [main] PrintReferralLetter - Ophthalmologist Print Referral Letter saved Successfully
+[INFO ] 2023-01-03 15:15:38.203 [main] PrintReferralLetter - Document Type : Vision Recheck
+[INFO ] 2023-01-03 15:15:42.607 [main] PrintReferralLetter - Vision Recheck Print Referral Letter saved Successfully
+[INFO ] 2023-01-03 15:15:45.644 [main] PrintReferralLetter - Document Type : General Medicine
+[INFO ] 2023-01-03 15:15:50.130 [main] PrintReferralLetter - General Medicine Print Referral Letter saved Successfully
+[INFO ] 2023-01-03 15:15:51.169 [main] PrintReferralLetter - Document Type : Gynaecology
+[INFO ] 2023-01-03 15:15:55.479 [main] PrintReferralLetter - Gynaecology Print Referral Letter saved Successfully
+[INFO ] 2023-01-03 15:16:00.945 [main] UploadReferralLetter - Referral: External Speciality
+Speciality: Cardiology, Orthopedic, Ophthalmologist, General Medicine, Gynaecology
+[INFO ] 2023-01-03 15:16:04.972 [main] UploadReferralLetter - Upload Referral Count : 5
+[INFO ] 2023-01-03 15:16:04.973 [main] UploadReferralLetter - Upload Referral Letter Page :
+[INFO ] 2023-01-03 15:16:06.006 [main] UploadReferralLetter - Document Type : Cardiology
+[INFO ] 2023-01-03 15:16:27.069 [main] UploadReferralLetter - Cardiology document uploaded successfully
+[INFO ] 2023-01-03 15:16:30.119 [main] UploadReferralLetter - Document Type : Orthopedic
+[INFO ] 2023-01-03 15:16:51.875 [main] UploadReferralLetter - Orthopedic document uploaded successfully
+[INFO ] 2023-01-03 15:16:54.962 [main] UploadReferralLetter - Document Type : Ophthalmologist
+[INFO ] 2023-01-03 15:17:16.001 [main] UploadReferralLetter - Ophthalmologist document uploaded successfully
+[INFO ] 2023-01-03 15:17:19.046 [main] UploadReferralLetter - Document Type : General Medicine
+[INFO ] 2023-01-03 15:17:36.133 [main] UploadReferralLetter - General Medicine document uploaded successfully
+[INFO ] 2023-01-03 15:17:39.177 [main] UploadReferralLetter - Document Type : Gynaecology
+[INFO ] 2023-01-03 15:18:00.994 [main] UploadReferralLetter - Gynaecology document uploaded successfully
+[INFO ] 2023-01-03 15:18:08.348 [main] PrintReceipt - Total Referral Count : 6
+[INFO ] 2023-01-03 15:18:10.417 [main] PrintReceipt - Print Receipt Name : Cardiology
+[INFO ] 2023-01-03 15:18:10.443 [main] PrintReceipt - Print Receipt Name : Orthopedic
+[INFO ] 2023-01-03 15:18:10.470 [main] PrintReceipt - Print Receipt Name : Ophthalmologist
+[INFO ] 2023-01-03 15:18:10.496 [main] PrintReceipt - Print Receipt Name : Vision Recheck
+[INFO ] 2023-01-03 15:18:10.522 [main] PrintReceipt - Print Receipt Name : General Medicine
+[INFO ] 2023-01-03 15:18:10.548 [main] PrintReceipt - Print Receipt Name : Gynaecology
+[INFO ] 2023-01-03 15:18:22.864 [main] PrintReceipt - GRO Refferral Token :    Token no (NND027) generated successfully
+[INFO ] 2023-01-03 15:18:26.007 [main] PrintReceipt - Collected Feedback Successfully
+[INFO ] 2023-01-03 15:18:34.361 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-01-03 15:18:36.367 [main] StemzGPCertificatePage - Referrals : {BMI : =true, Cardilogy : =true, Beta HCG=true, Deformatory : =true, Color Vision : =false, Vision : =true, BP : =false}
+[INFO ] 2023-01-03 15:18:45.741 [main] GpModuleStepDefinition - Role Section: STEMZ GP
+[INFO ] 2023-01-03 15:18:53.054 [main] GpModuleStepDefinition - Choose The Counter Is: 
+[INFO ] 2023-01-03 15:19:03.148 [main] StemzGPCertificatePage - Physician Worklist : 
+[INFO ] 2023-01-03 15:19:09.281 [main] StemzGPCertificatePage - Referral to be Reported
+[INFO ] 2023-01-03 15:19:25.186 [main] StemzGPCertificatePage - Referral Document : 
+[INFO ] 2023-01-03 15:19:25.187 [main] StemzGPCertificatePage - Total Referral Count :5
+[INFO ] 2023-01-03 15:19:25.215 [main] StemzGPCertificatePage - Document Type : Cardiology
+[INFO ] 2023-01-03 15:19:27.217 [main] StemzGPCertificatePage - Approval : 
+[INFO ] 2023-01-03 15:19:33.570 [main] StemzGPCertificatePage - Approval status updated successfully
+[INFO ] 2023-01-03 15:19:35.681 [main] StemzGPCertificatePage - Close Referral Sucessfully
+[INFO ] 2023-01-03 15:19:37.746 [main] StemzGPCertificatePage - Referral Closed  Sucessfully
+[INFO ] 2023-01-03 15:19:37.778 [main] StemzGPCertificatePage - Document Type : Orthopedic
+[INFO ] 2023-01-03 15:19:42.797 [main] StemzGPCertificatePage - Approval : Accept
+[INFO ] 2023-01-03 15:19:44.937 [main] StemzGPCertificatePage - Approval status updated successfully
+[INFO ] 2023-01-03 19:24:30.408 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-01-03 19:24:33.603 [main] GpModuleStepDefinition - Start Time  = 1672754073603
+[INFO ] 2023-01-03 19:24:34.621 [main] LabJuniorStepDefinition - Start Time  = 1672754074621
+[INFO ] 2023-01-03 19:24:36.680 [main] LabSeniorStepDefinition - Start Time  = 1672754076680
+[INFO ] 2023-01-03 19:24:38.718 [main] LabSupervisorStepDefinition - Start Time  = 1672754078718

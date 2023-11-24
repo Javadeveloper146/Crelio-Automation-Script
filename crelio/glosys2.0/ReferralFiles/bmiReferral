@@ -1,0 +1,98 @@
+# Negative Scenario Script Run "Yes" else "No"
+NegativeScenarioScript = No
+
+# Available Browser "Chrome" "Firefox" "MicrosoftEdge" 
+Browser = MicrosoftEdge
+
+AppUrl = http://172.31.30.221/#/authenticate/login
+UserName = venkat
+Password = xOET6k1gUY
+
+IncorrectUsername = ABC123@
+IncorrectPassword = 123jir
+
+# Control By Pregnant Option 
+# "Yes" "No" "Maybe"
+ApplicantBelievesPregnant = Maybe
+
+# "362019000243" "998090988126"
+VisaApplicationNumber = 998090988186
+
+# Vaccination Document Upload Status
+# Incase Upload status is "Yes" else "No"
+VaccinationDocumentUploadStatus = No
+# Incase Upload status is "Yes" else "No"
+ReferralLetterDocumentStatus = No
+
+# Nurse Module
+# General Medicine Referral
+# BMI Normal Range "160" "60" Abnormal Range "200" & "200"  
+Height = 200
+Weight = 200
+
+# Vision Referral "Normal" "AbNormal" 
+Vision = Normal
+
+# Color Referral "Normal" "Poor"  Only Applicable for Driver
+Color = Normal
+
+# Bp Normal Range "120" "80" Out Of Range "200" & "160"
+SystolicPressure = 200
+DiastolicPressure = 160
+
+# ExternalSpeciality
+# Cardiovascular Ref "CardiologyProblem" else "NoIssue" 
+Cardiovascular = NoIssue
+# Deformity Ref "DeformityProblem" else "NoIssue" 
+Deformity = NoIssue
+
+
+#-----------------Xray-------------------
+# Xray Result Normal "MOHFit" else "MOHFitRef" 
+XrayResults = MOHFitRef
+
+#---------------Lab----------------------
+# Specimens Result Data
+BloodGroup = O Positive
+# Lab Confirmatory 
+# Normal"Negative" else "Positive"
+HIV = Negative
+# Normal"Negative" else "Positive"
+AntiHCV = Negative
+# Normal"Negative" else "Positive"
+HBsAg = Negative
+# Normal"NonReactive" else "Reactive"
+RPR = NonReactive
+#-------------------------------------
+#Additional Test
+
+# Normal "11" else "19"
+Haemoglobin = 11
+# Normal "22" else "45"
+SGOT = 22
+# Normal "44" else "144"
+SGPT = 44
+# Normal "1" else "2"
+Creatinine = 1
+# Normal "80" else "180"
+Glucose = 80
+
+BEtaHCG = Negative
+#--------------------------------------
+
+#------------------------------------------------------------------------
+# Vaccination And Referral Letter Documents Path 
+GROReferralCallLodLetterDocumentUploadPath = "C:\\Users\\stemz\\eclipse\\Downloads\\GROReferralCallLogUploadReferralLetter.pdf"
+
+# Gp Approval in ref
+# "Accept" Or "Reject"
+Approval = Accept
+
+# Clinical Notes
+ClinicalNotes = Cardiology Test
+# Medical History "Yes" Or "No"
+MedicalHistory = No
+
+# Consultation Comments
+PreviousIllness = Sample Text
+Comments = Okay

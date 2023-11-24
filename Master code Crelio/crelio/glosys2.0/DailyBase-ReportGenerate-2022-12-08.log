@@ -1,0 +1,102 @@
+[INFO ] 2022-12-08 11:57:29.147 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  Firefox Browser
+[INFO ] 2022-12-08 11:57:40.087 [main] GROStepDefinition - Start Time  = 1670480860087
+[INFO ] 2022-12-08 11:57:40.087 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2022-12-08 11:57:40.322 [main] GROStepDefinition - Username: venkat
+[INFO ] 2022-12-08 11:57:40.964 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2022-12-08 11:57:45.170 [main] GpModuleStepDefinition - Start Time  = 1670480865170
+[INFO ] 2022-12-08 11:57:45.202 [main] LabJuniorStepDefinition - Start Time  = 1670480865202
+[INFO ] 2022-12-08 11:57:47.248 [main] LabSeniorStepDefinition - Start Time  = 1670480867248
+[INFO ] 2022-12-08 11:57:49.276 [main] LabSupervisorStepDefinition - Start Time  = 1670480869276
+[INFO ] 2022-12-08 11:58:17.310 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  Firefox Browser
+[INFO ] 2022-12-08 11:58:19.458 [main] GROStepDefinition - Start Time  = 1670480899458
+[INFO ] 2022-12-08 11:58:19.458 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2022-12-08 11:58:22.583 [main] GpModuleStepDefinition - Start Time  = 1670480902583
+[INFO ] 2022-12-08 11:58:22.614 [main] LabJuniorStepDefinition - Start Time  = 1670480902614
+[INFO ] 2022-12-08 11:58:24.634 [main] LabSeniorStepDefinition - Start Time  = 1670480904634
+[INFO ] 2022-12-08 11:58:26.673 [main] LabSupervisorStepDefinition - Start Time  = 1670480906673
+[INFO ] 2022-12-08 12:34:25.554 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  Firefox Browser
+[INFO ] 2022-12-08 12:34:39.614 [main] GROStepDefinition - Start Time  = 1670483079614
+[INFO ] 2022-12-08 12:34:39.614 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2022-12-08 12:34:40.414 [main] GROStepDefinition - Username: venkat
+[INFO ] 2022-12-08 12:34:40.477 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2022-12-08 12:34:45.532 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2022-12-08 12:34:58.426 [main] GROStepDefinition - Choose The Counter is: MA Counter 01
+[ERROR] 2022-12-08 12:34:58.426 [main] GROStepDefinition - New Counter is  available please add this counter  : MA Counter 01
+[INFO ] 2022-12-08 12:35:22.213 [main] GpModuleStepDefinition - Start Time  = 1670483122213
+[INFO ] 2022-12-08 12:35:22.228 [main] LabJuniorStepDefinition - Start Time  = 1670483122228
+[INFO ] 2022-12-08 12:35:24.256 [main] LabSeniorStepDefinition - Start Time  = 1670483124256
+[INFO ] 2022-12-08 12:35:26.284 [main] LabSupervisorStepDefinition - Start Time  = 1670483126284
+[INFO ] 2022-12-08 12:36:09.042 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  Firefox Browser
+[INFO ] 2022-12-08 12:36:18.532 [main] GROStepDefinition - Start Time  = 1670483178531
+[INFO ] 2022-12-08 12:36:23.773 [main] GpModuleStepDefinition - Start Time  = 1670483183773
+[INFO ] 2022-12-08 12:36:23.792 [main] LabJuniorStepDefinition - Start Time  = 1670483183792
+[INFO ] 2022-12-08 12:36:25.837 [main] LabSeniorStepDefinition - Start Time  = 1670483185837
+[INFO ] 2022-12-08 12:36:27.855 [main] LabSupervisorStepDefinition - Start Time  = 1670483187855
+[INFO ] 2022-12-08 12:40:21.591 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2022-12-08 12:40:36.695 [main] GROStepDefinition - Start Time  = 1670483436695
+[INFO ] 2022-12-08 12:40:36.700 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2022-12-08 12:40:36.767 [main] GROStepDefinition - Username: venkat
+[INFO ] 2022-12-08 12:40:36.866 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2022-12-08 12:40:41.936 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2022-12-08 12:40:54.145 [main] GROStepDefinition - Choose The Counter is: 
+[ERROR] 2022-12-08 12:40:54.145 [main] GROStepDefinition - New Counter is  available please add this counter  : 
+[INFO ] 2022-12-08 12:41:41.425 [main] GpModuleStepDefinition - Start Time  = 1670483501425
+[INFO ] 2022-12-08 12:41:42.612 [main] GpModuleStepDefinition - Username: venkat
+[INFO ] 2022-12-08 12:41:43.695 [main] GpModuleStepDefinition - Password: xOET6k1gUY
+[INFO ] 2022-12-08 12:41:45.863 [main] LabJuniorStepDefinition - Start Time  = 1670483505863
+[INFO ] 2022-12-08 12:41:51.129 [main] LabSeniorStepDefinition - Start Time  = 1670483511129
+[INFO ] 2022-12-08 12:41:56.354 [main] LabSupervisorStepDefinition - Start Time  = 1670483516354
+[INFO ] 2022-12-08 12:45:52.892 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2022-12-08 12:46:07.993 [main] GROStepDefinition - Start Time  = 1670483767993
+[INFO ] 2022-12-08 12:46:08.008 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2022-12-08 12:46:11.209 [main] GpModuleStepDefinition - Start Time  = 1670483771209
+[INFO ] 2022-12-08 12:46:11.241 [main] LabJuniorStepDefinition - Start Time  = 1670483771241
+[INFO ] 2022-12-08 12:46:13.312 [main] LabSeniorStepDefinition - Start Time  = 1670483773312
+[INFO ] 2022-12-08 12:46:15.357 [main] LabSupervisorStepDefinition - Start Time  = 1670483775357
+[INFO ] 2022-12-08 12:47:52.715 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2022-12-08 12:48:16.473 [main] GROStepDefinition - Start Time  = 1670483896473
+[INFO ] 2022-12-08 12:48:16.487 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2022-12-08 12:48:19.712 [main] GpModuleStepDefinition - Start Time  = 1670483899712
+[INFO ] 2022-12-08 12:48:19.729 [main] LabJuniorStepDefinition - Start Time  = 1670483899729
+[INFO ] 2022-12-08 12:48:21.769 [main] LabSeniorStepDefinition - Start Time  = 1670483901769
+[INFO ] 2022-12-08 12:48:23.792 [main] LabSupervisorStepDefinition - Start Time  = 1670483903792
+[INFO ] 2022-12-08 12:52:54.007 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  OperaMini Browser
+[INFO ] 2022-12-08 12:52:57.096 [main] GROStepDefinition - Start Time  = 1670484177096
+[INFO ] 2022-12-08 12:52:57.100 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2022-12-08 12:53:00.186 [main] GpModuleStepDefinition - Start Time  = 1670484180185
+[INFO ] 2022-12-08 12:53:00.205 [main] LabJuniorStepDefinition - Start Time  = 1670484180205
+[INFO ] 2022-12-08 12:53:02.241 [main] LabSeniorStepDefinition - Start Time  = 1670484182241
+[INFO ] 2022-12-08 12:53:04.258 [main] LabSupervisorStepDefinition - Start Time  = 1670484184258
+[INFO ] 2022-12-08 12:54:06.655 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  OperaMini Browser
+[INFO ] 2022-12-08 12:54:09.786 [main] GpModuleStepDefinition - Start Time  = 1670484249786
+[INFO ] 2022-12-08 12:54:09.805 [main] LabJuniorStepDefinition - Start Time  = 1670484249805
+[INFO ] 2022-12-08 12:54:11.820 [main] LabSeniorStepDefinition - Start Time  = 1670484251820
+[INFO ] 2022-12-08 12:54:13.841 [main] LabSupervisorStepDefinition - Start Time  = 1670484253841
+[INFO ] 2022-12-08 12:57:35.066 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  OperaMini Browser
+[INFO ] 2022-12-08 12:57:43.446 [main] GpModuleStepDefinition - Start Time  = 1670484463446
+[INFO ] 2022-12-08 12:57:46.103 [main] LabJuniorStepDefinition - Start Time  = 1670484466103
+[INFO ] 2022-12-08 12:57:50.790 [main] LabSeniorStepDefinition - Start Time  = 1670484470790
+[INFO ] 2022-12-08 12:57:55.459 [main] LabSupervisorStepDefinition - Start Time  = 1670484475459
+[INFO ] 2022-12-08 12:58:58.297 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  Chrome Browser
+[INFO ] 2022-12-08 12:59:04.948 [main] GROStepDefinition - Start Time  = 1670484544948
+[INFO ] 2022-12-08 12:59:04.951 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2022-12-08 12:59:08.050 [main] GpModuleStepDefinition - Start Time  = 1670484548050
+[INFO ] 2022-12-08 12:59:08.065 [main] LabJuniorStepDefinition - Start Time  = 1670484548065
+[INFO ] 2022-12-08 12:59:10.082 [main] LabSeniorStepDefinition - Start Time  = 1670484550082
+[INFO ] 2022-12-08 12:59:12.096 [main] LabSupervisorStepDefinition - Start Time  = 1670484552096
+[INFO ] 2022-12-08 12:59:19.240 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  OperaMini Browser
+[INFO ] 2022-12-08 12:59:27.648 [main] GpModuleStepDefinition - Start Time  = 1670484567648
+[INFO ] 2022-12-08 12:59:30.312 [main] LabJuniorStepDefinition - Start Time  = 1670484570312
+[INFO ] 2022-12-08 12:59:34.963 [main] LabSeniorStepDefinition - Start Time  = 1670484574963
+[INFO ] 2022-12-08 12:59:39.613 [main] LabSupervisorStepDefinition - Start Time  = 1670484579612
+[INFO ] 2022-12-08 13:07:09.572 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2022-12-08 13:08:15.619 [main] GpModuleStepDefinition - Start Time  = 1670485095619
+[INFO ] 2022-12-08 13:08:15.641 [main] LabJuniorStepDefinition - Start Time  = 1670485095641
+[INFO ] 2022-12-08 13:08:17.679 [main] LabSeniorStepDefinition - Start Time  = 1670485097679
+[INFO ] 2022-12-08 13:08:19.698 [main] LabSupervisorStepDefinition - Start Time  = 1670485099698
+[INFO ] 2022-12-08 13:09:22.151 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2022-12-08 13:09:26.623 [main] GROStepDefinition - Start Time  = 1670485166623
+[INFO ] 2022-12-08 13:09:26.628 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2022-12-08 13:09:26.703 [main] GROStepDefinition - Username: venkat
+[INFO ] 2022-12-08 13:09:26.781 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2022-12-08 13:09:31.152 [main] GROStepDefinition - Role Section: GRO

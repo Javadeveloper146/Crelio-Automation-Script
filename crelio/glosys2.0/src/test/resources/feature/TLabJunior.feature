@@ -1,0 +1,12 @@
+
+
+
+@LabJuniorModule
+Feature: Lab Flow
+Scenario: Lab Junior
+Given enter the userName and Password in Lab Junior Login
+Then Lab Junior Role Selection
+Then Specimen Inscan Process
+Then Scan Plasma Serum Whole Blood Specimen Number
+Then Go To Work List
+Then Lab Junior Module Logout

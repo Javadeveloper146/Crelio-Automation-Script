@@ -1,0 +1,560 @@
+[INFO ] 2023-07-31 11:33:09.721 [main] GROStepDefinition - Crelio Automation Script Run In :  null Browser
+[INFO ] 2023-07-31 11:33:22.890 [main] GROStepDefinition - Crelio Automation Script Run In :  null Browser
+[INFO ] 2023-07-31 11:33:59.811 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-31 11:34:13.307 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-31 11:34:25.134 [main] GROStepDefinition - Patient ID : 1672
+[INFO ] 2023-07-31 11:34:25.611 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 11:34:26.621 [main] GROStepDefinition - Patient Name :% Saturation
+[INFO ] 2023-07-31 11:34:27.209 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 11:34:27.930 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 11:34:32.947 [main] GROStepDefinition - Test Name :% Saturation
+[INFO ] 2023-07-31 11:34:36.315 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 11:34:49.134 [main] GROStepDefinition - Patient ID : 1673
+[INFO ] 2023-07-31 11:34:49.542 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 11:34:50.764 [main] GROStepDefinition - Patient Name :24 hr Urine C peptide
+[INFO ] 2023-07-31 11:34:51.397 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 11:34:52.193 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 11:34:57.364 [main] GROStepDefinition - Test Name :24 hr Urine C peptide
+[INFO ] 2023-07-31 11:35:00.744 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 11:35:13.589 [main] GROStepDefinition - Patient ID : 1674
+[INFO ] 2023-07-31 11:35:14.007 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 11:35:15.168 [main] GROStepDefinition - Patient Name :24 hr Urine Chloride
+[INFO ] 2023-07-31 11:35:15.787 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 11:35:16.575 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 11:35:21.680 [main] GROStepDefinition - Test Name :24 hr Urine Chloride
+[INFO ] 2023-07-31 11:35:25.136 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 11:35:37.807 [main] GROStepDefinition - Patient ID : 1675
+[INFO ] 2023-07-31 11:35:38.221 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 11:35:39.419 [main] GROStepDefinition - Patient Name :24 hr Urine Cortisol
+[INFO ] 2023-07-31 11:35:40.011 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 11:35:40.763 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 11:35:45.681 [main] GROStepDefinition - Test Name :24 hr Urine Cortisol
+[INFO ] 2023-07-31 11:35:49.052 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 11:36:01.801 [main] GROStepDefinition - Patient ID : 1676
+[INFO ] 2023-07-31 11:36:02.217 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 11:36:03.461 [main] GROStepDefinition - Patient Name :24 hr Urine Magnesium
+[INFO ] 2023-07-31 11:36:04.074 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 11:36:04.886 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 11:36:09.994 [main] GROStepDefinition - Test Name :24 hr Urine Magnesium
+[INFO ] 2023-07-31 11:36:13.396 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 11:36:26.262 [main] GROStepDefinition - Patient ID : 1677
+[INFO ] 2023-07-31 11:36:26.683 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 11:36:27.993 [main] GROStepDefinition - Patient Name :24 hr Urine Microalbumin
+[INFO ] 2023-07-31 11:36:28.615 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 11:36:29.416 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 11:36:34.640 [main] GROStepDefinition - Test Name :24 hr Urine Microalbumin
+[INFO ] 2023-07-31 11:36:38.085 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 11:36:50.937 [main] GROStepDefinition - Patient ID : 1678
+[INFO ] 2023-07-31 11:36:51.357 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 11:36:52.595 [main] GROStepDefinition - Patient Name :24 hr Urine Phosphate
+[INFO ] 2023-07-31 11:36:53.226 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 11:36:54.011 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 11:36:59.148 [main] GROStepDefinition - Test Name :24 hr Urine Phosphate
+[INFO ] 2023-07-31 11:37:02.566 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 11:37:15.379 [main] GROStepDefinition - Patient ID : 1679
+[INFO ] 2023-07-31 11:37:15.802 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 11:37:17.020 [main] GROStepDefinition - Patient Name :24 hr Urine Potassium
+[INFO ] 2023-07-31 11:37:17.623 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 11:37:18.441 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 11:37:23.638 [main] GROStepDefinition - Test Name :24 hr Urine Potassium
+[INFO ] 2023-07-31 11:37:27.082 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 11:37:40.000 [main] GROStepDefinition - Patient ID : 1680
+[INFO ] 2023-07-31 11:37:40.416 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 11:37:41.629 [main] GROStepDefinition - Patient Name :24 hrs Urine Calcium
+[INFO ] 2023-07-31 11:37:42.240 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 11:37:43.020 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 11:37:48.145 [main] GROStepDefinition - Test Name :24 hrs Urine Calcium
+[INFO ] 2023-07-31 11:37:51.571 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 11:38:04.465 [main] GROStepDefinition - Patient ID : 1681
+[INFO ] 2023-07-31 11:38:04.880 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 11:38:06.171 [main] GROStepDefinition - Patient Name :24 hrs Urine Uric Acid
+[INFO ] 2023-07-31 11:38:06.793 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 11:38:07.584 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 11:38:12.641 [main] GROStepDefinition - Test Name :24 hrs Urine Uric Acid
+[INFO ] 2023-07-31 11:38:16.093 [main] GROStepDefinition - Amount : ₱ 335
+[INFO ] 2023-07-31 11:38:29.054 [main] GROStepDefinition - Patient ID : 1682
+[INFO ] 2023-07-31 11:38:29.462 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 11:38:30.752 [main] GROStepDefinition - Patient Name :Absolute Basophils Count
+[INFO ] 2023-07-31 11:38:31.345 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 11:38:32.093 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 11:38:37.269 [main] GROStepDefinition - Test Name :Absolute Basophils Count
+[INFO ] 2023-07-31 11:38:40.693 [main] GROStepDefinition - Amount : ₱ 265
+[INFO ] 2023-07-31 11:38:53.559 [main] GROStepDefinition - Patient ID : 1683
+[INFO ] 2023-07-31 11:38:53.975 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 11:38:55.325 [main] GROStepDefinition - Patient Name :Absolute Neutrophils Count
+[INFO ] 2023-07-31 11:38:55.945 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 11:38:56.726 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 11:39:01.875 [main] GROStepDefinition - Test Name :Absolute Neutrophils Count
+[INFO ] 2023-07-31 11:39:05.308 [main] GROStepDefinition - Amount : ₱ 265
+[INFO ] 2023-07-31 11:39:18.263 [main] GROStepDefinition - Patient ID : 1684
+[INFO ] 2023-07-31 11:39:18.676 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 11:39:20.279 [main] GROStepDefinition - Patient Name :Albumin / Globulin Ration (A:G Ratio)
+[INFO ] 2023-07-31 11:39:20.897 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 11:39:21.669 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 11:39:26.883 [main] GROStepDefinition - Test Name :Albumin / Globulin Ration (A:G Ratio)
+[INFO ] 2023-07-31 11:39:30.307 [main] GROStepDefinition - Amount : ₱ 430
+[INFO ] 2023-07-31 11:39:43.206 [main] GROStepDefinition - Patient ID : 1685
+[INFO ] 2023-07-31 11:39:43.623 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 11:39:44.782 [main] GROStepDefinition - Patient Name :Albumin 24 hr Urine
+[INFO ] 2023-07-31 11:39:45.409 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 11:39:46.152 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 11:39:51.235 [main] GROStepDefinition - Test Name :Albumin 24 hr Urine
+[INFO ] 2023-07-31 11:39:54.638 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 11:40:07.576 [main] GROStepDefinition - Patient ID : 1686
+[INFO ] 2023-07-31 11:40:07.992 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 11:40:08.982 [main] GROStepDefinition - Patient Name :Albumin CSF
+[INFO ] 2023-07-31 11:40:09.582 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 11:40:10.394 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 11:40:15.366 [main] GROStepDefinition - Test Name :Albumin CSF
+[INFO ] 2023-07-31 11:40:18.762 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 11:40:31.623 [main] GROStepDefinition - Patient ID : 1687
+[INFO ] 2023-07-31 11:40:32.037 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 11:40:33.174 [main] GROStepDefinition - Patient Name :Albumin Spot Urine
+[INFO ] 2023-07-31 11:40:33.827 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 11:40:34.635 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 11:40:39.655 [main] GROStepDefinition - Test Name :Albumin Spot Urine
+[INFO ] 2023-07-31 11:40:43.061 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 11:40:55.917 [main] GROStepDefinition - Patient ID : 1688
+[INFO ] 2023-07-31 11:40:56.321 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 11:40:57.152 [main] GROStepDefinition - Patient Name :AMF
+[INFO ] 2023-07-31 11:40:57.776 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 11:40:58.607 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 11:41:03.469 [main] GROStepDefinition - Test Name :AMF
+[INFO ] 2023-07-31 11:41:06.941 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 11:41:19.851 [main] GROStepDefinition - Patient ID : 1689
+[INFO ] 2023-07-31 11:41:20.256 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 11:41:21.373 [main] GROStepDefinition - Patient Name :Amphetamine(AMP)
+[INFO ] 2023-07-31 11:41:22.011 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 11:41:22.825 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 11:41:27.898 [main] GROStepDefinition - Test Name :Amphetamine(AMP)
+[INFO ] 2023-07-31 11:41:31.317 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 11:41:44.214 [main] GROStepDefinition - Patient ID : 1690
+[INFO ] 2023-07-31 11:41:44.617 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 11:41:45.621 [main] GROStepDefinition - Patient Name :AST/ALT Ratio
+[INFO ] 2023-07-31 11:41:46.244 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 11:41:47.067 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 11:41:51.964 [main] GROStepDefinition - Test Name :AST/ALT Ratio
+[INFO ] 2023-07-31 11:41:55.337 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 11:56:56.254 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-31 11:57:07.233 [main] GROStepDefinition - Patient ID : 1691
+[INFO ] 2023-07-31 11:57:07.698 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 11:57:08.917 [main] GROStepDefinition - Patient Name :Barbiturates (BAR)
+[INFO ] 2023-07-31 11:57:09.549 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 11:57:10.340 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 11:57:15.319 [main] GROStepDefinition - Test Name :Barbiturates (BAR)
+[INFO ] 2023-07-31 11:57:18.763 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 11:57:31.615 [main] GROStepDefinition - Patient ID : 1692
+[INFO ] 2023-07-31 11:57:32.026 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 11:57:33.227 [main] GROStepDefinition - Patient Name :Benzodiazepines(BZ0)
+[INFO ] 2023-07-31 11:57:33.831 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 11:57:34.651 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 11:57:39.896 [main] GROStepDefinition - Test Name :Benzodiazepines(BZ0)
+[INFO ] 2023-07-31 11:57:43.299 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 11:57:56.042 [main] GROStepDefinition - Patient ID : 1693
+[INFO ] 2023-07-31 11:57:56.457 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 11:57:57.625 [main] GROStepDefinition - Patient Name :BICARBONATE (CO2)
+[INFO ] 2023-07-31 11:57:58.221 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 11:57:59.011 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 11:58:04.029 [main] GROStepDefinition - Test Name :BICARBONATE (CO2)
+[INFO ] 2023-07-31 11:58:07.481 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 11:58:20.439 [main] GROStepDefinition - Patient ID : 1694
+[INFO ] 2023-07-31 11:58:20.853 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 11:58:22.034 [main] GROStepDefinition - Patient Name :BUN/Creatinine Ratio
+[INFO ] 2023-07-31 11:58:22.631 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 11:58:23.443 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 11:58:28.609 [main] GROStepDefinition - Test Name :BUN/Creatinine Ratio
+[INFO ] 2023-07-31 11:58:32.058 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 11:59:36.055 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-31 11:59:47.491 [main] GROStepDefinition - Patient ID : 1695
+[INFO ] 2023-07-31 11:59:47.947 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 11:59:48.880 [main] GROStepDefinition - Patient Name :C-Peptide
+[INFO ] 2023-07-31 11:59:49.468 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 11:59:50.175 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 11:59:55.182 [main] GROStepDefinition - Test Name :C-Peptide
+[INFO ] 2023-07-31 11:59:58.553 [main] GROStepDefinition - Amount : ₱ 1,520
+[INFO ] 2023-07-31 12:00:11.469 [main] GROStepDefinition - Patient ID : 1696
+[INFO ] 2023-07-31 12:00:11.882 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:00:13.010 [main] GROStepDefinition - Patient Name :Calcium Ionized
+[INFO ] 2023-07-31 12:00:13.649 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:00:14.446 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:00:19.460 [main] GROStepDefinition - Test Name :Calcium Ionized
+[INFO ] 2023-07-31 12:00:22.889 [main] GROStepDefinition - Amount : ₱ 210
+[INFO ] 2023-07-31 12:01:25.847 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-31 12:01:37.891 [main] GROStepDefinition - Patient ID : 1697
+[INFO ] 2023-07-31 12:01:38.340 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:01:39.467 [main] GROStepDefinition - Patient Name :Cannabinoids (THC)
+[INFO ] 2023-07-31 12:01:40.057 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:01:40.793 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:02:24.882 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-31 12:02:35.931 [main] GROStepDefinition - Patient ID : 1697
+[INFO ] 2023-07-31 12:02:36.391 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:02:37.575 [main] GROStepDefinition - Patient Name :Cannabinoids (THC)
+[INFO ] 2023-07-31 12:02:38.172 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:02:38.890 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:02:44.034 [main] GROStepDefinition - Test Name :Cannabinoids (THC)
+[INFO ] 2023-07-31 12:02:47.413 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 12:03:00.176 [main] GROStepDefinition - Patient ID : 1698
+[INFO ] 2023-07-31 12:03:00.592 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:03:01.501 [main] GROStepDefinition - Patient Name :Chagas
+[INFO ] 2023-07-31 12:03:02.106 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:03:02.892 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:03:07.846 [main] GROStepDefinition - Test Name :Chagas
+[INFO ] 2023-07-31 12:03:11.265 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 12:03:24.082 [main] GROStepDefinition - Patient ID : 1699
+[INFO ] 2023-07-31 12:03:24.489 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:03:25.828 [main] GROStepDefinition - Patient Name :Chickungunya IgG and IgM
+[INFO ] 2023-07-31 12:03:26.432 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:03:27.214 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:03:32.285 [main] GROStepDefinition - Test Name :Chickungunya IgG and IgM
+[INFO ] 2023-07-31 12:04:35.316 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-31 12:04:47.508 [main] GROStepDefinition - Patient ID : 1700
+[INFO ] 2023-07-31 12:04:48.072 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:04:49.431 [main] GROStepDefinition - Patient Name :Cholesterol Total/HDL Ratio
+[INFO ] 2023-07-31 12:04:50.049 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:04:50.813 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:04:55.931 [main] GROStepDefinition - Test Name :Cholesterol Total/HDL Ratio
+[INFO ] 2023-07-31 12:04:59.381 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 12:05:12.263 [main] GROStepDefinition - Patient ID : 1701
+[INFO ] 2023-07-31 12:05:12.668 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:05:13.709 [main] GROStepDefinition - Patient Name :Cocaine (COC)
+[INFO ] 2023-07-31 12:05:14.331 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:05:15.043 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:05:20.108 [main] GROStepDefinition - Test Name :Cocaine (COC)
+[INFO ] 2023-07-31 12:05:23.600 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 12:06:03.482 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-31 12:06:14.575 [main] GROStepDefinition - Patient ID : 1702
+[INFO ] 2023-07-31 12:06:15.114 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:06:16.015 [main] GROStepDefinition - Patient Name :Cortisol
+[INFO ] 2023-07-31 12:06:16.645 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:06:17.465 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:06:22.289 [main] GROStepDefinition - Test Name :Cortisol
+[INFO ] 2023-07-31 12:06:25.717 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 12:06:38.501 [main] GROStepDefinition - Patient ID : 1703
+[INFO ] 2023-07-31 12:06:38.915 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:06:39.860 [main] GROStepDefinition - Patient Name :CREATININE
+[INFO ] 2023-07-31 12:06:40.484 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:06:41.274 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:06:46.302 [main] GROStepDefinition - Test Name :CREATININE
+[INFO ] 2023-07-31 12:06:49.700 [main] GROStepDefinition - Amount : ₱ 125
+[INFO ] 2023-07-31 12:07:02.604 [main] GROStepDefinition - Patient ID : 1704
+[INFO ] 2023-07-31 12:07:03.011 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:07:04.125 [main] GROStepDefinition - Patient Name :FILARIAL ANTIGEN
+[INFO ] 2023-07-31 12:07:04.780 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:07:05.555 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:07:10.496 [main] GROStepDefinition - Test Name :FILARIAL ANTIGEN
+[INFO ] 2023-07-31 12:07:13.936 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 12:07:26.795 [main] GROStepDefinition - Patient ID : 1705
+[INFO ] 2023-07-31 12:07:27.209 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:07:28.208 [main] GROStepDefinition - Patient Name :Fructosamine
+[INFO ] 2023-07-31 12:07:28.838 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:07:29.631 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:07:34.630 [main] GROStepDefinition - Test Name :Fructosamine
+[INFO ] 2023-07-31 12:07:38.119 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 12:07:50.959 [main] GROStepDefinition - Patient ID : 1706
+[INFO ] 2023-07-31 12:07:51.360 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:07:52.717 [main] GROStepDefinition - Patient Name :GCT(Glucose Challenging Test)
+[INFO ] 2023-07-31 12:07:53.355 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:07:54.106 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:07:59.360 [main] GROStepDefinition - Test Name :GCT(Glucose Challenging Test)
+[INFO ] 2023-07-31 12:08:02.800 [main] GROStepDefinition - Amount : ₱ 525
+[INFO ] 2023-07-31 12:08:15.643 [main] GROStepDefinition - Patient ID : 1707
+[INFO ] 2023-07-31 12:08:16.060 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:08:16.969 [main] GROStepDefinition - Patient Name :Globulin
+[INFO ] 2023-07-31 12:08:17.587 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:08:18.325 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:08:23.321 [main] GROStepDefinition - Test Name :Globulin
+[INFO ] 2023-07-31 12:08:26.724 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 12:08:39.532 [main] GROStepDefinition - Patient ID : 1708
+[INFO ] 2023-07-31 12:08:39.943 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:08:41.167 [main] GROStepDefinition - Patient Name :Glucose in 24 hr Urine
+[INFO ] 2023-07-31 12:08:41.771 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:08:42.569 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:08:47.635 [main] GROStepDefinition - Test Name :Glucose in 24 hr Urine
+[INFO ] 2023-07-31 12:08:51.061 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 12:09:04.008 [main] GROStepDefinition - Patient ID : 1709
+[INFO ] 2023-07-31 12:09:04.423 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:09:05.621 [main] GROStepDefinition - Patient Name :Glucose in spot urine
+[INFO ] 2023-07-31 12:09:06.257 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:09:07.063 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:09:12.204 [main] GROStepDefinition - Test Name :Glucose in spot urine
+[INFO ] 2023-07-31 12:09:15.622 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 12:09:28.582 [main] GROStepDefinition - Patient ID : 1710
+[INFO ] 2023-07-31 12:09:28.988 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:09:30.617 [main] GROStepDefinition - Patient Name :Gonorrhoeae/Chlamydia Antigen (Urine)
+[INFO ] 2023-07-31 12:09:31.230 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:09:32.046 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:09:37.316 [main] GROStepDefinition - Test Name :Gonorrhoeae/Chlamydia Antigen (Urine)
+[INFO ] 2023-07-31 12:09:40.720 [main] GROStepDefinition - Amount : ₱ 3,040
+[INFO ] 2023-07-31 12:09:53.572 [main] GROStepDefinition - Patient ID : 1711
+[INFO ] 2023-07-31 12:09:53.989 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:09:54.826 [main] GROStepDefinition - Patient Name :GROWTH
+[INFO ] 2023-07-31 12:09:55.451 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:09:56.264 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:10:01.179 [main] GROStepDefinition - Test Name :GROWTH
+[INFO ] 2023-07-31 12:10:04.645 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 12:10:17.468 [main] GROStepDefinition - Patient ID : 1712
+[INFO ] 2023-07-31 12:10:17.873 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:10:18.697 [main] GROStepDefinition - Patient Name :HCV Ag
+[INFO ] 2023-07-31 12:10:19.317 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:10:20.130 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:10:25.106 [main] GROStepDefinition - Test Name :HCV Ag
+[INFO ] 2023-07-31 12:10:28.525 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 12:10:41.370 [main] GROStepDefinition - Patient ID : 1713
+[INFO ] 2023-07-31 12:10:41.772 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:10:43.047 [main] GROStepDefinition - Patient Name :HDL/LDL Cholesterol Ratio
+[INFO ] 2023-07-31 12:10:43.667 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:10:44.476 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:10:49.564 [main] GROStepDefinition - Test Name :HDL/LDL Cholesterol Ratio
+[INFO ] 2023-07-31 12:10:53.073 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 12:11:06.019 [main] GROStepDefinition - Patient ID : 1714
+[INFO ] 2023-07-31 12:11:06.432 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:11:07.334 [main] GROStepDefinition - Patient Name :HOMA IR
+[INFO ] 2023-07-31 12:11:07.964 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:11:08.780 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:11:13.698 [main] GROStepDefinition - Test Name :HOMA IR
+[INFO ] 2023-07-31 12:11:17.155 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 12:11:30.044 [main] GROStepDefinition - Patient ID : 1715
+[INFO ] 2023-07-31 12:11:30.449 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:11:31.589 [main] GROStepDefinition - Patient Name :In-Direct Bilirubin
+[INFO ] 2023-07-31 12:11:32.242 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:11:32.986 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:11:38.007 [main] GROStepDefinition - Test Name :In-Direct Bilirubin
+[INFO ] 2023-07-31 12:11:41.392 [main] GROStepDefinition - Amount : ₱ 240
+[INFO ] 2023-07-31 12:11:54.318 [main] GROStepDefinition - Patient ID : 1716
+[INFO ] 2023-07-31 12:11:54.732 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:11:56.117 [main] GROStepDefinition - Patient Name :Mean platelet Volume (MPV)
+[INFO ] 2023-07-31 12:11:56.747 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:11:57.560 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:12:02.742 [main] GROStepDefinition - Test Name :Mean platelet Volume (MPV)
+[INFO ] 2023-07-31 12:12:06.155 [main] GROStepDefinition - Amount : ₱ 265
+[INFO ] 2023-07-31 12:12:19.116 [main] GROStepDefinition - Patient ID : 1717
+[INFO ] 2023-07-31 12:12:19.544 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:12:20.602 [main] GROStepDefinition - Patient Name :Methadone (MTD)
+[INFO ] 2023-07-31 12:12:21.246 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:12:22.006 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:12:27.074 [main] GROStepDefinition - Test Name :Methadone (MTD)
+[INFO ] 2023-07-31 12:12:30.475 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 12:12:43.390 [main] GROStepDefinition - Patient ID : 1718
+[INFO ] 2023-07-31 12:12:43.798 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:12:44.901 [main] GROStepDefinition - Patient Name :Methaqualone(MQL)
+[INFO ] 2023-07-31 12:12:45.506 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:12:46.311 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:12:51.462 [main] GROStepDefinition - Test Name :Methaqualone(MQL)
+[INFO ] 2023-07-31 12:12:54.884 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 12:13:07.709 [main] GROStepDefinition - Patient ID : 1719
+[INFO ] 2023-07-31 12:13:08.112 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:13:09.381 [main] GROStepDefinition - Patient Name :Microalbumin - Spot Urine
+[INFO ] 2023-07-31 12:13:09.990 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:13:10.808 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:13:15.994 [main] GROStepDefinition - Test Name :Microalbumin - Spot Urine
+[INFO ] 2023-07-31 12:13:19.470 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 12:13:32.324 [main] GROStepDefinition - Patient ID : 1720
+[INFO ] 2023-07-31 12:13:32.742 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:13:34.334 [main] GROStepDefinition - Patient Name :Microalbumin / Creatinine Ratio - spot
+[INFO ] 2023-07-31 12:13:34.948 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:13:35.767 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:13:41.103 [main] GROStepDefinition - Test Name :Microalbumin / Creatinine Ratio - spot
+[INFO ] 2023-07-31 12:13:44.564 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 12:13:57.295 [main] GROStepDefinition - Patient ID : 1721
+[INFO ] 2023-07-31 12:13:57.708 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:13:58.659 [main] GROStepDefinition - Patient Name :NO GROWTH
+[INFO ] 2023-07-31 12:13:59.242 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:14:00.024 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:14:05.013 [main] GROStepDefinition - Test Name :NO GROWTH
+[INFO ] 2023-07-31 12:14:08.404 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 12:14:21.316 [main] GROStepDefinition - Patient ID : 1722
+[INFO ] 2023-07-31 12:14:21.725 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:14:22.894 [main] GROStepDefinition - Patient Name :Non- HDL Cholesterol
+[INFO ] 2023-07-31 12:14:23.469 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:14:24.281 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:14:29.452 [main] GROStepDefinition - Test Name :Non- HDL Cholesterol
+[INFO ] 2023-07-31 12:14:32.915 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 12:14:45.737 [main] GROStepDefinition - Patient ID : 1723
+[INFO ] 2023-07-31 12:14:46.148 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:14:47.167 [main] GROStepDefinition - Patient Name :Opiates(OPI)
+[INFO ] 2023-07-31 12:14:47.810 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:14:48.588 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:14:53.477 [main] GROStepDefinition - Test Name :Opiates(OPI)
+[INFO ] 2023-07-31 12:14:56.845 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 12:15:09.702 [main] GROStepDefinition - Patient ID : 1724
+[INFO ] 2023-07-31 12:15:10.121 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:15:11.110 [main] GROStepDefinition - Patient Name :Ova and cyst
+[INFO ] 2023-07-31 12:15:11.745 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:15:12.549 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:15:17.539 [main] GROStepDefinition - Test Name :Ova and cyst
+[INFO ] 2023-07-31 12:15:20.979 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 12:15:33.830 [main] GROStepDefinition - Patient ID : 1725
+[INFO ] 2023-07-31 12:15:34.242 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:15:35.017 [main] GROStepDefinition - Patient Name :PH
+[INFO ] 2023-07-31 12:15:35.603 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:15:36.430 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:15:41.527 [main] GROStepDefinition - Test Name :PH
+[INFO ] 2023-07-31 12:15:44.953 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 12:15:57.798 [main] GROStepDefinition - Patient ID : 1726
+[INFO ] 2023-07-31 12:15:58.204 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:15:59.393 [main] GROStepDefinition - Patient Name :Phencyclidine (PCP)
+[INFO ] 2023-07-31 12:16:00.048 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:16:00.862 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:16:05.941 [main] GROStepDefinition - Test Name :Phencyclidine (PCP)
+[INFO ] 2023-07-31 12:16:09.359 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 12:16:22.331 [main] GROStepDefinition - Patient ID : 1727
+[INFO ] 2023-07-31 12:16:22.735 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:16:24.126 [main] GROStepDefinition - Patient Name :RED BLOOD CELL COUNT (RBC's)
+[INFO ] 2023-07-31 12:16:24.746 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:16:25.527 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:16:30.575 [main] GROStepDefinition - Test Name :RED BLOOD CELL COUNT (RBC's)
+[INFO ] 2023-07-31 12:16:34.051 [main] GROStepDefinition - Amount : ₱ 115
+[INFO ] 2023-07-31 12:16:46.954 [main] GROStepDefinition - Patient ID : 1728
+[INFO ] 2023-07-31 12:16:47.371 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:16:48.970 [main] GROStepDefinition - Patient Name :Red Cell distribution width (RDW -CV )
+[INFO ] 2023-07-31 12:16:49.604 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:16:50.414 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:16:55.594 [main] GROStepDefinition - Test Name :Red Cell distribution width (RDW -CV )
+[INFO ] 2023-07-31 12:16:58.987 [main] GROStepDefinition - Amount : ₱ 265
+[INFO ] 2023-07-31 12:48:10.914 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-31 12:48:21.427 [main] GROStepDefinition - Patient ID : 1729
+[INFO ] 2023-07-31 12:48:22.031 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:48:22.824 [main] GROStepDefinition - Patient Name :RF
+[INFO ] 2023-07-31 12:48:23.465 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:48:24.217 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:48:36.078 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-31 12:48:45.833 [main] GROStepDefinition - Patient ID : 1729
+[INFO ] 2023-07-31 12:48:46.289 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:48:47.038 [main] GROStepDefinition - Patient Name :RF
+[INFO ] 2023-07-31 12:48:47.634 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:48:48.371 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:48:53.210 [main] GROStepDefinition - Test Name :RF
+[INFO ] 2023-07-31 12:48:56.598 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 12:49:09.437 [main] GROStepDefinition - Patient ID : 1730
+[INFO ] 2023-07-31 12:49:09.856 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:49:10.881 [main] GROStepDefinition - Patient Name :Rubella IgG
+[INFO ] 2023-07-31 12:49:11.481 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:49:12.244 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:49:17.305 [main] GROStepDefinition - Test Name :Rubella IgG
+[INFO ] 2023-07-31 12:49:20.711 [main] GROStepDefinition - Amount : ₱ 1,250
+[INFO ] 2023-07-31 12:49:33.690 [main] GROStepDefinition - Patient ID : 1731
+[INFO ] 2023-07-31 12:49:34.103 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:49:35.147 [main] GROStepDefinition - Patient Name :Serum Lipase
+[INFO ] 2023-07-31 12:49:35.777 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:49:36.549 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:49:41.606 [main] GROStepDefinition - Test Name :Serum Lipase
+[INFO ] 2023-07-31 12:49:45.036 [main] GROStepDefinition - Amount : ₱ 300
+[INFO ] 2023-07-31 12:49:57.937 [main] GROStepDefinition - Patient ID : 1732
+[INFO ] 2023-07-31 12:49:58.355 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:49:59.554 [main] GROStepDefinition - Patient Name :Serum POTASSIUM - K+
+[INFO ] 2023-07-31 12:50:00.160 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:50:00.981 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:50:06.122 [main] GROStepDefinition - Test Name :Serum POTASSIUM - K+
+[INFO ] 2023-07-31 12:50:09.561 [main] GROStepDefinition - Amount : ₱ 160
+[INFO ] 2023-07-31 12:51:07.395 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-31 12:51:19.003 [main] GROStepDefinition - Patient ID : 1733
+[INFO ] 2023-07-31 12:51:19.515 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:51:20.697 [main] GROStepDefinition - Patient Name :STAT CK-MB
+[INFO ] 2023-07-31 12:51:21.363 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:51:22.097 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:51:27.044 [main] GROStepDefinition - Test Name :STAT CK-MB
+[INFO ] 2023-07-31 12:51:30.519 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 12:51:43.617 [main] GROStepDefinition - Patient ID : 1734
+[INFO ] 2023-07-31 12:51:44.033 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:51:45.548 [main] GROStepDefinition - Patient Name :STAT High sensitive Troponin-I
+[INFO ] 2023-07-31 12:51:46.272 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:51:47.051 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:51:52.504 [main] GROStepDefinition - Test Name :STAT High sensitive Troponin-I
+[INFO ] 2023-07-31 12:51:55.961 [main] GROStepDefinition - Amount : ₱ 1,600
+[INFO ] 2023-07-31 12:52:09.233 [main] GROStepDefinition - Patient ID : 1735
+[INFO ] 2023-07-31 12:52:09.635 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:52:10.736 [main] GROStepDefinition - Patient Name :Thyroid Panel
+[INFO ] 2023-07-31 12:52:11.410 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:52:12.218 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:52:17.681 [main] GROStepDefinition - Test Name :Thyroid Panel
+[INFO ] 2023-07-31 12:52:21.117 [main] GROStepDefinition - Amount : ₱ 550
+[INFO ] 2023-07-31 12:52:34.383 [main] GROStepDefinition - Patient ID : 1736
+[INFO ] 2023-07-31 12:52:34.790 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:52:35.951 [main] GROStepDefinition - Patient Name :Thyroid Panel II
+[INFO ] 2023-07-31 12:52:36.605 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:52:37.442 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:52:42.805 [main] GROStepDefinition - Test Name :Thyroid Panel II
+[INFO ] 2023-07-31 12:52:46.339 [main] GROStepDefinition - Amount : ₱ 1,000
+[INFO ] 2023-07-31 12:52:59.725 [main] GROStepDefinition - Patient ID : 1737
+[INFO ] 2023-07-31 12:53:00.131 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:53:01.466 [main] GROStepDefinition - Patient Name :Thyroid Screening Panel
+[INFO ] 2023-07-31 12:53:02.149 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:53:02.966 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:53:08.484 [main] GROStepDefinition - Test Name :Thyroid Screening Panel
+[INFO ] 2023-07-31 12:53:11.893 [main] GROStepDefinition - Amount : ₱ 1,750
+[INFO ] 2023-07-31 12:53:25.057 [main] GROStepDefinition - Patient ID : 1738
+[INFO ] 2023-07-31 12:53:25.462 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:53:26.294 [main] GROStepDefinition - Patient Name :TIBC
+[INFO ] 2023-07-31 12:53:27.002 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:53:27.849 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:53:33.051 [main] GROStepDefinition - Test Name :TIBC
+[INFO ] 2023-07-31 12:53:36.570 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 12:53:49.728 [main] GROStepDefinition - Patient ID : 1739
+[INFO ] 2023-07-31 12:53:50.133 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:53:51.117 [main] GROStepDefinition - Patient Name :Torch IgG
+[INFO ] 2023-07-31 12:53:51.815 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:53:52.660 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:53:58.030 [main] GROStepDefinition - Test Name :Torch IgG
+[INFO ] 2023-07-31 12:54:01.553 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 12:54:14.890 [main] GROStepDefinition - Patient ID : 1740
+[INFO ] 2023-07-31 12:54:15.310 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:54:16.317 [main] GROStepDefinition - Patient Name :Torch IgM
+[INFO ] 2023-07-31 12:54:17.018 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:54:17.810 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:54:23.036 [main] GROStepDefinition - Test Name :Torch IgM
+[INFO ] 2023-07-31 12:54:26.546 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 12:54:39.816 [main] GROStepDefinition - Patient ID : 1741
+[INFO ] 2023-07-31 12:54:40.230 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:54:41.212 [main] GROStepDefinition - Patient Name :Total IgE
+[INFO ] 2023-07-31 12:54:41.915 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:54:42.739 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:54:47.978 [main] GROStepDefinition - Test Name :Total IgE
+[INFO ] 2023-07-31 12:54:51.518 [main] GROStepDefinition - Amount : ₱ 1,520
+[INFO ] 2023-07-31 12:55:04.863 [main] GROStepDefinition - Patient ID : 1742
+[INFO ] 2023-07-31 12:55:05.269 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 12:55:06.298 [main] GROStepDefinition - Patient Name :Total β-hCG
+[INFO ] 2023-07-31 12:55:06.986 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 12:55:07.802 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 12:55:13.115 [main] GROStepDefinition - Test Name :Total β-hCG
+[INFO ] 2023-07-31 12:55:16.613 [main] GROStepDefinition - Amount : ₱ 1,000
+[INFO ] 2023-07-31 13:04:08.530 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-31 13:04:20.728 [main] GROStepDefinition - Patient ID : 1743
+[INFO ] 2023-07-31 13:04:21.257 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 13:04:22.282 [main] GROStepDefinition - Patient Name :Toxo IgM
+[INFO ] 2023-07-31 13:04:22.989 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 13:04:23.784 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 13:04:28.912 [main] GROStepDefinition - Test Name :Toxo IgM
+[INFO ] 2023-07-31 13:04:32.401 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 13:04:45.623 [main] GROStepDefinition - Patient ID : 1744
+[INFO ] 2023-07-31 13:04:46.033 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 13:04:47.052 [main] GROStepDefinition - Patient Name :Troponin-I
+[INFO ] 2023-07-31 13:04:47.749 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 13:04:48.534 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 13:04:53.986 [main] GROStepDefinition - Test Name :Troponin-I
+[INFO ] 2023-07-31 13:04:57.521 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 13:05:10.687 [main] GROStepDefinition - Patient ID : 1745
+[INFO ] 2023-07-31 13:05:11.095 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 13:05:12.165 [main] GROStepDefinition - Patient Name :Urine Amylase
+[INFO ] 2023-07-31 13:05:12.842 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 13:05:13.670 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 13:05:19.134 [main] GROStepDefinition - Test Name :Urine Amylase
+[INFO ] 2023-07-31 13:05:22.668 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 13:05:35.952 [main] GROStepDefinition - Patient ID : 1746
+[INFO ] 2023-07-31 13:05:36.366 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 13:05:37.433 [main] GROStepDefinition - Patient Name :URINE Sodium
+[INFO ] 2023-07-31 13:05:38.164 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 13:05:38.994 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 13:05:44.352 [main] GROStepDefinition - Test Name :URINE Sodium
+[INFO ] 2023-07-31 13:05:47.840 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 13:06:00.899 [main] GROStepDefinition - Patient ID : 1747
+[INFO ] 2023-07-31 13:06:01.310 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 13:06:02.979 [main] GROStepDefinition - Patient Name :VLDL - Very Low Density Lipoprotein
+[INFO ] 2023-07-31 13:06:03.665 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 13:06:04.496 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-31 13:06:10.099 [main] GROStepDefinition - Test Name :VLDL - Very Low Density Lipoprotein
+[INFO ] 2023-07-31 13:06:13.601 [main] GROStepDefinition - Amount : ₱ 0
+[INFO ] 2023-07-31 13:06:26.490 [main] GROStepDefinition - Patient ID : 1748
+[INFO ] 2023-07-31 13:06:26.906 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-31 13:06:27.665 [main] GROStepDefinition - Patient Name :
+[INFO ] 2023-07-31 13:06:28.387 [main] GROStepDefinition - Gender : Female
+[INFO ] 2023-07-31 13:06:29.214 [main] GROStepDefinition - Age : 25

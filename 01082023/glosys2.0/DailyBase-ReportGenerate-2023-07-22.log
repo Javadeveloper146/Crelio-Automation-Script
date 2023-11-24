@@ -1,0 +1,1226 @@
+[INFO ] 2023-07-22 11:08:14.744 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 11:08:29.677 [main] GROStepDefinition - Registration : 
+[INFO ] 2023-07-22 11:08:36.572 [main] GROStepDefinition - Patient ID : 272
+[INFO ] 2023-07-22 11:08:37.178 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 11:08:38.082 [main] GROStepDefinition - Patient Name :Stemz Dev
+[INFO ] 2023-07-22 11:08:38.706 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 11:08:39.478 [main] GROStepDefinition - Age : 18
+[INFO ] 2023-07-22 11:10:52.283 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 11:11:10.753 [main] GROStepDefinition - Registration : 
+[INFO ] 2023-07-22 11:11:17.413 [main] GROStepDefinition - Patient ID : 273
+[INFO ] 2023-07-22 11:11:18.017 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 11:11:19.361 [main] GROStepDefinition - Patient Name :Hemogram (CBC with ESR)
+[INFO ] 2023-07-22 11:11:19.984 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 11:11:20.773 [main] GROStepDefinition - Age : 18
+[INFO ] 2023-07-22 11:11:26.915 [main] GROStepDefinition - Test Name :Hemogram (CBC with ESR)
+[INFO ] 2023-07-22 11:11:30.848 [main] GROStepDefinition - Amount : ₹ 350
+[INFO ] 2023-07-22 11:12:05.473 [main] TestResult - Test Value : 17
+[INFO ] 2023-07-22 11:12:06.070 [main] TestResult - Test Value : 5
+[INFO ] 2023-07-22 11:12:06.387 [main] TestResult - Test Value : 40
+[INFO ] 2023-07-22 11:12:06.675 [main] TestResult - Test Value : 83
+[INFO ] 2023-07-22 11:12:06.989 [main] TestResult - Test Value : 27
+[INFO ] 2023-07-22 11:12:07.295 [main] TestResult - Test Value : 32
+[INFO ] 2023-07-22 11:12:07.614 [main] TestResult - Test Value : 14
+[INFO ] 2023-07-22 11:12:07.970 [main] TestResult - Test Value : 4
+[INFO ] 2023-07-22 11:12:08.247 [main] TestResult - Test Value : 42
+[INFO ] 2023-07-22 11:12:08.557 [main] TestResult - Test Value : 22
+[INFO ] 2023-07-22 11:12:08.881 [main] TestResult - Test Value : 8
+[INFO ] 2023-07-22 11:12:09.160 [main] TestResult - Test Value : 2
+[INFO ] 2023-07-22 11:12:09.438 [main] TestResult - Test Value : 2
+[INFO ] 2023-07-22 11:12:09.702 [main] TestResult - Test Value : 5
+[INFO ] 2023-07-22 11:12:09.975 [main] TestResult - Test Value : 40
+[INFO ] 2023-07-22 11:12:10.277 [main] TestResult - Test Value : 2
+[INFO ] 2023-07-22 11:12:10.590 [main] TestResult - Test Value : 0.2
+[INFO ] 2023-07-22 11:12:10.927 [main] TestResult - Test Value : 0.1
+[INFO ] 2023-07-22 11:12:11.254 [main] TestResult - Test Value : 200
+[INFO ] 2023-07-22 11:12:11.527 [main] TestResult - Test Value : 8
+[INFO ] 2023-07-22 11:12:11.824 [main] TestResult - Test Value : 22
+[INFO ] 2023-07-22 11:12:15.084 [main] GROStepDefinition - Report Updated Successfully 
+[INFO ] 2023-07-22 11:13:26.907 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 11:13:43.397 [main] GROStepDefinition - Registration : 
+[INFO ] 2023-07-22 11:13:49.982 [main] GROStepDefinition - Patient ID : 274
+[INFO ] 2023-07-22 11:13:50.595 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 11:13:52.007 [main] GROStepDefinition - Patient Name :Hemogram (CBC with ESR)
+[INFO ] 2023-07-22 11:13:52.644 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 11:13:53.446 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 11:13:59.634 [main] GROStepDefinition - Test Name :Hemogram (CBC with ESR)
+[INFO ] 2023-07-22 11:14:03.519 [main] GROStepDefinition - Amount : ₹ 350
+[INFO ] 2023-07-22 11:14:37.929 [main] TestResult - Test Value : 17
+[INFO ] 2023-07-22 11:14:38.539 [main] TestResult - Test Value : 5
+[INFO ] 2023-07-22 11:14:38.848 [main] TestResult - Test Value : 40
+[INFO ] 2023-07-22 11:14:39.165 [main] TestResult - Test Value : 83
+[INFO ] 2023-07-22 11:14:39.469 [main] TestResult - Test Value : 27
+[INFO ] 2023-07-22 11:14:39.775 [main] TestResult - Test Value : 32
+[INFO ] 2023-07-22 11:14:40.098 [main] TestResult - Test Value : 14
+[INFO ] 2023-07-22 11:14:40.388 [main] TestResult - Test Value : 4
+[INFO ] 2023-07-22 11:14:40.675 [main] TestResult - Test Value : 42
+[INFO ] 2023-07-22 11:14:40.991 [main] TestResult - Test Value : 22
+[INFO ] 2023-07-22 11:14:41.297 [main] TestResult - Test Value : 8
+[INFO ] 2023-07-22 11:14:41.568 [main] TestResult - Test Value : 2
+[INFO ] 2023-07-22 11:14:41.854 [main] TestResult - Test Value : 2
+[INFO ] 2023-07-22 11:14:42.117 [main] TestResult - Test Value : 5
+[INFO ] 2023-07-22 11:14:42.393 [main] TestResult - Test Value : 40
+[INFO ] 2023-07-22 11:14:42.658 [main] TestResult - Test Value : 2
+[INFO ] 2023-07-22 11:14:42.975 [main] TestResult - Test Value : 0.2
+[INFO ] 2023-07-22 11:14:43.304 [main] TestResult - Test Value : 0.1
+[INFO ] 2023-07-22 11:14:43.664 [main] TestResult - Test Value : 200
+[INFO ] 2023-07-22 11:14:43.994 [main] TestResult - Test Value : 8
+[INFO ] 2023-07-22 11:14:44.293 [main] TestResult - Test Value : 22
+[INFO ] 2023-07-22 11:14:46.581 [main] GROStepDefinition - Report Updated Successfully 
+[INFO ] 2023-07-22 11:17:30.099 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 11:17:48.134 [main] GROStepDefinition - Registration : 
+[INFO ] 2023-07-22 11:17:54.841 [main] GROStepDefinition - Patient ID : 275
+[INFO ] 2023-07-22 11:17:55.451 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 11:17:56.754 [main] GROStepDefinition - Patient Name :Hemogram (CBC with ESR)
+[INFO ] 2023-07-22 11:17:57.377 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 11:17:58.138 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 11:18:04.256 [main] GROStepDefinition - Test Name :Hemogram (CBC with ESR)
+[INFO ] 2023-07-22 11:18:08.161 [main] GROStepDefinition - Amount : ₹ 350
+[INFO ] 2023-07-22 11:18:35.047 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 11:18:51.913 [main] GROStepDefinition - Registration : 
+[INFO ] 2023-07-22 11:18:57.904 [main] GROStepDefinition - Patient ID : 276
+[INFO ] 2023-07-22 11:18:58.514 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 11:18:59.811 [main] GROStepDefinition - Patient Name :Hemogram (CBC with ESR)
+[INFO ] 2023-07-22 11:19:00.447 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 11:19:01.223 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 11:19:07.341 [main] GROStepDefinition - Test Name :Hemogram (CBC with ESR)
+[INFO ] 2023-07-22 11:19:11.233 [main] GROStepDefinition - Amount : ₹ 350
+[INFO ] 2023-07-22 11:19:39.052 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 11:19:55.811 [main] GROStepDefinition - Registration : 
+[INFO ] 2023-07-22 11:20:02.119 [main] GROStepDefinition - Patient ID : 277
+[INFO ] 2023-07-22 11:20:02.698 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 11:20:04.006 [main] GROStepDefinition - Patient Name :Hemogram (CBC with ESR)
+[INFO ] 2023-07-22 11:20:04.633 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 11:20:05.440 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 11:20:11.680 [main] GROStepDefinition - Test Name :Hemogram (CBC with ESR)
+[INFO ] 2023-07-22 11:20:15.584 [main] GROStepDefinition - Amount : ₹ 350
+[INFO ] 2023-07-22 11:21:08.705 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 11:21:23.261 [main] GROStepDefinition - Registration : 
+[INFO ] 2023-07-22 11:21:29.718 [main] GROStepDefinition - Patient ID : 278
+[INFO ] 2023-07-22 11:21:30.288 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 11:21:31.618 [main] GROStepDefinition - Patient Name :Hemogram (CBC with ESR)
+[INFO ] 2023-07-22 11:21:32.246 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 11:21:33.030 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 11:21:39.261 [main] GROStepDefinition - Test Name :Hemogram (CBC with ESR)
+[INFO ] 2023-07-22 11:21:43.186 [main] GROStepDefinition - Amount : ₹ 350
+[INFO ] 2023-07-22 11:40:40.629 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 11:42:26.734 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 11:44:23.823 [main] GROStepDefinition - Crelio Automation Script Run In :  Firefox Browser
+[INFO ] 2023-07-22 11:44:41.623 [main] GROStepDefinition - Crelio Automation Script Run In :  Firefox Browser
+[INFO ] 2023-07-22 11:45:01.148 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 11:47:42.172 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 11:48:06.104 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 11:48:38.314 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 11:49:04.407 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 11:49:16.236 [main] GROStepDefinition - Patient ID : 290
+[INFO ] 2023-07-22 11:49:16.838 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 11:49:18.190 [main] GROStepDefinition - Patient Name :Hemogram (CBC with ESR)
+[INFO ] 2023-07-22 11:49:18.811 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 11:49:19.570 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 11:49:25.765 [main] GROStepDefinition - Test Name :Hemogram (CBC with ESR)
+[INFO ] 2023-07-22 11:49:29.704 [main] GROStepDefinition - Amount : ₹ 350
+[INFO ] 2023-07-22 11:54:49.336 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 11:55:00.667 [main] GROStepDefinition - Patient ID : 294
+[INFO ] 2023-07-22 11:55:01.266 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 11:55:02.420 [main] GROStepDefinition - Patient Name :Neutrophils Count
+[INFO ] 2023-07-22 11:55:03.043 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 11:55:03.835 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 11:55:09.971 [main] GROStepDefinition - Test Name :Neutrophils Count
+[INFO ] 2023-07-22 11:55:13.894 [main] GROStepDefinition - Amount : ₹ 265
+[INFO ] 2023-07-22 11:55:44.413 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 11:55:55.270 [main] GROStepDefinition - Patient ID : 295
+[INFO ] 2023-07-22 11:55:55.864 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 11:55:56.975 [main] GROStepDefinition - Patient Name :Neutrophils Count
+[INFO ] 2023-07-22 11:55:57.599 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 11:55:58.344 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 11:56:04.264 [main] GROStepDefinition - Test Name :Neutrophils Count
+[INFO ] 2023-07-22 11:56:08.025 [main] GROStepDefinition - Amount : ₹ 265
+[INFO ] 2023-07-22 11:56:43.025 [main] TestResult - Neutrophils Count Test Value : 17
+[INFO ] 2023-07-22 11:56:45.226 [main] GROStepDefinition - Report Updated Successfully 
+[INFO ] 2023-07-22 11:59:48.238 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 12:00:26.015 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 12:00:38.005 [main] GROStepDefinition - Patient ID : 298
+[INFO ] 2023-07-22 12:00:38.615 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 12:00:39.609 [main] GROStepDefinition - Patient Name :Eosinophil
+[INFO ] 2023-07-22 12:00:40.246 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 12:00:41.012 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 12:00:46.948 [main] GROStepDefinition - Test Name :Eosinophil
+[INFO ] 2023-07-22 12:00:50.767 [main] GROStepDefinition - Amount : ₹ 265
+[INFO ] 2023-07-22 12:14:42.116 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 12:15:05.321 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 12:15:15.647 [main] GROStepDefinition - Patient ID : 305
+[INFO ] 2023-07-22 12:15:16.257 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 12:15:17.372 [main] GROStepDefinition - Patient Name :Monocyte Count
+[INFO ] 2023-07-22 12:15:17.991 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 12:15:18.757 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 12:15:24.768 [main] GROStepDefinition - Test Name :Monocyte Count
+[INFO ] 2023-07-22 12:15:28.593 [main] GROStepDefinition - Amount : ₹ 265
+[INFO ] 2023-07-22 12:16:03.483 [main] TestResult - Monocyte Count Test Value : 17
+[INFO ] 2023-07-22 12:16:05.677 [main] GROStepDefinition - Report Updated Successfully 
+[INFO ] 2023-07-22 12:17:22.127 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 12:17:32.329 [main] GROStepDefinition - Patient ID : 306
+[INFO ] 2023-07-22 12:17:32.904 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 12:17:33.906 [main] GROStepDefinition - Patient Name :Lymphocyte
+[INFO ] 2023-07-22 12:17:34.528 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 12:17:35.306 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 12:17:41.329 [main] GROStepDefinition - Test Name :Lymphocyte
+[INFO ] 2023-07-22 12:17:45.179 [main] GROStepDefinition - Amount : ₹ 265
+[INFO ] 2023-07-22 12:18:20.327 [main] TestResult - Lymphocyte Test Value : 17
+[INFO ] 2023-07-22 12:18:22.529 [main] GROStepDefinition - Report Updated Successfully 
+[INFO ] 2023-07-22 12:18:46.350 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 12:18:56.675 [main] GROStepDefinition - Patient ID : 308
+[INFO ] 2023-07-22 12:18:57.249 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 12:18:58.510 [main] GROStepDefinition - Patient Name :Thyroid Screening Panel
+[INFO ] 2023-07-22 12:18:59.147 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 12:18:59.919 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 12:19:06.201 [main] GROStepDefinition - Test Name :Thyroid Screening Panel
+[INFO ] 2023-07-22 12:19:10.138 [main] GROStepDefinition - Amount : ₹ 1,750
+[INFO ] 2023-07-22 12:21:55.130 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 12:22:06.396 [main] GROStepDefinition - Patient ID : 310
+[INFO ] 2023-07-22 12:22:40.399 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 12:22:51.654 [main] GROStepDefinition - Patient ID : 310
+[INFO ] 2023-07-22 12:22:52.442 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 12:22:53.816 [main] GROStepDefinition - Patient Name :Thyroid Screening Panel
+[INFO ] 2023-07-22 12:22:54.453 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 12:22:55.274 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 12:23:28.572 [main] GROStepDefinition - Crelio Automation Script Run In :  Firefox Browser
+[INFO ] 2023-07-22 12:25:49.395 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 12:26:01.571 [main] GROStepDefinition - Patient ID : 312
+[INFO ] 2023-07-22 12:26:02.407 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 12:26:03.854 [main] GROStepDefinition - Patient Name :Thyroid Screening Panel
+[INFO ] 2023-07-22 12:26:04.527 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 12:26:05.364 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 12:26:11.847 [main] GROStepDefinition - Test Name :Thyroid Screening Panel
+[INFO ] 2023-07-22 12:26:15.739 [main] GROStepDefinition - Amount : ₹ 1,750
+[INFO ] 2023-07-22 12:28:15.955 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 12:28:27.480 [main] GROStepDefinition - Patient ID : 314
+[INFO ] 2023-07-22 12:28:28.284 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 12:28:30.034 [main] GROStepDefinition - Patient Name :Drugs of Abuse screen- 10 Drug Panel
+[INFO ] 2023-07-22 12:28:30.652 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 12:28:31.497 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 12:28:38.082 [main] GROStepDefinition - Test Name :Drugs of Abuse screen- 10 Drug Panel
+[INFO ] 2023-07-22 12:28:42.050 [main] GROStepDefinition - Amount : ₹ 9,000
+[INFO ] 2023-07-22 12:33:44.360 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 12:33:53.836 [main] GROStepDefinition - Patient ID : 317
+[INFO ] 2023-07-22 12:33:54.652 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 12:33:56.416 [main] GROStepDefinition - Patient Name :Drugs of Abuse screen- 10 Drug Panel
+[INFO ] 2023-07-22 12:33:57.083 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 12:33:57.897 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 12:34:04.566 [main] GROStepDefinition - Test Name :Drugs of Abuse screen- 10 Drug Panel
+[INFO ] 2023-07-22 12:34:08.449 [main] GROStepDefinition - Amount : ₹ 9,000
+[INFO ] 2023-07-22 12:34:52.116 [main] GROStepDefinition - Report Updated Successfully 
+[INFO ] 2023-07-22 12:37:25.622 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 12:37:34.736 [main] GROStepDefinition - Patient ID : 319
+[INFO ] 2023-07-22 12:37:35.599 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 12:37:36.693 [main] GROStepDefinition - Patient Name :INSULIN- PP
+[INFO ] 2023-07-22 12:37:37.349 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 12:37:38.191 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 12:37:44.457 [main] GROStepDefinition - Test Name :INSULIN- PP
+[INFO ] 2023-07-22 12:37:48.398 [main] GROStepDefinition - Amount : ₹ 1,400
+[INFO ] 2023-07-22 12:38:27.866 [main] TestResult - INSULIN- PP Test Value : 
+[INFO ] 2023-07-22 12:38:30.181 [main] GROStepDefinition - Report Updated Successfully 
+[INFO ] 2023-07-22 12:39:11.264 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 12:39:20.988 [main] GROStepDefinition - Patient ID : 321
+[INFO ] 2023-07-22 12:40:21.442 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 12:40:32.259 [main] GROStepDefinition - Patient ID : 321
+[INFO ] 2023-07-22 12:40:33.076 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 12:40:34.550 [main] GROStepDefinition - Patient Name :Absolute Neutrophils Count
+[INFO ] 2023-07-22 12:40:35.185 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 12:40:36.005 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 12:40:42.491 [main] GROStepDefinition - Test Name :Absolute Neutrophils Count
+[INFO ] 2023-07-22 12:40:46.471 [main] GROStepDefinition - Amount : ₹ 265
+[INFO ] 2023-07-22 12:41:26.237 [main] TestResult - Absolute Neutrophils Count Test Value : 
+[INFO ] 2023-07-22 12:41:28.483 [main] GROStepDefinition - Report Updated Successfully 
+[INFO ] 2023-07-22 12:42:09.687 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 12:42:36.276 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 12:42:47.092 [main] GROStepDefinition - Patient ID : 323
+[INFO ] 2023-07-22 12:42:47.925 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 12:42:49.129 [main] GROStepDefinition - Patient Name :Basophils Count
+[INFO ] 2023-07-22 12:42:49.799 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 12:42:50.632 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 12:42:57.041 [main] GROStepDefinition - Test Name :Basophils Count
+[INFO ] 2023-07-22 12:43:00.943 [main] GROStepDefinition - Amount : ₹ 265
+[INFO ] 2023-07-22 12:45:29.398 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 12:46:00.351 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 12:46:09.920 [main] GROStepDefinition - Patient ID : 326
+[INFO ] 2023-07-22 12:46:32.450 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 12:46:42.824 [main] GROStepDefinition - Patient ID : 326
+[INFO ] 2023-07-22 12:46:43.634 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 12:46:45.151 [main] GROStepDefinition - Patient Name :Absolute Eosinophils Count
+[INFO ] 2023-07-22 12:46:45.906 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 12:46:46.729 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 12:46:53.214 [main] GROStepDefinition - Test Name :Absolute Eosinophils Count
+[INFO ] 2023-07-22 12:46:57.134 [main] GROStepDefinition - Amount : ₹ 265
+[INFO ] 2023-07-22 12:47:37.403 [main] TestResult - Absolute Eosinophils Count Test Value : 
+[INFO ] 2023-07-22 12:47:39.658 [main] GROStepDefinition - Report Updated Successfully 
+[INFO ] 2023-07-22 12:48:18.556 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 12:48:27.656 [main] GROStepDefinition - Patient ID : 328
+[INFO ] 2023-07-22 12:48:28.549 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 12:48:30.477 [main] GROStepDefinition - Patient Name :Mean Cell Haemoglobin Concentration (MCHC)
+[INFO ] 2023-07-22 12:48:31.136 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 12:48:31.981 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 12:48:39.395 [main] GROStepDefinition - Test Name :Mean Cell Haemoglobin Concentration (MCHC)
+[INFO ] 2023-07-22 12:49:49.556 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 12:49:59.938 [main] GROStepDefinition - Patient ID : 330
+[INFO ] 2023-07-22 12:50:00.851 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 12:50:02.885 [main] GROStepDefinition - Patient Name :Mean Cell Haemoglobin Concentration (MCHC)
+[INFO ] 2023-07-22 12:50:03.606 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 12:50:04.444 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 12:50:11.255 [main] GROStepDefinition - Test Name :Mean Cell Haemoglobin Concentration (MCHC)
+[INFO ] 2023-07-22 12:50:15.572 [main] GROStepDefinition - Amount : ₹ 265
+[INFO ] 2023-07-22 12:51:06.286 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 12:51:16.159 [main] GROStepDefinition - Patient ID : 331
+[INFO ] 2023-07-22 12:51:16.985 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 12:51:18.966 [main] GROStepDefinition - Patient Name :Mean Cell Haemoglobin Concentration (MCHC)
+[INFO ] 2023-07-22 12:51:19.609 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 12:51:20.399 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 12:51:27.204 [main] GROStepDefinition - Test Name :Mean Cell Haemoglobin Concentration (MCHC)
+[INFO ] 2023-07-22 12:51:31.479 [main] GROStepDefinition - Amount : ₹ 265
+[INFO ] 2023-07-22 12:53:15.345 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 12:53:26.843 [main] GROStepDefinition - Patient ID : 333
+[INFO ] 2023-07-22 12:53:27.671 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 12:53:29.283 [main] GROStepDefinition - Patient Name :Mean Cell Haemoglobin (MCH)
+[INFO ] 2023-07-22 12:53:29.924 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 12:53:30.754 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 12:53:37.628 [main] GROStepDefinition - Test Name :Mean Cell Haemoglobin (MCH)
+[INFO ] 2023-07-22 12:53:41.918 [main] GROStepDefinition - Amount : ₹ 265
+[INFO ] 2023-07-22 12:55:29.834 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 12:55:40.532 [main] GROStepDefinition - Patient ID : 336
+[INFO ] 2023-07-22 12:55:41.390 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 12:55:42.931 [main] GROStepDefinition - Patient Name :Mean Cell Haemoglobin (MCH)
+[INFO ] 2023-07-22 12:55:43.583 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 12:55:44.434 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 12:55:51.398 [main] GROStepDefinition - Test Name :Mean Cell Haemoglobin (MCH)
+[INFO ] 2023-07-22 12:55:55.654 [main] GROStepDefinition - Amount : ₹ 265
+[INFO ] 2023-07-22 12:58:23.878 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 12:58:34.260 [main] GROStepDefinition - Patient ID : 337
+[INFO ] 2023-07-22 12:58:35.119 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 12:58:36.730 [main] GROStepDefinition - Patient Name :Mean Cell Haemoglobin (MCH)
+[INFO ] 2023-07-22 12:58:37.389 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 12:58:38.209 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 12:58:45.172 [main] GROStepDefinition - Test Name :Mean Cell Haemoglobin (MCH)
+[INFO ] 2023-07-22 12:58:49.467 [main] GROStepDefinition - Amount : ₹ 265
+[INFO ] 2023-07-22 12:59:31.697 [main] TestResult - Mean Cell Haemoglobin (MCH) Test Value : 
+[INFO ] 2023-07-22 12:59:33.959 [main] GROStepDefinition - Report Updated Successfully 
+[INFO ] 2023-07-22 13:00:05.568 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 13:00:17.002 [main] GROStepDefinition - Patient ID : 339
+[INFO ] 2023-07-22 13:00:17.909 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 13:00:19.335 [main] GROStepDefinition - Patient Name :Mean Cell Volume (MCV)
+[INFO ] 2023-07-22 13:00:19.985 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 13:00:20.829 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 13:00:27.757 [main] GROStepDefinition - Test Name :Mean Cell Volume (MCV)
+[INFO ] 2023-07-22 13:00:32.057 [main] GROStepDefinition - Amount : ₹ 265
+[INFO ] 2023-07-22 13:01:13.522 [main] TestResult - Mean Cell Volume (MCV) Test Value : 
+[INFO ] 2023-07-22 13:01:15.867 [main] GROStepDefinition - Report Updated Successfully 
+[INFO ] 2023-07-22 13:14:37.621 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 13:14:48.567 [main] GROStepDefinition - Patient ID : 346
+[INFO ] 2023-07-22 13:14:49.447 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 13:14:51.007 [main] GROStepDefinition - Patient Name :Absolute Monocytes Count
+[INFO ] 2023-07-22 13:14:51.643 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 13:14:52.482 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 13:14:59.413 [main] GROStepDefinition - Test Name :Absolute Monocytes Count
+[INFO ] 2023-07-22 13:15:03.668 [main] GROStepDefinition - Amount : ₹ 265
+[INFO ] 2023-07-22 13:15:44.488 [main] TestResult - Absolute Monocytes Count Test Value : 
+[INFO ] 2023-07-22 13:15:46.740 [main] GROStepDefinition - Report Updated Successfully 
+[INFO ] 2023-07-22 13:16:52.705 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 13:17:29.512 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 13:17:39.745 [main] GROStepDefinition - Patient ID : 349
+[INFO ] 2023-07-22 13:17:40.648 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 13:17:42.019 [main] GROStepDefinition - Patient Name :In-Direct Bilirubin
+[INFO ] 2023-07-22 13:17:42.650 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 13:17:43.505 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 13:17:50.313 [main] GROStepDefinition - Test Name :In-Direct Bilirubin
+[INFO ] 2023-07-22 13:17:54.592 [main] GROStepDefinition - Amount : ₹ 240
+[INFO ] 2023-07-22 13:18:35.233 [main] TestResult - In-Direct Bilirubin Test Value : 
+[INFO ] 2023-07-22 13:18:37.559 [main] GROStepDefinition - Report Updated Successfully 
+[INFO ] 2023-07-22 13:41:16.045 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 13:41:25.267 [main] GROStepDefinition - Patient ID : 351
+[INFO ] 2023-07-22 13:42:04.755 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 13:42:34.693 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 13:42:45.939 [main] GROStepDefinition - Patient ID : 351
+[INFO ] 2023-07-22 13:43:13.800 [main] GROStepDefinition - Crelio Automation Script Run In :  MicrosoftEdge Browser
+[INFO ] 2023-07-22 13:43:47.894 [main] GROStepDefinition - Crelio Automation Script Run In :  Firefox Browser
+[INFO ] 2023-07-22 13:44:13.418 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 13:44:25.097 [main] GROStepDefinition - Patient ID : 352
+[INFO ] 2023-07-22 13:44:26.195 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 13:44:27.717 [main] GROStepDefinition - Patient Name :In-Direct Bilirubin
+[INFO ] 2023-07-22 13:44:28.361 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 13:44:29.151 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 13:44:35.695 [main] GROStepDefinition - Test Name :In-Direct Bilirubin
+[INFO ] 2023-07-22 13:44:40.003 [main] GROStepDefinition - Amount : ₹ 240
+[INFO ] 2023-07-22 13:45:20.422 [main] TestResult - In-Direct Bilirubin Test Value : 
+[INFO ] 2023-07-22 13:46:59.973 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 13:47:09.742 [main] GROStepDefinition - Patient ID : 354
+[INFO ] 2023-07-22 13:47:10.747 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 13:47:12.689 [main] GROStepDefinition - Patient Name :Albumin / Globulin Ration (A:G Ratio)
+[INFO ] 2023-07-22 13:47:13.387 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 13:47:14.233 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 13:47:21.126 [main] GROStepDefinition - Test Name :Albumin / Globulin Ration (A:G Ratio)
+[INFO ] 2023-07-22 13:47:25.384 [main] GROStepDefinition - Amount : ₹ 430
+[INFO ] 2023-07-22 13:48:05.577 [main] TestResult - Albumin / Globulin Ration (A:G Ratio) Test Value : 
+[INFO ] 2023-07-22 13:50:09.061 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 13:50:20.206 [main] GROStepDefinition - Patient ID : 356
+[INFO ] 2023-07-22 13:50:21.240 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 13:50:22.572 [main] GROStepDefinition - Patient Name :Haematocrit (HCT)
+[INFO ] 2023-07-22 13:50:23.230 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 13:50:24.066 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 13:50:30.721 [main] GROStepDefinition - Test Name :Haematocrit (HCT)
+[INFO ] 2023-07-22 13:50:35.035 [main] GROStepDefinition - Amount : ₹ 135
+[INFO ] 2023-07-22 13:51:15.257 [main] TestResult - Haematocrit (HCT) Test Value : 
+[INFO ] 2023-07-22 13:52:01.391 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 13:52:10.987 [main] GROStepDefinition - Patient ID : 358
+[INFO ] 2023-07-22 13:52:11.981 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 13:52:13.298 [main] GROStepDefinition - Patient Name :Platelets Counts
+[INFO ] 2023-07-22 13:52:13.960 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 13:52:14.792 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 13:52:21.463 [main] GROStepDefinition - Test Name :Platelets Counts
+[INFO ] 2023-07-22 13:52:25.765 [main] GROStepDefinition - Amount : ₹ 265
+[INFO ] 2023-07-22 13:53:06.466 [main] TestResult - Platelets Counts Test Value : 
+[INFO ] 2023-07-22 13:53:54.398 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 13:54:04.336 [main] GROStepDefinition - Patient ID : 360
+[INFO ] 2023-07-22 13:54:05.326 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 13:54:07.030 [main] GROStepDefinition - Patient Name :RED BLOOD CELL COUNT (RBC's)
+[INFO ] 2023-07-22 13:54:07.709 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 13:54:08.538 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 13:54:15.467 [main] GROStepDefinition - Test Name :RED BLOOD CELL COUNT (RBC's)
+[INFO ] 2023-07-22 13:54:19.797 [main] GROStepDefinition - Amount : ₹ 115
+[INFO ] 2023-07-22 13:55:00.398 [main] TestResult - RED BLOOD CELL COUNT (RBC's) Test Value : 
+[INFO ] 2023-07-22 13:55:31.988 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 13:56:03.907 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 13:56:13.772 [main] GROStepDefinition - Patient ID : 362
+[INFO ] 2023-07-22 13:56:14.837 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 13:56:16.405 [main] GROStepDefinition - Patient Name :White Blood Cells (WBC)
+[INFO ] 2023-07-22 13:56:17.077 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 13:56:17.918 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 13:56:24.776 [main] GROStepDefinition - Test Name :White Blood Cells (WBC)
+[INFO ] 2023-07-22 13:56:29.096 [main] GROStepDefinition - Amount : ₹ 265
+[INFO ] 2023-07-22 13:58:39.037 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 13:59:06.848 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 13:59:17.518 [main] GROStepDefinition - Patient ID : 364
+[INFO ] 2023-07-22 13:59:18.620 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 13:59:19.796 [main] GROStepDefinition - Patient Name :Haemoglobin
+[INFO ] 2023-07-22 13:59:20.485 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 13:59:21.321 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 13:59:27.869 [main] GROStepDefinition - Test Name :Haemoglobin
+[INFO ] 2023-07-22 13:59:32.147 [main] GROStepDefinition - Amount : ₹ 135
+[INFO ] 2023-07-22 14:00:14.812 [main] TestResult - Haemoglobin Test Value : 
+[INFO ] 2023-07-22 14:00:48.379 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 14:00:59.584 [main] GROStepDefinition - Patient ID : 366
+[INFO ] 2023-07-22 14:01:00.655 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 14:01:02.227 [main] GROStepDefinition - Patient Name :Fecalysis ( Stool R/M)
+[INFO ] 2023-07-22 14:01:02.946 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 14:01:03.767 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 14:01:10.417 [main] GROStepDefinition - Test Name :Fecalysis ( Stool R/M)
+[INFO ] 2023-07-22 14:01:14.718 [main] GROStepDefinition - Amount : ₹ 95
+[INFO ] 2023-07-22 14:02:51.455 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 14:03:02.513 [main] GROStepDefinition - Patient ID : 367
+[INFO ] 2023-07-22 14:03:03.575 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 14:03:04.815 [main] GROStepDefinition - Patient Name :Semen Analysis
+[INFO ] 2023-07-22 14:03:05.537 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 14:03:06.375 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 14:03:13.082 [main] GROStepDefinition - Test Name :Semen Analysis
+[INFO ] 2023-07-22 14:03:17.351 [main] GROStepDefinition - Amount : ₹ 710
+[INFO ] 2023-07-22 14:14:33.679 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 14:15:59.556 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 14:16:12.115 [main] GROStepDefinition - Patient ID : 371
+[INFO ] 2023-07-22 14:16:13.148 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 14:16:14.404 [main] GROStepDefinition - Patient Name :Urine Analysis
+[INFO ] 2023-07-22 14:16:15.103 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 14:16:15.931 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 14:16:22.494 [main] GROStepDefinition - Test Name :Urine Analysis
+[INFO ] 2023-07-22 14:16:26.741 [main] GROStepDefinition - Amount : ₹ 105
+[INFO ] 2023-07-22 14:18:17.006 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 14:18:28.643 [main] GROStepDefinition - Patient ID : 373
+[INFO ] 2023-07-22 14:18:29.695 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 14:18:31.830 [main] GROStepDefinition - Patient Name :Blood Group (ABO&RH) by (Reverse& Forward)
+[INFO ] 2023-07-22 14:18:32.536 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 14:18:33.381 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 14:18:40.386 [main] GROStepDefinition - Test Name :Blood Group (ABO&RH) by (Reverse& Forward)
+[INFO ] 2023-07-22 14:18:44.705 [main] GROStepDefinition - Amount : ₹ 265
+[INFO ] 2023-07-22 14:20:32.177 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 14:20:43.569 [main] GROStepDefinition - Patient ID : 375
+[INFO ] 2023-07-22 14:20:44.668 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 14:20:46.089 [main] GROStepDefinition - Patient Name :CERULOPLASMIN (CER)
+[INFO ] 2023-07-22 14:20:46.800 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 14:20:47.634 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 14:20:54.187 [main] GROStepDefinition - Test Name :CERULOPLASMIN (CER)
+[INFO ] 2023-07-22 14:20:58.552 [main] GROStepDefinition - Amount : ₹ 3,800
+[INFO ] 2023-07-22 14:22:13.744 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 14:22:27.925 [main] GROStepDefinition - Patient ID : 376
+[INFO ] 2023-07-22 14:22:28.970 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 14:22:30.856 [main] GROStepDefinition - Patient Name :HIV - Qualitative (Screening Test)
+[INFO ] 2023-07-22 14:22:31.616 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 14:22:32.460 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 14:22:39.242 [main] GROStepDefinition - Test Name :HIV - Qualitative (Screening Test)
+[INFO ] 2023-07-22 14:22:43.572 [main] GROStepDefinition - Amount : ₹ 475
+[INFO ] 2023-07-22 14:24:58.478 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 14:25:57.782 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 14:26:12.463 [main] GROStepDefinition - Patient ID : 377
+[INFO ] 2023-07-22 14:26:13.543 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 14:26:14.666 [main] GROStepDefinition - Patient Name :Serum IgG
+[INFO ] 2023-07-22 14:26:15.323 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 14:26:16.139 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 14:26:22.601 [main] GROStepDefinition - Test Name :Serum IgG
+[INFO ] 2023-07-22 14:26:26.953 [main] GROStepDefinition - Amount : ₹ 2,750
+[INFO ] 2023-07-22 14:28:06.347 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 14:28:17.693 [main] GROStepDefinition - Patient ID : 378
+[INFO ] 2023-07-22 14:28:18.809 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 14:28:19.925 [main] GROStepDefinition - Patient Name :Serum IRON
+[INFO ] 2023-07-22 14:28:20.698 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 14:28:21.541 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 14:28:28.067 [main] GROStepDefinition - Test Name :Serum IRON
+[INFO ] 2023-07-22 14:28:32.380 [main] GROStepDefinition - Amount : ₹ 360
+[INFO ] 2023-07-22 14:29:53.511 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 14:30:06.003 [main] GROStepDefinition - Patient ID : 379
+[INFO ] 2023-07-22 14:30:07.075 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 14:30:08.074 [main] GROStepDefinition - Patient Name :Trop I
+[INFO ] 2023-07-22 14:30:08.843 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 14:30:09.621 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 14:30:16.089 [main] GROStepDefinition - Test Name :Trop I
+[INFO ] 2023-07-22 14:30:20.400 [main] GROStepDefinition - Amount : ₹ 3,000
+[INFO ] 2023-07-22 14:31:46.805 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 14:32:27.999 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 14:32:39.685 [main] GROStepDefinition - Patient ID : 380
+[INFO ] 2023-07-22 14:32:40.718 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 14:32:42.911 [main] GROStepDefinition - Patient Name :G6PD (glucose-6-phosphate dehydrogenase)
+[INFO ] 2023-07-22 14:32:43.624 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 14:32:44.436 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 14:32:51.298 [main] GROStepDefinition - Test Name :G6PD (glucose-6-phosphate dehydrogenase)
+[INFO ] 2023-07-22 14:32:55.688 [main] GROStepDefinition - Amount : ₹ 1,950
+[INFO ] 2023-07-22 14:34:33.001 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 14:34:47.096 [main] GROStepDefinition - Patient ID : 381
+[INFO ] 2023-07-22 14:34:48.192 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 14:34:49.655 [main] GROStepDefinition - Patient Name :D-DIMER Quantitative
+[INFO ] 2023-07-22 14:34:50.372 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 14:34:51.197 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 14:34:57.874 [main] GROStepDefinition - Test Name :D-DIMER Quantitative
+[INFO ] 2023-07-22 14:35:02.219 [main] GROStepDefinition - Amount : ₹ 2,090
+[INFO ] 2023-07-22 14:36:35.580 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 14:36:47.250 [main] GROStepDefinition - Patient ID : 382
+[INFO ] 2023-07-22 14:36:48.289 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 14:36:50.086 [main] GROStepDefinition - Patient Name :BNP - Natriuretic peptide tests
+[INFO ] 2023-07-22 14:36:50.807 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 14:36:51.637 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 14:36:58.420 [main] GROStepDefinition - Test Name :BNP - Natriuretic peptide tests
+[INFO ] 2023-07-22 14:37:02.760 [main] GROStepDefinition - Amount : ₹ 1,400
+[INFO ] 2023-07-22 14:38:56.517 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 14:39:11.762 [main] GROStepDefinition - Patient ID : 383
+[INFO ] 2023-07-22 14:39:12.797 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 14:39:14.468 [main] GROStepDefinition - Patient Name :Alkaline phosphatase (ALP)
+[INFO ] 2023-07-22 14:39:15.189 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 14:39:16.011 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 14:39:22.778 [main] GROStepDefinition - Test Name :Alkaline phosphatase (ALP)
+[INFO ] 2023-07-22 14:39:27.118 [main] GROStepDefinition - Amount : ₹ 140
+[INFO ] 2023-07-22 14:41:00.900 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 14:41:12.306 [main] GROStepDefinition - Patient ID : 384
+[INFO ] 2023-07-22 14:41:13.340 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 14:41:16.020 [main] GROStepDefinition - Patient Name :VAGINAL DISCHARGE CULTURE & SENSITIVITY(Manual Test Only)
+[INFO ] 2023-07-22 14:41:16.646 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 14:41:17.414 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 14:41:24.726 [main] GROStepDefinition - Test Name :VAGINAL DISCHARGE CULTURE & SENSITIVITY(Manual Test Only)
+[INFO ] 2023-07-22 14:41:28.981 [main] GROStepDefinition - Amount : ₹ 715
+[INFO ] 2023-07-22 14:42:05.563 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 14:42:15.515 [main] GROStepDefinition - Patient ID : 386
+[INFO ] 2023-07-22 14:42:16.510 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 14:42:19.224 [main] GROStepDefinition - Patient Name :VAGINAL DISCHARGE CULTURE & SENSITIVITY(Manual Test Only)
+[INFO ] 2023-07-22 14:42:19.971 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 14:42:20.884 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 14:42:28.171 [main] GROStepDefinition - Test Name :VAGINAL DISCHARGE CULTURE & SENSITIVITY(Manual Test Only)
+[INFO ] 2023-07-22 14:42:32.514 [main] GROStepDefinition - Amount : ₹ 715
+[INFO ] 2023-07-22 14:45:09.469 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 14:45:22.441 [main] GROStepDefinition - Patient ID : 389
+[INFO ] 2023-07-22 14:46:57.746 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 14:47:09.937 [main] GROStepDefinition - Patient ID : 390
+[INFO ] 2023-07-22 14:47:10.978 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 14:47:12.605 [main] GROStepDefinition - Patient Name :Glomerular Filtration Rate(GFR)
+[INFO ] 2023-07-22 14:47:13.231 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 14:47:14.035 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 14:47:20.525 [main] GROStepDefinition - Test Name :Glomerular Filtration Rate(GFR)
+[INFO ] 2023-07-22 14:47:24.759 [main] GROStepDefinition - Amount : ₹ 240
+[INFO ] 2023-07-22 14:48:28.103 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 14:48:39.045 [main] GROStepDefinition - Patient ID : 392
+[INFO ] 2023-07-22 14:48:40.045 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 14:48:41.690 [main] GROStepDefinition - Patient Name :Glomerular Filtration Rate(GFR)
+[INFO ] 2023-07-22 14:48:42.337 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 14:48:43.148 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 14:48:49.738 [main] GROStepDefinition - Test Name :Glomerular Filtration Rate(GFR)
+[INFO ] 2023-07-22 14:48:54.005 [main] GROStepDefinition - Amount : ₹ 240
+[INFO ] 2023-07-22 14:50:21.583 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 14:50:31.635 [main] GROStepDefinition - Patient ID : 394
+[INFO ] 2023-07-22 14:50:32.649 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 14:50:34.289 [main] GROStepDefinition - Patient Name :Glomerular Filtration Rate(GFR)
+[INFO ] 2023-07-22 14:50:34.924 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 14:50:35.719 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 14:50:42.258 [main] GROStepDefinition - Test Name :Glomerular Filtration Rate(GFR)
+[INFO ] 2023-07-22 14:50:46.607 [main] GROStepDefinition - Amount : ₹ 240
+[INFO ] 2023-07-22 14:52:09.084 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 14:52:19.550 [main] GROStepDefinition - Patient ID : 395
+[INFO ] 2023-07-22 14:52:20.543 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 14:52:21.962 [main] GROStepDefinition - Patient Name :AT-III - Antithrombine - III
+[INFO ] 2023-07-22 14:52:22.587 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 14:52:23.346 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 14:52:29.874 [main] GROStepDefinition - Test Name :AT-III - Antithrombine - III
+[INFO ] 2023-07-22 14:52:34.081 [main] GROStepDefinition - Amount : ₹ 1,000
+[INFO ] 2023-07-22 14:54:16.267 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 14:54:26.062 [main] GROStepDefinition - Patient ID : 397
+[INFO ] 2023-07-22 14:54:27.065 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 14:54:28.223 [main] GROStepDefinition - Patient Name :Toxo IgG Avidity
+[INFO ] 2023-07-22 14:54:28.859 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 14:54:29.634 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 14:54:35.997 [main] GROStepDefinition - Test Name :Toxo IgG Avidity
+[INFO ] 2023-07-22 14:54:40.201 [main] GROStepDefinition - Amount : ₹ 2,000
+[INFO ] 2023-07-22 14:55:47.957 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 14:55:57.516 [main] GROStepDefinition - Patient ID : 399
+[INFO ] 2023-07-22 14:55:58.538 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 14:55:59.442 [main] GROStepDefinition - Patient Name :Trop T
+[INFO ] 2023-07-22 14:56:00.101 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 14:56:00.884 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 14:56:07.161 [main] GROStepDefinition - Test Name :Trop T
+[INFO ] 2023-07-22 14:56:11.386 [main] GROStepDefinition - Amount : ₹ 2,090
+[INFO ] 2023-07-22 14:57:21.453 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 14:57:32.458 [main] GROStepDefinition - Patient ID : 400
+[INFO ] 2023-07-22 14:57:33.469 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 14:57:34.568 [main] GROStepDefinition - Patient Name :Total Bilirubin
+[INFO ] 2023-07-22 14:57:35.179 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 14:57:35.963 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 14:57:42.289 [main] GROStepDefinition - Test Name :Total Bilirubin
+[INFO ] 2023-07-22 14:57:46.512 [main] GROStepDefinition - Amount : ₹ 255
+[INFO ] 2023-07-22 14:58:50.935 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 14:59:08.010 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 14:59:19.157 [main] GROStepDefinition - Patient ID : 402
+[INFO ] 2023-07-22 14:59:20.152 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 14:59:21.442 [main] GROStepDefinition - Patient Name :Dengue Serology IgG&IgM
+[INFO ] 2023-07-22 14:59:22.065 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 14:59:22.841 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 14:59:29.205 [main] GROStepDefinition - Test Name :Dengue Serology IgG&IgM
+[INFO ] 2023-07-22 14:59:33.423 [main] GROStepDefinition - Amount : ₹ 760
+[INFO ] 2023-07-22 15:00:47.116 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:00:57.857 [main] GROStepDefinition - Patient ID : 403
+[INFO ] 2023-07-22 15:00:58.903 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 15:01:00.779 [main] GROStepDefinition - Patient Name :Toxo IgG - Toxoplasma gondii Immunoglobulin G
+[INFO ] 2023-07-22 15:01:01.419 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 15:01:02.223 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 15:01:08.762 [main] GROStepDefinition - Test Name :Toxo IgG - Toxoplasma gondii Immunoglobulin G
+[INFO ] 2023-07-22 15:01:13.005 [main] GROStepDefinition - Amount : ₹ 4,100
+[INFO ] 2023-07-22 15:02:21.946 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:02:56.143 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:03:06.748 [main] GROStepDefinition - Patient ID : 404
+[INFO ] 2023-07-22 15:03:07.761 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 15:03:09.436 [main] GROStepDefinition - Patient Name :Serum HDL - High Density Lipoprotein
+[INFO ] 2023-07-22 15:03:10.054 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 15:03:10.816 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 15:03:17.376 [main] GROStepDefinition - Test Name :Serum HDL - High Density Lipoprotein
+[INFO ] 2023-07-22 15:03:21.540 [main] GROStepDefinition - Amount : ₹ 190
+[INFO ] 2023-07-22 15:04:33.711 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:04:43.079 [main] GROStepDefinition - Patient ID : 405
+[INFO ] 2023-07-22 15:04:44.089 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 15:04:45.439 [main] GROStepDefinition - Patient Name :PT - Prothrombine Time
+[INFO ] 2023-07-22 15:04:46.049 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 15:04:46.822 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 15:04:53.299 [main] GROStepDefinition - Test Name :PT - Prothrombine Time
+[INFO ] 2023-07-22 15:04:57.575 [main] GROStepDefinition - Amount : ₹ 325
+[INFO ] 2023-07-22 15:06:12.394 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:06:24.612 [main] GROStepDefinition - Patient ID : 406
+[INFO ] 2023-07-22 15:06:25.620 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 15:06:27.125 [main] GROStepDefinition - Patient Name :Aspartate Aminotransferase(AST)
+[INFO ] 2023-07-22 15:06:27.716 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 15:06:28.463 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 15:06:34.794 [main] GROStepDefinition - Test Name :Aspartate Aminotransferase(AST)
+[INFO ] 2023-07-22 15:06:38.976 [main] GROStepDefinition - Amount : ₹ 130
+[INFO ] 2023-07-22 15:07:56.832 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:08:07.941 [main] GROStepDefinition - Patient ID : 407
+[INFO ] 2023-07-22 15:08:08.939 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 15:08:09.988 [main] GROStepDefinition - Patient Name :Rubella IgG
+[INFO ] 2023-07-22 15:08:10.624 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 15:08:11.392 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 15:08:17.704 [main] GROStepDefinition - Test Name :Rubella IgG
+[INFO ] 2023-07-22 15:08:21.900 [main] GROStepDefinition - Amount : ₹ 1,250
+[INFO ] 2023-07-22 15:09:27.498 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:09:38.207 [main] GROStepDefinition - Patient ID : 408
+[INFO ] 2023-07-22 15:09:39.192 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 15:09:40.599 [main] GROStepDefinition - Patient Name :LFT (Liver Function Test)
+[INFO ] 2023-07-22 15:09:41.219 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 15:09:41.985 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 15:09:48.405 [main] GROStepDefinition - Test Name :LFT (Liver Function Test)
+[INFO ] 2023-07-22 15:09:52.572 [main] GROStepDefinition - Amount : ₹ 600
+[INFO ] 2023-07-22 15:11:31.542 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:11:41.671 [main] GROStepDefinition - Patient ID : 409
+[INFO ] 2023-07-22 15:11:42.691 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 15:11:43.712 [main] GROStepDefinition - Patient Name :Serum IgA
+[INFO ] 2023-07-22 15:11:44.352 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 15:11:45.144 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 15:11:51.474 [main] GROStepDefinition - Test Name :Serum IgA
+[INFO ] 2023-07-22 15:11:55.611 [main] GROStepDefinition - Amount : ₹ 2,750
+[INFO ] 2023-07-22 15:13:12.148 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:13:51.132 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:14:01.927 [main] GROStepDefinition - Patient ID : 410
+[INFO ] 2023-07-22 15:14:02.953 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 15:14:03.911 [main] GROStepDefinition - Patient Name :Serum IgA
+[INFO ] 2023-07-22 15:14:04.565 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 15:14:05.342 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 15:14:11.598 [main] GROStepDefinition - Test Name :Serum IgA
+[INFO ] 2023-07-22 15:14:15.789 [main] GROStepDefinition - Amount : ₹ 2,750
+[INFO ] 2023-07-22 15:15:26.638 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:15:37.140 [main] GROStepDefinition - Patient ID : 411
+[INFO ] 2023-07-22 15:15:38.142 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 15:15:39.182 [main] GROStepDefinition - Patient Name :Syphilis TP
+[INFO ] 2023-07-22 15:15:39.814 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 15:15:40.610 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 15:15:46.917 [main] GROStepDefinition - Test Name :Syphilis TP
+[INFO ] 2023-07-22 15:15:51.067 [main] GROStepDefinition - Amount : ₹ 350
+[INFO ] 2023-07-22 15:17:43.638 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:17:54.890 [main] GROStepDefinition - Patient ID : 413
+[INFO ] 2023-07-22 15:17:55.917 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 15:17:57.941 [main] GROStepDefinition - Patient Name :Rheumatoid Arthritis (Ra) Factor Qualitative
+[INFO ] 2023-07-22 15:17:58.570 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 15:17:59.452 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 15:18:06.088 [main] GROStepDefinition - Test Name :Rheumatoid Arthritis (Ra) Factor Qualitative
+[INFO ] 2023-07-22 15:18:10.250 [main] GROStepDefinition - Amount : ₹ 335
+[INFO ] 2023-07-22 15:19:20.551 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:19:30.962 [main] GROStepDefinition - Patient ID : 414
+[INFO ] 2023-07-22 15:19:31.964 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 15:19:33.369 [main] GROStepDefinition - Patient Name :Malaria Antigen Detection
+[INFO ] 2023-07-22 15:19:33.993 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 15:19:34.777 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 15:19:41.214 [main] GROStepDefinition - Test Name :Malaria Antigen Detection
+[INFO ] 2023-07-22 15:19:45.347 [main] GROStepDefinition - Amount : ₹ 350
+[INFO ] 2023-07-22 15:21:00.782 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:21:12.016 [main] GROStepDefinition - Patient ID : 415
+[INFO ] 2023-07-22 15:21:12.987 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 15:21:14.631 [main] GROStepDefinition - Patient Name :Coagulation Profile (PT/INR & APTT)
+[INFO ] 2023-07-22 15:21:15.262 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 15:21:16.059 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 15:21:22.547 [main] GROStepDefinition - Test Name :Coagulation Profile (PT/INR & APTT)
+[INFO ] 2023-07-22 15:21:26.751 [main] GROStepDefinition - Amount : ₹ 650
+[INFO ] 2023-07-22 15:22:58.636 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:23:23.530 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:23:34.168 [main] GROStepDefinition - Patient ID : 416
+[INFO ] 2023-07-22 15:23:35.178 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 15:23:36.172 [main] GROStepDefinition - Patient Name :Chickungunya
+[INFO ] 2023-07-22 15:23:36.847 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 15:23:37.620 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 15:23:43.866 [main] GROStepDefinition - Test Name :Chickungunya
+[INFO ] 2023-07-22 15:23:48.055 [main] GROStepDefinition - Amount : ₹ 3,000
+[INFO ] 2023-07-22 15:24:56.572 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:25:07.222 [main] GROStepDefinition - Patient ID : 417
+[INFO ] 2023-07-22 15:25:08.216 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 15:25:09.774 [main] GROStepDefinition - Patient Name :Body Fluids CULTURE & SENSITIVITY
+[INFO ] 2023-07-22 15:25:10.402 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 15:25:11.182 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 15:25:17.699 [main] GROStepDefinition - Test Name :Body Fluids CULTURE & SENSITIVITY
+[INFO ] 2023-07-22 15:25:21.901 [main] GROStepDefinition - Amount : ₹ 800
+[INFO ] 2023-07-22 15:26:44.659 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:26:54.453 [main] GROStepDefinition - Patient ID : 418
+[INFO ] 2023-07-22 15:26:55.450 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 15:26:57.018 [main] GROStepDefinition - Patient Name :Body Fluids CULTURE & SENSITIVITY
+[INFO ] 2023-07-22 15:26:57.637 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 15:26:58.420 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 15:27:04.911 [main] GROStepDefinition - Test Name :Body Fluids CULTURE & SENSITIVITY
+[INFO ] 2023-07-22 15:27:09.067 [main] GROStepDefinition - Amount : ₹ 800
+[INFO ] 2023-07-22 15:28:39.265 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:28:49.080 [main] GROStepDefinition - Patient ID : 419
+[INFO ] 2023-07-22 15:28:50.115 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 15:28:51.722 [main] GROStepDefinition - Patient Name :Gonorrhoeae/Chlamydia Antigen (Urine)
+[INFO ] 2023-07-22 15:28:52.341 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 15:28:53.102 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 15:28:59.674 [main] GROStepDefinition - Test Name :Gonorrhoeae/Chlamydia Antigen (Urine)
+[INFO ] 2023-07-22 15:29:03.868 [main] GROStepDefinition - Amount : ₹ 3,040
+[INFO ] 2023-07-22 15:31:52.013 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:32:02.473 [main] GROStepDefinition - Patient ID : 420
+[INFO ] 2023-07-22 15:32:03.449 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 15:32:04.636 [main] GROStepDefinition - Patient Name :Serum Triglyceride
+[INFO ] 2023-07-22 15:32:05.279 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 15:32:06.060 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 15:32:12.404 [main] GROStepDefinition - Test Name :Serum Triglyceride
+[INFO ] 2023-07-22 15:32:16.561 [main] GROStepDefinition - Amount : ₹ 160
+[INFO ] 2023-07-22 15:33:36.043 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:33:48.085 [main] GROStepDefinition - Patient ID : 421
+[INFO ] 2023-07-22 15:33:49.099 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 15:33:50.277 [main] GROStepDefinition - Patient Name :E. Histolytica
+[INFO ] 2023-07-22 15:33:50.903 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 15:33:51.653 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 15:33:58.083 [main] GROStepDefinition - Test Name :E. Histolytica
+[INFO ] 2023-07-22 15:34:02.375 [main] GROStepDefinition - Amount : ₹ 3,185
+[INFO ] 2023-07-22 15:35:12.754 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:35:24.415 [main] GROStepDefinition - Patient ID : 422
+[INFO ] 2023-07-22 15:35:25.403 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 15:35:26.603 [main] GROStepDefinition - Patient Name :Glucose Fasting
+[INFO ] 2023-07-22 15:35:27.243 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 15:35:27.978 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 15:35:34.524 [main] GROStepDefinition - Test Name :Glucose Fasting
+[INFO ] 2023-07-22 15:35:38.725 [main] GROStepDefinition - Amount : ₹ 95
+[INFO ] 2023-07-22 15:37:31.857 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:37:43.318 [main] GROStepDefinition - Patient ID : 423
+[INFO ] 2023-07-22 15:37:44.432 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 15:37:46.515 [main] GROStepDefinition - Patient Name :CMV IgG Avidity - Cytomegalovirus IgG Avidity
+[INFO ] 2023-07-22 15:37:47.169 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 15:37:47.998 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 15:37:54.846 [main] GROStepDefinition - Test Name :CMV IgG Avidity - Cytomegalovirus IgG Avidity
+[INFO ] 2023-07-22 15:37:59.209 [main] GROStepDefinition - Amount : ₹ 2,000
+[INFO ] 2023-07-22 15:39:16.648 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:39:27.515 [main] GROStepDefinition - Patient ID : 424
+[INFO ] 2023-07-22 15:39:43.013 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:39:52.538 [main] GROStepDefinition - Patient ID : 424
+[INFO ] 2023-07-22 15:39:53.613 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 15:39:55.378 [main] GROStepDefinition - Patient Name :Quantia ASO - Antistreptolysin O
+[INFO ] 2023-07-22 15:39:56.075 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 15:39:56.863 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 15:40:03.846 [main] GROStepDefinition - Test Name :Quantia ASO - Antistreptolysin O
+[INFO ] 2023-07-22 15:40:08.144 [main] GROStepDefinition - Amount : ₹ 475
+[INFO ] 2023-07-22 15:41:26.765 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:41:36.292 [main] GROStepDefinition - Patient ID : 425
+[INFO ] 2023-07-22 15:42:29.502 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:42:40.668 [main] GROStepDefinition - Patient ID : 425
+[INFO ] 2023-07-22 15:42:41.722 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 15:42:43.316 [main] GROStepDefinition - Patient Name :NEISSERIA/CHLAMYDIA TEST
+[INFO ] 2023-07-22 15:42:44.037 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 15:42:44.896 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 15:42:51.650 [main] GROStepDefinition - Test Name :NEISSERIA/CHLAMYDIA TEST
+[INFO ] 2023-07-22 15:42:55.919 [main] GROStepDefinition - Amount : ₹ 3,040
+[INFO ] 2023-07-22 15:44:27.904 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:44:37.579 [main] GROStepDefinition - Patient ID : 426
+[INFO ] 2023-07-22 15:44:38.598 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 15:44:39.534 [main] GROStepDefinition - Patient Name :APO B
+[INFO ] 2023-07-22 15:44:40.273 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 15:44:41.114 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 15:44:47.745 [main] GROStepDefinition - Test Name :APO B
+[INFO ] 2023-07-22 15:44:52.010 [main] GROStepDefinition - Amount : ₹ 1,000
+[INFO ] 2023-07-22 15:46:06.650 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:46:37.483 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:46:41.802 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:46:49.915 [main] GROStepDefinition - Patient ID : 427
+[INFO ] 2023-07-22 15:46:51.059 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 15:46:53.295 [main] GROStepDefinition - Patient Name :HAVAb-IgG - Hepatitis A Virus Antibody IgG
+[INFO ] 2023-07-22 15:46:53.937 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 15:46:54.734 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 15:46:58.216 [main] GROStepDefinition - Patient ID : 427
+[INFO ] 2023-07-22 15:46:59.305 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 15:47:01.695 [main] GROStepDefinition - Patient Name :HAVAb-IgG - Hepatitis A Virus Antibody IgG
+[INFO ] 2023-07-22 15:47:01.917 [main] GROStepDefinition - Test Name :HAVAb-IgG - Hepatitis A Virus Antibody IgG
+[INFO ] 2023-07-22 15:47:02.494 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 15:47:03.335 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 15:47:10.430 [main] GROStepDefinition - Test Name :HAVAb-IgG - Hepatitis A Virus Antibody IgG
+[INFO ] 2023-07-22 15:47:14.772 [main] GROStepDefinition - Amount : ₹ 450
+[INFO ] 2023-07-22 15:49:29.726 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:49:40.710 [main] GROStepDefinition - Patient ID : 428
+[INFO ] 2023-07-22 15:49:41.849 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 15:49:42.950 [main] GROStepDefinition - Patient Name :HAPTOGLOBIN
+[INFO ] 2023-07-22 15:49:43.727 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 15:49:44.585 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 15:49:51.266 [main] GROStepDefinition - Test Name :HAPTOGLOBIN
+[INFO ] 2023-07-22 15:49:55.535 [main] GROStepDefinition - Amount : ₹ 3,230
+[INFO ] 2023-07-22 15:52:09.057 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:52:19.808 [main] GROStepDefinition - Patient ID : 429
+[INFO ] 2023-07-22 15:52:20.824 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 15:52:22.002 [main] GROStepDefinition - Patient Name :Urine Nitrite
+[INFO ] 2023-07-22 15:52:22.705 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 15:52:23.522 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 15:52:30.274 [main] GROStepDefinition - Test Name :Urine Nitrite
+[INFO ] 2023-07-22 15:52:34.536 [main] GROStepDefinition - Amount : ₹ 430
+[INFO ] 2023-07-22 15:54:03.122 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:54:13.194 [main] GROStepDefinition - Patient ID : 430
+[INFO ] 2023-07-22 15:54:14.210 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 15:54:15.684 [main] GROStepDefinition - Patient Name :Gastric Bx - H.Pylori
+[INFO ] 2023-07-22 15:54:16.423 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 15:54:17.243 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 15:54:24.202 [main] GROStepDefinition - Test Name :Gastric Bx - H.Pylori
+[INFO ] 2023-07-22 15:54:28.626 [main] GROStepDefinition - Amount : ₹ 1,100
+[INFO ] 2023-07-22 15:56:34.150 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 15:56:44.525 [main] GROStepDefinition - Patient ID : 431
+[INFO ] 2023-07-22 15:56:45.551 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 15:56:47.604 [main] GROStepDefinition - Patient Name :DHEA's- Dehydroepiandrosterone Sulfate
+[INFO ] 2023-07-22 15:56:48.336 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 15:56:49.162 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 15:56:56.276 [main] GROStepDefinition - Test Name :DHEA's- Dehydroepiandrosterone Sulfate
+[INFO ] 2023-07-22 15:57:00.563 [main] GROStepDefinition - Amount : ₹ 1,710
+[INFO ] 2023-07-22 15:59:46.532 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:00:30.406 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:00:47.757 [main] GROStepDefinition - Patient ID : 432
+[INFO ] 2023-07-22 16:00:48.839 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 16:00:50.764 [main] GROStepDefinition - Patient Name :HBsAg Qualitative II (Confirmatory )
+[INFO ] 2023-07-22 16:00:51.500 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 16:00:52.297 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 16:00:59.063 [main] GROStepDefinition - Test Name :HBsAg Qualitative II (Confirmatory )
+[INFO ] 2023-07-22 16:01:03.416 [main] GROStepDefinition - Amount : ₹ 5,180
+[INFO ] 2023-07-22 16:02:20.908 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:02:34.182 [main] GROStepDefinition - Patient ID : 433
+[INFO ] 2023-07-22 16:02:35.201 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 16:02:37.001 [main] GROStepDefinition - Patient Name :Serum Cholesterol
+[INFO ] 2023-07-22 16:02:37.762 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 16:02:38.584 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 16:02:45.333 [main] GROStepDefinition - Test Name :Serum Cholesterol
+[INFO ] 2023-07-22 16:02:49.650 [main] GROStepDefinition - Amount : ₹ 125
+[INFO ] 2023-07-22 16:04:42.639 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:04:52.398 [main] GROStepDefinition - Patient ID : 434
+[INFO ] 2023-07-22 16:04:53.416 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 16:04:55.291 [main] GROStepDefinition - Patient Name :Blood Group (ABO&RH) by Slide Method
+[INFO ] 2023-07-22 16:04:56.044 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 16:04:56.886 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 16:05:03.887 [main] GROStepDefinition - Test Name :Blood Group (ABO&RH) by Slide Method
+[INFO ] 2023-07-22 16:05:08.139 [main] GROStepDefinition - Amount : ₹ 265
+[INFO ] 2023-07-22 16:06:46.624 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:06:56.475 [main] GROStepDefinition - Patient ID : 435
+[INFO ] 2023-07-22 16:06:57.497 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 16:06:58.564 [main] GROStepDefinition - Patient Name :ANTl-CCP
+[INFO ] 2023-07-22 16:06:59.257 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 16:07:00.114 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 16:07:06.698 [main] GROStepDefinition - Test Name :ANTl-CCP
+[INFO ] 2023-07-22 16:07:10.982 [main] GROStepDefinition - Amount : ₹ 2,660
+[INFO ] 2023-07-22 16:08:36.827 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:08:47.059 [main] GROStepDefinition - Patient ID : 436
+[INFO ] 2023-07-22 16:08:48.079 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 16:08:49.480 [main] GROStepDefinition - Patient Name :Typhi dot IgG & IgM
+[INFO ] 2023-07-22 16:08:50.175 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 16:08:51.064 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 16:08:57.674 [main] GROStepDefinition - Test Name :Typhi dot IgG & IgM
+[INFO ] 2023-07-22 16:09:01.983 [main] GROStepDefinition - Amount : ₹ 510
+[INFO ] 2023-07-22 16:10:29.384 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:10:39.729 [main] GROStepDefinition - Patient ID : 437
+[INFO ] 2023-07-22 16:10:40.841 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 16:10:42.838 [main] GROStepDefinition - Patient Name :CRP - C reactive Protein
+[INFO ] 2023-07-22 16:10:43.598 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 16:10:44.445 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 16:10:51.123 [main] GROStepDefinition - Test Name :CRP - C reactive Protein
+[INFO ] 2023-07-22 16:10:55.386 [main] GROStepDefinition - Amount : ₹ 360
+[INFO ] 2023-07-22 16:12:51.957 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:13:01.299 [main] GROStepDefinition - Patient ID : 438
+[INFO ] 2023-07-22 16:13:02.327 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 16:13:04.008 [main] GROStepDefinition - Patient Name :CMV IgM- Cytomegalovirus- IgM
+[INFO ] 2023-07-22 16:13:04.764 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 16:13:05.621 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 16:13:12.496 [main] GROStepDefinition - Test Name :CMV IgM- Cytomegalovirus- IgM
+[INFO ] 2023-07-22 16:13:16.767 [main] GROStepDefinition - Amount : ₹ 3,800
+[INFO ] 2023-07-22 16:14:32.406 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:14:42.559 [main] GROStepDefinition - Patient ID : 439
+[INFO ] 2023-07-22 16:14:43.571 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 16:14:45.220 [main] GROStepDefinition - Patient Name :Glucose ( PP- Postprandial)
+[INFO ] 2023-07-22 16:14:45.912 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 16:14:46.757 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 16:14:53.617 [main] GROStepDefinition - Test Name :Glucose ( PP- Postprandial)
+[INFO ] 2023-07-22 16:14:57.918 [main] GROStepDefinition - Amount : ₹ 95
+[INFO ] 2023-07-22 16:16:41.930 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:16:51.839 [main] GROStepDefinition - Patient ID : 440
+[INFO ] 2023-07-22 16:17:41.801 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:17:51.347 [main] GROStepDefinition - Patient ID : 440
+[INFO ] 2023-07-22 16:17:51.875 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 16:17:53.528 [main] GROStepDefinition - Patient Name :Complete Blood Count - CBC
+[INFO ] 2023-07-22 16:17:54.208 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 16:17:55.068 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 16:18:01.735 [main] GROStepDefinition - Test Name :Complete Blood Count - CBC
+[INFO ] 2023-07-22 16:18:05.946 [main] GROStepDefinition - Amount : ₹ 265
+[INFO ] 2023-07-22 16:20:49.941 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:21:00.234 [main] GROStepDefinition - Patient ID : 441
+[INFO ] 2023-07-22 16:21:00.712 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 16:21:01.690 [main] GROStepDefinition - Patient Name :APO A1
+[INFO ] 2023-07-22 16:21:02.404 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 16:21:03.241 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 16:21:09.837 [main] GROStepDefinition - Test Name :APO A1
+[INFO ] 2023-07-22 16:21:14.046 [main] GROStepDefinition - Amount : ₹ 1,300
+[INFO ] 2023-07-22 16:21:52.539 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:22:25.446 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:22:35.765 [main] GROStepDefinition - Patient ID : 442
+[INFO ] 2023-07-22 16:22:36.284 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 16:22:37.280 [main] GROStepDefinition - Patient Name :APO A1
+[INFO ] 2023-07-22 16:22:37.989 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 16:22:38.842 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 16:22:45.290 [main] GROStepDefinition - Test Name :APO A1
+[INFO ] 2023-07-22 16:22:49.546 [main] GROStepDefinition - Amount : ₹ 1,300
+[INFO ] 2023-07-22 16:23:35.907 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:23:45.511 [main] GROStepDefinition - Patient ID : 443
+[INFO ] 2023-07-22 16:23:46.014 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 16:23:47.010 [main] GROStepDefinition - Patient Name :APO A1
+[INFO ] 2023-07-22 16:23:47.779 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 16:23:48.633 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 16:23:54.998 [main] GROStepDefinition - Test Name :APO A1
+[INFO ] 2023-07-22 16:23:59.268 [main] GROStepDefinition - Amount : ₹ 1,300
+[INFO ] 2023-07-22 16:25:21.072 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:25:31.666 [main] GROStepDefinition - Patient ID : 444
+[INFO ] 2023-07-22 16:25:32.182 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 16:25:33.311 [main] GROStepDefinition - Patient Name :INDIA INK
+[INFO ] 2023-07-22 16:25:34.021 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 16:25:34.881 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 16:25:41.274 [main] GROStepDefinition - Test Name :INDIA INK
+[INFO ] 2023-07-22 16:25:45.514 [main] GROStepDefinition - Amount : ₹ 200
+[INFO ] 2023-07-22 16:26:57.274 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:27:07.858 [main] GROStepDefinition - Patient ID : 445
+[INFO ] 2023-07-22 16:27:08.383 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 16:27:10.236 [main] GROStepDefinition - Patient Name :Anti-HCV - Hepatitis C antibody
+[INFO ] 2023-07-22 16:27:10.924 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 16:27:11.745 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 16:27:54.882 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:28:04.420 [main] GROStepDefinition - Patient ID : 446
+[INFO ] 2023-07-22 16:28:04.943 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 16:28:06.739 [main] GROStepDefinition - Patient Name :Anti-HCV - Hepatitis C antibody
+[INFO ] 2023-07-22 16:28:07.489 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 16:28:08.344 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 16:28:15.104 [main] GROStepDefinition - Test Name :Anti-HCV - Hepatitis C antibody
+[INFO ] 2023-07-22 16:28:19.346 [main] GROStepDefinition - Amount : ₹ 630
+[INFO ] 2023-07-22 16:29:31.808 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:29:41.806 [main] GROStepDefinition - Patient ID : 447
+[INFO ] 2023-07-22 16:29:42.332 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 16:29:43.847 [main] GROStepDefinition - Patient Name :Hemo-spot/ Occult blood
+[INFO ] 2023-07-22 16:29:44.549 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 16:29:45.411 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 16:29:52.067 [main] GROStepDefinition - Test Name :Hemo-spot/ Occult blood
+[INFO ] 2023-07-22 16:29:56.352 [main] GROStepDefinition - Amount : ₹ 145
+[INFO ] 2023-07-22 16:31:49.669 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:31:59.062 [main] GROStepDefinition - Patient ID : 448
+[INFO ] 2023-07-22 16:31:59.578 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 16:32:00.999 [main] GROStepDefinition - Patient Name :Fungal Stain / KOH
+[INFO ] 2023-07-22 16:32:01.723 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 16:32:02.580 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 16:32:09.083 [main] GROStepDefinition - Test Name :Fungal Stain / KOH
+[INFO ] 2023-07-22 16:32:13.280 [main] GROStepDefinition - Amount : ₹ 165
+[INFO ] 2023-07-22 16:33:45.704 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:33:55.540 [main] GROStepDefinition - Patient ID : 449
+[INFO ] 2023-07-22 16:33:56.057 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 16:33:57.900 [main] GROStepDefinition - Patient Name :CA 19.9- Cancer Antigen 19.9
+[INFO ] 2023-07-22 16:33:58.592 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 16:33:59.449 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 16:34:06.126 [main] GROStepDefinition - Test Name :CA 19.9- Cancer Antigen 19.9
+[INFO ] 2023-07-22 16:34:10.357 [main] GROStepDefinition - Amount : ₹ 1,805
+[INFO ] 2023-07-22 16:38:36.023 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:38:45.879 [main] GROStepDefinition - Patient ID : 450
+[INFO ] 2023-07-22 16:38:46.394 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 16:38:48.296 [main] GROStepDefinition - Patient Name :Globulin (Total Protein - Albumin)
+[INFO ] 2023-07-22 16:38:49.008 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 16:38:49.846 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 16:38:56.576 [main] GROStepDefinition - Test Name :Globulin (Total Protein - Albumin)
+[INFO ] 2023-07-22 16:39:00.753 [main] GROStepDefinition - Amount : ₹ 350
+[INFO ] 2023-07-22 16:40:41.663 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:40:50.871 [main] GROStepDefinition - Patient ID : 451
+[INFO ] 2023-07-22 16:40:51.384 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 16:40:52.940 [main] GROStepDefinition - Patient Name :Electrolytes (Na, K, Cl)
+[INFO ] 2023-07-22 16:40:53.668 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 16:40:54.499 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 16:41:01.105 [main] GROStepDefinition - Test Name :Electrolytes (Na, K, Cl)
+[INFO ] 2023-07-22 16:41:05.314 [main] GROStepDefinition - Amount : ₹ 600
+[INFO ] 2023-07-22 16:42:49.520 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:43:01.031 [main] GROStepDefinition - Patient ID : 452
+[INFO ] 2023-07-22 16:43:01.559 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 16:43:02.788 [main] GROStepDefinition - Patient Name :D-DIMER
+[INFO ] 2023-07-22 16:43:03.660 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 16:43:04.587 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 16:43:11.463 [main] GROStepDefinition - Test Name :D-DIMER
+[INFO ] 2023-07-22 16:43:15.784 [main] GROStepDefinition - Amount : ₹ 2,090
+[INFO ] 2023-07-22 16:45:21.090 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:45:29.301 [main] GROStepDefinition - Patient ID : 
+[INFO ] 2023-07-22 16:45:29.764 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 16:45:31.236 [main] GROStepDefinition - Patient Name :Smear for Malaria Parasite
+[INFO ] 2023-07-22 16:45:31.872 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 16:45:32.667 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 16:46:00.159 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:46:09.362 [main] GROStepDefinition - Patient ID : 453
+[INFO ] 2023-07-22 16:46:09.829 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 16:46:11.358 [main] GROStepDefinition - Patient Name :Smear for Malaria Parasite
+[INFO ] 2023-07-22 16:46:11.997 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 16:46:12.777 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 16:46:19.171 [main] GROStepDefinition - Test Name :Smear for Malaria Parasite
+[INFO ] 2023-07-22 16:46:23.357 [main] GROStepDefinition - Amount : ₹ 150
+[INFO ] 2023-07-22 16:47:14.633 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:47:32.019 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:47:40.536 [main] GROStepDefinition - Patient ID : 454
+[INFO ] 2023-07-22 16:47:41.063 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 16:47:42.561 [main] GROStepDefinition - Patient Name :Smear for Malaria Parasite
+[INFO ] 2023-07-22 16:47:43.208 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 16:47:44.010 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 16:47:50.484 [main] GROStepDefinition - Test Name :Smear for Malaria Parasite
+[INFO ] 2023-07-22 16:47:54.656 [main] GROStepDefinition - Amount : ₹ 150
+[INFO ] 2023-07-22 16:49:25.238 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:49:33.965 [main] GROStepDefinition - Patient ID : 455
+[INFO ] 2023-07-22 16:49:34.513 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 16:49:35.514 [main] GROStepDefinition - Patient Name :WET SMEAR
+[INFO ] 2023-07-22 16:49:36.159 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 16:49:36.937 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 16:49:43.186 [main] GROStepDefinition - Test Name :WET SMEAR
+[INFO ] 2023-07-22 16:49:47.361 [main] GROStepDefinition - Amount : ₹ 170
+[INFO ] 2023-07-22 16:50:53.325 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:51:01.579 [main] GROStepDefinition - Patient ID : 456
+[INFO ] 2023-07-22 16:51:02.053 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 16:51:03.121 [main] GROStepDefinition - Patient Name :Widal - Slide
+[INFO ] 2023-07-22 16:51:03.745 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 16:51:04.460 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 16:51:10.649 [main] GROStepDefinition - Test Name :Widal - Slide
+[INFO ] 2023-07-22 16:51:14.838 [main] GROStepDefinition - Amount : ₹ 250
+[INFO ] 2023-07-22 16:52:34.391 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:52:42.843 [main] GROStepDefinition - Patient ID : 457
+[INFO ] 2023-07-22 16:52:43.311 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 16:52:44.893 [main] GROStepDefinition - Patient Name :CMV IgG - Cytomegalovirus- IgG
+[INFO ] 2023-07-22 16:52:45.528 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 16:52:46.306 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 16:52:52.617 [main] GROStepDefinition - Test Name :CMV IgG - Cytomegalovirus- IgG
+[INFO ] 2023-07-22 16:52:56.774 [main] GROStepDefinition - Amount : ₹ 1,670
+[INFO ] 2023-07-22 16:53:53.895 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:54:02.181 [main] GROStepDefinition - Patient ID : 458
+[INFO ] 2023-07-22 16:54:02.739 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 16:54:04.188 [main] GROStepDefinition - Patient Name :CMV IgG - Cytomegalovirus- IgG
+[INFO ] 2023-07-22 16:54:04.831 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 16:54:05.621 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 16:54:12.081 [main] GROStepDefinition - Test Name :CMV IgG - Cytomegalovirus- IgG
+[INFO ] 2023-07-22 16:54:16.233 [main] GROStepDefinition - Amount : ₹ 1,670
+[INFO ] 2023-07-22 16:55:42.247 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:55:50.920 [main] GROStepDefinition - Patient ID : 459
+[INFO ] 2023-07-22 16:55:51.443 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 16:55:53.259 [main] GROStepDefinition - Patient Name :Anti-HBc II-Total Hepatitis B core antibody
+[INFO ] 2023-07-22 16:55:53.877 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 16:55:54.642 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 16:56:01.159 [main] GROStepDefinition - Test Name :Anti-HBc II-Total Hepatitis B core antibody
+[INFO ] 2023-07-22 16:56:25.590 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:56:34.261 [main] GROStepDefinition - Patient ID : 460
+[INFO ] 2023-07-22 16:56:34.831 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 16:56:36.621 [main] GROStepDefinition - Patient Name :Anti-HBc II-Total Hepatitis B core antibody
+[INFO ] 2023-07-22 16:56:37.234 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 16:56:38.011 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 16:56:44.505 [main] GROStepDefinition - Test Name :Anti-HBc II-Total Hepatitis B core antibody
+[INFO ] 2023-07-22 16:56:48.650 [main] GROStepDefinition - Amount : ₹ 380
+[INFO ] 2023-07-22 16:58:03.082 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 16:58:11.899 [main] GROStepDefinition - Patient ID : 461
+[INFO ] 2023-07-22 16:58:12.356 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 16:58:13.561 [main] GROStepDefinition - Patient Name :Total Protein (TP)
+[INFO ] 2023-07-22 16:58:14.196 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 16:58:14.987 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 16:58:21.270 [main] GROStepDefinition - Test Name :Total Protein (TP)
+[INFO ] 2023-07-22 16:58:25.417 [main] GROStepDefinition - Amount : ₹ 285
+[INFO ] 2023-07-22 17:00:11.727 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 17:00:20.364 [main] GROStepDefinition - Patient ID : 462
+[INFO ] 2023-07-22 17:00:20.880 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 17:00:22.023 [main] GROStepDefinition - Patient Name :LACTATE (LACT)
+[INFO ] 2023-07-22 17:00:22.656 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 17:00:23.395 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 17:00:29.658 [main] GROStepDefinition - Test Name :LACTATE (LACT)
+[INFO ] 2023-07-22 17:00:33.776 [main] GROStepDefinition - Amount : ₹ 650
+[INFO ] 2023-07-22 17:01:53.210 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 17:02:08.580 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 17:02:16.876 [main] GROStepDefinition - Patient ID : 463
+[INFO ] 2023-07-22 17:02:17.363 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 17:02:18.898 [main] GROStepDefinition - Patient Name :CEA- Carcinoembryonic antigen
+[INFO ] 2023-07-22 17:02:19.527 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 17:02:20.312 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 17:02:26.726 [main] GROStepDefinition - Test Name :CEA- Carcinoembryonic antigen
+[INFO ] 2023-07-22 17:02:30.853 [main] GROStepDefinition - Amount : ₹ 760
+[INFO ] 2023-07-22 17:03:48.330 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 17:03:56.943 [main] GROStepDefinition - Patient ID : 464
+[INFO ] 2023-07-22 17:03:57.514 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 17:03:58.930 [main] GROStepDefinition - Patient Name :Lactate Dehydrogenase(LDH)
+[INFO ] 2023-07-22 17:03:59.538 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 17:04:00.321 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 17:04:06.773 [main] GROStepDefinition - Test Name :Lactate Dehydrogenase(LDH)
+[INFO ] 2023-07-22 17:04:10.909 [main] GROStepDefinition - Amount : ₹ 230
+[INFO ] 2023-07-22 17:06:12.571 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 17:06:20.740 [main] GROStepDefinition - Patient ID : 465
+[INFO ] 2023-07-22 17:06:21.200 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 17:06:22.803 [main] GROStepDefinition - Patient Name :HBsAg - Hepatitis B Surface Antigen
+[INFO ] 2023-07-22 17:06:23.397 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 17:06:24.141 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 17:06:30.556 [main] GROStepDefinition - Test Name :HBsAg - Hepatitis B Surface Antigen
+[INFO ] 2023-07-22 17:06:34.662 [main] GROStepDefinition - Amount : ₹ 190
+[INFO ] 2023-07-22 17:07:51.623 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 17:08:00.671 [main] GROStepDefinition - Patient ID : 466
+[INFO ] 2023-07-22 17:08:01.249 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 17:08:02.156 [main] GROStepDefinition - Patient Name :Serum IgM
+[INFO ] 2023-07-22 17:08:02.801 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 17:08:03.524 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 17:08:09.721 [main] GROStepDefinition - Test Name :Serum IgM
+[INFO ] 2023-07-22 17:08:13.872 [main] GROStepDefinition - Amount : ₹ 3,100
+[INFO ] 2023-07-22 17:09:35.403 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 17:09:43.979 [main] GROStepDefinition - Patient ID : 467
+[INFO ] 2023-07-22 17:09:44.528 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 17:09:45.612 [main] GROStepDefinition - Patient Name :Progesterone
+[INFO ] 2023-07-22 17:09:46.245 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 17:09:47.018 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 17:09:53.260 [main] GROStepDefinition - Test Name :Progesterone
+[INFO ] 2023-07-22 17:09:57.409 [main] GROStepDefinition - Amount : ₹ 1,330
+[INFO ] 2023-07-22 17:11:30.561 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 17:11:39.706 [main] GROStepDefinition - Patient ID : 468
+[INFO ] 2023-07-22 17:11:40.189 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 17:11:41.190 [main] GROStepDefinition - Patient Name :Rubella IgM
+[INFO ] 2023-07-22 17:11:41.788 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 17:11:42.529 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 17:11:48.662 [main] GROStepDefinition - Test Name :Rubella IgM
+[INFO ] 2023-07-22 17:11:52.803 [main] GROStepDefinition - Amount : ₹ 2,570
+[INFO ] 2023-07-22 17:13:27.324 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 17:13:36.953 [main] GROStepDefinition - Patient ID : 469
+[INFO ] 2023-07-22 17:13:37.479 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 17:13:38.986 [main] GROStepDefinition - Patient Name :H. pylori Stool Antigen
+[INFO ] 2023-07-22 17:13:39.724 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 17:13:40.578 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 17:13:47.145 [main] GROStepDefinition - Test Name :H. pylori Stool Antigen
+[INFO ] 2023-07-22 17:13:51.363 [main] GROStepDefinition - Amount : ₹ 1,150
+[INFO ] 2023-07-22 17:15:08.075 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 17:15:18.452 [main] GROStepDefinition - Patient ID : 470
+[INFO ] 2023-07-22 17:15:18.962 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 17:15:20.313 [main] GROStepDefinition - Patient Name :FUNGAL CULTURE
+[INFO ] 2023-07-22 17:15:20.954 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 17:15:21.723 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 17:15:28.154 [main] GROStepDefinition - Test Name :FUNGAL CULTURE
+[INFO ] 2023-07-22 17:15:32.303 [main] GROStepDefinition - Amount : ₹ 800
+[INFO ] 2023-07-22 17:19:30.636 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 17:19:40.756 [main] GROStepDefinition - Patient ID : 471
+[INFO ] 2023-07-22 17:19:41.265 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 17:19:43.485 [main] GROStepDefinition - Patient Name :Anti-HBs - Hepatitis B surface antibody
+[INFO ] 2023-07-22 17:19:44.188 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 17:19:45.020 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 17:19:51.823 [main] GROStepDefinition - Test Name :Anti-HBs - Hepatitis B surface antibody
+[INFO ] 2023-07-22 17:19:56.068 [main] GROStepDefinition - Amount : ₹ 400
+[INFO ] 2023-07-22 17:21:13.607 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 17:21:24.229 [main] GROStepDefinition - Patient ID : 472
+[INFO ] 2023-07-22 17:21:24.724 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 17:21:26.309 [main] GROStepDefinition - Patient Name :BUN (Blood Urea Nitrogen)
+[INFO ] 2023-07-22 17:21:26.976 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 17:21:27.740 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 17:21:34.405 [main] GROStepDefinition - Test Name :BUN (Blood Urea Nitrogen)
+[INFO ] 2023-07-22 17:21:38.571 [main] GROStepDefinition - Amount : ₹ 125
+[INFO ] 2023-07-22 17:23:15.592 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 17:23:26.787 [main] GROStepDefinition - Patient ID : 473
+[INFO ] 2023-07-22 17:23:27.322 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 17:23:28.904 [main] GROStepDefinition - Patient Name :BUN (Blood Urea Nitrogen)
+[INFO ] 2023-07-22 17:23:29.681 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 17:23:30.512 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 17:23:37.158 [main] GROStepDefinition - Test Name :BUN (Blood Urea Nitrogen)
+[INFO ] 2023-07-22 17:23:41.393 [main] GROStepDefinition - Amount : ₹ 125
+[INFO ] 2023-07-22 17:24:22.271 [main] TestResult - Test Value : 17
+[INFO ] 2023-07-22 17:26:15.706 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 17:26:27.724 [main] GROStepDefinition - Patient ID : 474
+[INFO ] 2023-07-22 17:26:28.239 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 17:26:29.815 [main] GROStepDefinition - Patient Name :Glucose (Fasting & PP)
+[INFO ] 2023-07-22 17:26:30.577 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 17:26:31.429 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 17:26:37.927 [main] GROStepDefinition - Test Name :Glucose (Fasting & PP)
+[INFO ] 2023-07-22 17:26:42.120 [main] GROStepDefinition - Amount : ₹ 180
+[INFO ] 2023-07-22 17:28:16.903 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 17:28:29.048 [main] GROStepDefinition - Patient ID : 475
+[INFO ] 2023-07-22 17:28:29.588 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 17:28:31.191 [main] GROStepDefinition - Patient Name :CA 125- Cancer Antigen 125
+[INFO ] 2023-07-22 17:28:31.900 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 17:28:32.753 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 17:28:39.358 [main] GROStepDefinition - Test Name :CA 125- Cancer Antigen 125
+[INFO ] 2023-07-22 17:28:43.531 [main] GROStepDefinition - Amount : ₹ 1,520
+[INFO ] 2023-07-22 20:43:49.792 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 20:46:16.140 [main] GROStepDefinition - Patient ID : 476
+[INFO ] 2023-07-22 20:46:16.739 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 20:46:18.888 [main] GROStepDefinition - Patient Name :Wound CULTURE & SENSITIVITY (MANUAL )
+[INFO ] 2023-07-22 20:46:19.542 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 20:46:20.374 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 20:46:27.431 [main] GROStepDefinition - Test Name :Wound CULTURE & SENSITIVITY (MANUAL )
+[INFO ] 2023-07-22 20:46:31.590 [main] GROStepDefinition - Amount : ₹ 715
+[INFO ] 2023-07-22 20:50:52.463 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 20:51:52.611 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 20:54:33.784 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 20:56:31.263 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 20:58:27.693 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 20:59:28.244 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 20:59:57.757 [main] GROStepDefinition - Patient ID : 477
+[INFO ] 2023-07-22 20:59:58.268 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 21:00:00.155 [main] GROStepDefinition - Patient Name :Gamma-glutamyltransferase (GGT)
+[INFO ] 2023-07-22 21:00:00.808 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 21:00:01.625 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 21:00:08.625 [main] GROStepDefinition - Test Name :Gamma-glutamyltransferase (GGT)
+[INFO ] 2023-07-22 21:00:12.934 [main] GROStepDefinition - Amount : ₹ 315
+[INFO ] 2023-07-22 21:04:17.174 [main] GROStepDefinition - Crelio Automation Script Run In :  Chrome Browser
+[INFO ] 2023-07-22 21:04:55.941 [main] GROStepDefinition - Patient ID : 
+[INFO ] 2023-07-22 21:04:56.492 [main] GROStepDefinition - Select Patient Type : Direct
+[INFO ] 2023-07-22 21:04:59.383 [main] GROStepDefinition - Patient Name :CA 15.3- Cancer Antigen 15.3
+[INFO ] 2023-07-22 21:05:00.222 [main] GROStepDefinition - Gender : Male
+[INFO ] 2023-07-22 21:05:01.181 [main] GROStepDefinition - Age : 25
+[INFO ] 2023-07-22 21:05:08.285 [main] GROStepDefinition - Test Name :CA 15.3- Cancer Antigen 15.3
+[INFO ] 2023-07-22 21:05:12.659 [main] GROStepDefinition - Amount : ₹ 1,520

@@ -1,0 +1,45 @@
+[INFO ] 2023-03-25 13:57:51.749 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-03-25 13:57:54.054 [main] GpModuleStepDefinition - Start Time  = 1679732874054
+[INFO ] 2023-03-25 13:57:55.692 [main] LabJuniorStepDefinition - Start Time  = 1679732875692
+[INFO ] 2023-03-25 13:57:57.323 [main] LabSeniorStepDefinition - Start Time  = 1679732877323
+[INFO ] 2023-03-25 13:57:58.955 [main] LabSupervisorStepDefinition - Start Time  = 1679732878955
+[INFO ] 2023-03-25 13:59:47.574 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-03-25 13:59:50.303 [main] GROStepDefinition - Start Time  = 1679732990303
+[INFO ] 2023-03-25 13:59:50.303 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-03-25 13:59:50.789 [main] GROStepDefinition - Username: mangai
+[INFO ] 2023-03-25 13:59:50.892 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-03-25 13:59:53.665 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-03-25 13:59:55.277 [main] CommonDefinition - Country : India
+[INFO ] 2023-03-25 13:59:58.101 [main] GROStepDefinition - Choose The Counter is: Counter - 02
+[INFO ] 2023-03-25 14:00:00.806 [main] GROStepDefinition - Signed into the counter successfully
+[INFO ] 2023-03-25 14:00:02.756 [main] GROStepDefinition - Visa Number: 998090982117
+[INFO ] 2023-03-25 14:00:03.868 [main] GROStepDefinition - Biometric skip request sent successfully
+[INFO ] 2023-03-25 14:00:06.916 [main] GROStepDefinition - Patient Profile Page
+[INFO ] 2023-03-25 14:00:06.916 [main] GROStepDefinition - Personal Details: 
+[INFO ] 2023-03-25 14:00:06.916 [main] GROStepDefinition - Visa Gender Type: Female
+[INFO ] 2023-03-25 14:00:09.304 [main] GROStepDefinition - Applicant Believes Pregnant?: Yes
+[INFO ] 2023-03-25 14:00:09.305 [main] GROStepDefinition - Successfully enter the Personal information details
+[INFO ] 2023-03-25 14:00:09.305 [main] GROStepDefinition - Communcation Details: 
+[INFO ] 2023-03-25 14:00:09.330 [main] GROStepDefinition - Country: India
+[INFO ] 2023-03-25 14:00:10.179 [main] GROStepDefinition - Preferred Language to Speak: Tamil
+[INFO ] 2023-03-25 14:00:10.849 [main] GROStepDefinition - Preferred Language to Read: Tamil
+[INFO ] 2023-03-25 14:00:12.852 [main] GROStepDefinition - Preferred Location for Referral: Chennai
+[INFO ] 2023-03-25 14:00:13.819 [main] GROStepDefinition - Preferred Hospital: Apollo Hospital
+[INFO ] 2023-03-25 14:00:13.819 [main] GROStepDefinition - Successfully enter The Communication Details
+[INFO ] 2023-03-25 14:00:13.820 [main] GROStepDefinition - Encounter Details: 
+[INFO ] 2023-03-25 14:00:15.327 [main] GROStepDefinition - SMS Alert Number: 9790000000
+[INFO ] 2023-03-25 14:00:15.353 [main] GROStepDefinition - Job Position : Pharmacist
+[INFO ] 2023-03-25 14:00:15.371 [main] GROStepDefinition - Is Job applicable of Driving: false
+[INFO ] 2023-03-25 14:00:15.372 [main] GROStepDefinition - Successfully enter The Encounter details
+[INFO ] 2023-03-25 14:00:43.292 [main] GpModuleStepDefinition - Start Time  = 1679733043292
+[INFO ] 2023-03-25 14:01:04.325 [main] LabJuniorStepDefinition - Start Time  = 1679733064325
+[INFO ] 2023-03-25 14:01:25.418 [main] LabSeniorStepDefinition - Start Time  = 1679733085418
+[INFO ] 2023-03-25 14:01:38.893 [main] LabSupervisorStepDefinition - Start Time  = 1679733098892
+[INFO ] 2023-03-25 14:01:40.006 [main] StemzGPCertificatePage - Nurse And Stemz Gp Referral : {Pulmonology : =0, BMI : =0, Deformatory : =0, Phychiatry : =0, Ear : =0, BetaHcg : =0, Color Vision : =0, Bp: =0, Dermatology : =0, Vision : =0, Cardiology : =0}
+[INFO ] 2023-03-25 14:01:40.006 [main] StemzGPCertificatePage - Nurse And Stemz Gp Referral Count : 0
+[INFO ] 2023-03-25 14:01:40.007 [main] StemzGPCertificatePage - Lab Comformatory Referral : {HBSAG : =0, AntiHCV : =0, HIV : =0, RPR : =0}
+[INFO ] 2023-03-25 14:01:40.007 [main] StemzGPCertificatePage - Lab Comformatory Referral Count : 0
+[INFO ] 2023-03-25 14:01:40.007 [main] StemzGPCertificatePage -  Lab Additional Referral Details : {SGOT : =0, Glucose : =0, SGPT : =0, Creatinine : =0, Hamoglobin : =0}
+[INFO ] 2023-03-25 14:01:40.007 [main] StemzGPCertificatePage - Lab Additional Referral Count : 0
+[INFO ] 2023-03-25 14:01:40.007 [main] StemzGPCertificatePage - Nurse And Stemz Gp Referral Count : 0Lab Comformatory Referral Count :0Lab Additional Referral Count : 0
+[INFO ] 2023-03-25 14:01:40.007 [main] StemzGPCertificatePage - Referrals : {BMI : =false, Cardilogy : =false, Beta HCG=false, Deformatory : =false, Color Vision : =false, Vision : =false, BP : =false}

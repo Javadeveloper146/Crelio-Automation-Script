@@ -1,0 +1,647 @@
+[INFO ] 2023-06-08 12:11:52.370 [main] GROStepDefinition - Accept
+[INFO ] 2023-06-08 12:11:52.378 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-06-08 12:11:55.070 [main] GROStepDefinition - Start Time  = 1686206515070
+[INFO ] 2023-06-08 12:11:55.301 [main] CredentialsController - Username: CH_Gro
+[INFO ] 2023-06-08 12:11:55.393 [main] CredentialsController - Password: Glosys@123
+[INFO ] 2023-06-08 12:11:56.194 [main] GROStepDefinition - End  Runing Time : 1686206516194
+[INFO ] 2023-06-08 12:11:56.195 [main] GROStepDefinition - Milli Sec Time : 1124
+[INFO ] 2023-06-08 12:11:56.195 [main] GROStepDefinition - Secs Sec Time : 18
+[INFO ] 2023-06-08 12:11:56.195 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 12:11:56.195 [main] GROStepDefinition - Country: India
+[INFO ] 2023-06-08 12:11:56.195 [main] GROStepDefinition - State: Chennai
+[INFO ] 2023-06-08 12:12:02.441 [main] CommonDefinition - Choose The Counter is: Counter - 01
+[INFO ] 2023-06-08 12:12:03.544 [main] CommonDefinition - Signed into the counter successfully
+[INFO ] 2023-06-08 12:12:04.559 [main] GROStepDefinition - Start Time  = 1686206524559
+[INFO ] 2023-06-08 12:12:05.323 [main] GROStepDefinition - Visa Number: 900000000093
+[INFO ] 2023-06-08 12:12:06.421 [main] GROStepDefinition - End  Runing Time : 1686206526421
+[INFO ] 2023-06-08 12:12:06.422 [main] GROStepDefinition - Milli Sec Time : 1862
+[INFO ] 2023-06-08 12:12:06.422 [main] GROStepDefinition - Secs Sec Time : 31
+[INFO ] 2023-06-08 12:12:06.422 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 12:12:06.423 [main] GROStepDefinition - Biometric skip request sent successfully
+[INFO ] 2023-06-08 12:12:09.958 [main] GROStepDefinition - Patient Profile Page
+[INFO ] 2023-06-08 12:12:09.958 [main] GROStepDefinition - Personal Details: 
+[INFO ] 2023-06-08 12:12:09.959 [main] GROStepDefinition - Visa Gender Type: Female
+[INFO ] 2023-06-08 12:12:12.243 [main] GROStepDefinition - Applicant Believes Pregnant?: Yes
+[INFO ] 2023-06-08 12:12:12.244 [main] GROStepDefinition - Successfully enter the Personal information details
+[INFO ] 2023-06-08 12:12:12.244 [main] GROStepDefinition - Communcation Details: 
+[INFO ] 2023-06-08 12:12:12.280 [main] GROStepDefinition - Country: India
+[INFO ] 2023-06-08 12:12:12.988 [main] GROStepDefinition - Preferred Language to Speak: Hindi
+[INFO ] 2023-06-08 12:12:13.644 [main] GROStepDefinition - Preferred Language to Read: Hindi
+[INFO ] 2023-06-08 12:12:15.606 [main] GROStepDefinition - Preferred Location for Referral: Chennai
+[INFO ] 2023-06-08 12:12:16.747 [main] GROStepDefinition - Preferred Hospital: Vijaya Hospital
+[INFO ] 2023-06-08 12:12:16.747 [main] GROStepDefinition - Successfully enter The Communication Details
+[INFO ] 2023-06-08 12:12:16.747 [main] GROStepDefinition - Encounter Details: 
+[INFO ] 2023-06-08 12:12:18.020 [main] GROStepDefinition - SMS Alert Number: 9790000000
+[INFO ] 2023-06-08 12:12:18.046 [main] GROStepDefinition - Job Position : Pharmacist
+[INFO ] 2023-06-08 12:12:18.104 [main] GROStepDefinition - Is Job applicable of Driving: false
+[INFO ] 2023-06-08 12:12:18.104 [main] GROStepDefinition - Successfully enter The Encounter details
+[INFO ] 2023-06-08 12:12:32.340 [main] GROStepDefinition - End  Runing Time : 1686206552338
+[INFO ] 2023-06-08 12:12:32.340 [main] GROStepDefinition - Milli Sec Time : 27779
+[INFO ] 2023-06-08 12:12:32.340 [main] GROStepDefinition - Secs Sec Time : 462
+[INFO ] 2023-06-08 12:12:32.340 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 12:12:32.341 [main] GROStepDefinition - Applicant Consent And Declaration From
+[INFO ] 2023-06-08 12:12:32.341 [main] GROStepDefinition - Applicant Details Created Successflly
+[INFO ] 2023-06-08 12:12:32.342 [main] GROStepDefinition - Place Order Page
+[INFO ] 2023-06-08 12:12:33.213 [main] GROStepDefinition - Token Genarated :    Token no (NND004) generated successfully
+×
+[INFO ] 2023-06-08 12:12:33.213 [main] GROStepDefinition - Visa Gender Type: Female - Pregnant - YesXray Page Not Allowed
+[INFO ] 2023-06-08 12:12:33.213 [main] GROStepDefinition - Token : NND004
+[INFO ] 2023-06-08 12:12:33.213 [main] GROStepDefinition - Generate Service Recipt
+[INFO ] 2023-06-08 12:12:33.213 [main] GROStepDefinition - Capture Identify Page:
+[INFO ] 2023-06-08 12:12:33.214 [main] GROStepDefinition - Vaccination Document Status Condition is: No
+[INFO ] 2023-06-08 12:12:33.214 [main] GROStepDefinition - Referral Document Status Condition is: No
+[INFO ] 2023-06-08 12:12:33.214 [main] GROStepDefinition - Start Time  = 1686206524559
+[INFO ] 2023-06-08 12:12:34.721 [main] GROStepDefinition - Start Time  = 1686206554721
+[INFO ] 2023-06-08 12:12:37.116 [main] GROStepDefinition - End  Runing Time : 1686206557116
+[INFO ] 2023-06-08 12:12:37.117 [main] GROStepDefinition - Milli Sec Time : 2395
+[INFO ] 2023-06-08 12:12:37.117 [main] GROStepDefinition - Secs Sec Time : 39
+[INFO ] 2023-06-08 12:12:37.117 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 12:12:37.117 [main] GROStepDefinition - Applicant identity details updated successfully
+[INFO ] 2023-06-08 12:12:37.117 [main] GROStepDefinition - Start Time  = 1686206554721
+[INFO ] 2023-06-08 12:12:37.623 [main] GROStepDefinition - Start Time  = 1686206557622
+[INFO ] 2023-06-08 12:12:38.160 [main] GROStepDefinition - GRO Module Feedback Collected
+[INFO ] 2023-06-08 12:12:41.174 [main] GROStepDefinition - End  Runing Time : 1686206561174
+[INFO ] 2023-06-08 12:12:41.175 [main] GROStepDefinition - Milli Sec Time : 3552
+[INFO ] 2023-06-08 12:12:41.175 [main] GROStepDefinition - Secs Sec Time : 59
+[INFO ] 2023-06-08 12:12:41.176 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 12:12:41.176 [main] GROStepDefinition - Start Time  = 1686206557622
+[INFO ] 2023-06-08 12:12:44.190 [main] GROStepDefinition - Start Time  = 1686206564190
+[INFO ] 2023-06-08 12:12:46.470 [main] GROStepDefinition - End  Runing Time : 1686206566470
+[INFO ] 2023-06-08 12:12:46.471 [main] GROStepDefinition - Milli Sec Time : 2280
+[INFO ] 2023-06-08 12:12:46.471 [main] GROStepDefinition - Secs Sec Time : 38
+[INFO ] 2023-06-08 12:12:46.471 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 12:12:46.471 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-06-08 12:12:47.541 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 12:12:47.541 [main] GROStepDefinition - Total Time Mints = Mints : 0.0  3.0 seconds
+[INFO ] 2023-06-08 12:12:47.541 [main] GROStepDefinition - Total Time in  Seconds = 3 seconds
+[INFO ] 2023-06-08 12:12:47.541 [main] GROStepDefinition - Milli Sec Time : 3351
+[INFO ] 2023-06-08 12:12:47.556 [main] NurseModuleStepDefinition - Nurse Module
+[INFO ] 2023-06-08 12:12:47.649 [main] CredentialsController - Username: CH_Nurse
+[INFO ] 2023-06-08 12:12:47.727 [main] CredentialsController - Password: Glosys@123
+[INFO ] 2023-06-08 12:12:47.782 [main] NurseModuleStepDefinition - Country: India
+[INFO ] 2023-06-08 12:12:47.782 [main] NurseModuleStepDefinition - State: Chennai
+[INFO ] 2023-06-08 12:12:47.782 [main] NurseModuleStepDefinition - Token : 04
+[INFO ] 2023-06-08 12:12:53.890 [main] CommonDefinition - Choose The Counter is: Counter - 03
+[INFO ] 2023-06-08 12:12:54.962 [main] CommonDefinition - Signed into the counter successfully
+[INFO ] 2023-06-08 12:12:58.651 [main] NurseTokenVerify - Nurse Token : 2 -- Gro Token  :4
+[INFO ] 2023-06-08 12:13:07.432 [main] NurseTokenVerify - Nurse Module  Loop Token : NND004
+[INFO ] 2023-06-08 12:13:07.433 [main] NurseTokenVerify - Nurse Token : 4-- Gro Token  :4
+[INFO ] 2023-06-08 12:13:07.433 [main] NurseTokenVerify - Nurse Token : 4-- Gro Token  :4
+[INFO ] 2023-06-08 12:13:08.503 [main] NurseModuleStepDefinition - Successfully Verified The Token
+[INFO ] 2023-06-08 12:13:09.818 [main] NurseModuleStepDefinition - Record Vitals:
+[ERROR] 2023-06-08 12:13:09.818 [main] NurseModuleStepDefinition - Temperature : 
+[ERROR] 2023-06-08 12:13:13.442 [main] NurseModuleStepDefinition - Temperature Value : 98.
+[INFO ] 2023-06-08 12:13:15.662 [main] NurseModuleStepDefinition - Height: 160
+[INFO ] 2023-06-08 12:13:15.793 [main] NurseModuleStepDefinition - Weight: 60
+[INFO ] 2023-06-08 12:13:15.793 [main] NurseModuleStepDefinition - Successfully enter the Body Mass Index
+[INFO ] 2023-06-08 12:13:16.717 [main] NurseModuleStepDefinition - Vision (R): 6/6
+[INFO ] 2023-06-08 12:13:17.955 [main] NurseModuleStepDefinition - Vision (L): 6/6
+[INFO ] 2023-06-08 12:13:17.955 [main] NurseModuleStepDefinition - Successfully enter the Vision Module
+[INFO ] 2023-06-08 12:13:28.656 [main] GpModuleStepDefinition - Start Time  = 1686206608656
+[INFO ] 2023-06-08 12:13:39.693 [main] LabJuniorStepDefinition - Start Time  = 1686206619693
+[INFO ] 2023-06-08 12:13:49.743 [main] LabSeniorStepDefinition - Start Time  = 1686206629743
+[INFO ] 2023-06-08 12:13:55.408 [main] LabSupervisorStepDefinition - Start Time  = 1686206635408
+[INFO ] 2023-06-08 12:19:51.299 [main] GROStepDefinition - Accept
+[INFO ] 2023-06-08 12:19:51.302 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-06-08 12:19:56.458 [main] GROStepDefinition - Start Time  = 1686206996458
+[INFO ] 2023-06-08 12:19:56.567 [main] CredentialsController - Username: CH_Gro
+[INFO ] 2023-06-08 12:19:56.654 [main] CredentialsController - Password: Glosys@123
+[INFO ] 2023-06-08 12:19:57.439 [main] GROStepDefinition - End  Runing Time : 1686206997439
+[INFO ] 2023-06-08 12:19:57.440 [main] GROStepDefinition - Milli Sec Time : 981
+[INFO ] 2023-06-08 12:19:57.440 [main] GROStepDefinition - Secs Sec Time : 16
+[INFO ] 2023-06-08 12:19:57.440 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 12:19:57.440 [main] GROStepDefinition - Country: India
+[INFO ] 2023-06-08 12:19:57.441 [main] GROStepDefinition - State: Chennai
+[INFO ] 2023-06-08 12:20:01.560 [main] CommonDefinition - Choose The Counter is: Counter - 01
+[INFO ] 2023-06-08 12:20:02.645 [main] CommonDefinition - Signed into the counter successfully
+[INFO ] 2023-06-08 12:20:03.652 [main] GROStepDefinition - Start Time  = 1686207003652
+[INFO ] 2023-06-08 12:20:04.398 [main] GROStepDefinition - Visa Number: 900000000094
+[INFO ] 2023-06-08 12:20:05.480 [main] GROStepDefinition - End  Runing Time : 1686207005480
+[INFO ] 2023-06-08 12:20:05.481 [main] GROStepDefinition - Milli Sec Time : 1828
+[INFO ] 2023-06-08 12:20:05.481 [main] GROStepDefinition - Secs Sec Time : 30
+[INFO ] 2023-06-08 12:20:05.481 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 12:20:05.481 [main] GROStepDefinition - Biometric skip request sent successfully
+[INFO ] 2023-06-08 12:20:09.037 [main] GROStepDefinition - Patient Profile Page
+[INFO ] 2023-06-08 12:20:09.038 [main] GROStepDefinition - Personal Details: 
+[INFO ] 2023-06-08 12:20:09.038 [main] GROStepDefinition - Visa Gender Type: Select Gender
+[INFO ] 2023-06-08 12:20:10.463 [main] GROStepDefinition - Successfully enter the Personal information details
+[INFO ] 2023-06-08 12:20:10.463 [main] GROStepDefinition - Communcation Details: 
+[INFO ] 2023-06-08 12:20:10.489 [main] GROStepDefinition - Country: India
+[INFO ] 2023-06-08 12:20:11.225 [main] GROStepDefinition - Preferred Language to Speak: Hindi
+[INFO ] 2023-06-08 12:20:11.874 [main] GROStepDefinition - Preferred Language to Read: Hindi
+[INFO ] 2023-06-08 12:20:13.810 [main] GROStepDefinition - Preferred Location for Referral: Chennai
+[INFO ] 2023-06-08 12:20:14.942 [main] GROStepDefinition - Preferred Hospital: Vijaya Hospital
+[INFO ] 2023-06-08 12:20:14.942 [main] GROStepDefinition - Successfully enter The Communication Details
+[INFO ] 2023-06-08 12:20:14.942 [main] GROStepDefinition - Encounter Details: 
+[INFO ] 2023-06-08 12:20:16.238 [main] GROStepDefinition - SMS Alert Number: 9790000000
+[INFO ] 2023-06-08 12:20:16.266 [main] GROStepDefinition - Job Position : Pharmacist
+[INFO ] 2023-06-08 12:20:16.290 [main] GROStepDefinition - Is Job applicable of Driving: false
+[INFO ] 2023-06-08 12:20:16.290 [main] GROStepDefinition - Successfully enter The Encounter details
+[INFO ] 2023-06-08 12:20:30.442 [main] NurseModuleStepDefinition - Nurse Module
+[INFO ] 2023-06-08 12:20:40.486 [main] GpModuleStepDefinition - Start Time  = 1686207040486
+[INFO ] 2023-06-08 12:20:51.541 [main] LabJuniorStepDefinition - Start Time  = 1686207051541
+[INFO ] 2023-06-08 12:21:01.619 [main] LabSeniorStepDefinition - Start Time  = 1686207061619
+[INFO ] 2023-06-08 12:21:11.637 [main] LabSupervisorStepDefinition - Start Time  = 1686207071637
+[INFO ] 2023-06-08 12:21:33.677 [main] GROStepDefinition - Accept
+[INFO ] 2023-06-08 12:21:33.680 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-06-08 12:21:38.554 [main] GROStepDefinition - Start Time  = 1686207098554
+[INFO ] 2023-06-08 12:21:38.686 [main] CredentialsController - Username: CH_Gro
+[INFO ] 2023-06-08 12:21:38.774 [main] CredentialsController - Password: Glosys@123
+[INFO ] 2023-06-08 12:21:39.546 [main] GROStepDefinition - End  Runing Time : 1686207099546
+[INFO ] 2023-06-08 12:21:39.546 [main] GROStepDefinition - Milli Sec Time : 992
+[INFO ] 2023-06-08 12:21:39.546 [main] GROStepDefinition - Secs Sec Time : 16
+[INFO ] 2023-06-08 12:21:39.546 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 12:21:39.546 [main] GROStepDefinition - Country: India
+[INFO ] 2023-06-08 12:21:39.546 [main] GROStepDefinition - State: Chennai
+[INFO ] 2023-06-08 12:21:44.738 [main] CommonDefinition - Choose The Counter is: Counter - 02
+[INFO ] 2023-06-08 12:21:45.806 [main] CommonDefinition - Signed into the counter successfully
+[INFO ] 2023-06-08 12:21:46.822 [main] GROStepDefinition - Start Time  = 1686207106822
+[INFO ] 2023-06-08 12:21:47.555 [main] GROStepDefinition - Visa Number: 900000000095
+[INFO ] 2023-06-08 12:21:48.640 [main] GROStepDefinition - End  Runing Time : 1686207108640
+[INFO ] 2023-06-08 12:21:48.640 [main] GROStepDefinition - Milli Sec Time : 1818
+[INFO ] 2023-06-08 12:21:48.641 [main] GROStepDefinition - Secs Sec Time : 30
+[INFO ] 2023-06-08 12:21:48.641 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 12:21:48.641 [main] GROStepDefinition - Biometric skip request sent successfully
+[INFO ] 2023-06-08 12:21:52.179 [main] GROStepDefinition - Patient Profile Page
+[INFO ] 2023-06-08 12:21:52.180 [main] GROStepDefinition - Personal Details: 
+[INFO ] 2023-06-08 12:21:52.180 [main] GROStepDefinition - Visa Gender Type: Select Gender
+[INFO ] 2023-06-08 12:21:53.682 [main] GROStepDefinition - Successfully enter the Personal information details
+[INFO ] 2023-06-08 12:21:53.682 [main] GROStepDefinition - Communcation Details: 
+[INFO ] 2023-06-08 12:21:53.709 [main] GROStepDefinition - Country: India
+[INFO ] 2023-06-08 12:21:54.532 [main] GROStepDefinition - Preferred Language to Speak: Hindi
+[INFO ] 2023-06-08 12:21:55.150 [main] GROStepDefinition - Preferred Language to Read: Hindi
+[INFO ] 2023-06-08 12:21:57.117 [main] GROStepDefinition - Preferred Location for Referral: Chennai
+[INFO ] 2023-06-08 12:21:58.253 [main] GROStepDefinition - Preferred Hospital: Vijaya Hospital
+[INFO ] 2023-06-08 12:21:58.254 [main] GROStepDefinition - Successfully enter The Communication Details
+[INFO ] 2023-06-08 12:21:58.254 [main] GROStepDefinition - Encounter Details: 
+[INFO ] 2023-06-08 12:21:59.501 [main] GROStepDefinition - SMS Alert Number: 9790000000
+[INFO ] 2023-06-08 12:21:59.527 [main] GROStepDefinition - Job Position : Pharmacist
+[INFO ] 2023-06-08 12:21:59.551 [main] GROStepDefinition - Is Job applicable of Driving: false
+[INFO ] 2023-06-08 12:21:59.551 [main] GROStepDefinition - Successfully enter The Encounter details
+[INFO ] 2023-06-08 12:22:11.194 [main] NurseModuleStepDefinition - Nurse Module
+[INFO ] 2023-06-08 12:22:21.250 [main] GpModuleStepDefinition - Start Time  = 1686207141250
+[INFO ] 2023-06-08 12:22:32.288 [main] LabJuniorStepDefinition - Start Time  = 1686207152288
+[INFO ] 2023-06-08 12:22:42.389 [main] LabSeniorStepDefinition - Start Time  = 1686207162388
+[INFO ] 2023-06-08 12:22:50.423 [main] LabSupervisorStepDefinition - Start Time  = 1686207170423
+[INFO ] 2023-06-08 12:22:53.645 [main] CredentialsController - Username: CH_GP
+[INFO ] 2023-06-08 12:22:53.729 [main] CredentialsController - Password: Glosys@123
+[INFO ] 2023-06-08 12:23:09.445 [main] GROStepDefinition - Accept
+[INFO ] 2023-06-08 12:23:09.448 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-06-08 12:23:15.202 [main] GROStepDefinition - Start Time  = 1686207195202
+[INFO ] 2023-06-08 12:23:15.309 [main] CredentialsController - Username: CH_Gro
+[INFO ] 2023-06-08 12:23:15.386 [main] CredentialsController - Password: Glosys@123
+[INFO ] 2023-06-08 12:23:16.156 [main] GROStepDefinition - End  Runing Time : 1686207196156
+[INFO ] 2023-06-08 12:23:16.157 [main] GROStepDefinition - Milli Sec Time : 954
+[INFO ] 2023-06-08 12:23:16.157 [main] GROStepDefinition - Secs Sec Time : 15
+[INFO ] 2023-06-08 12:23:16.157 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 12:23:16.157 [main] GROStepDefinition - Country: India
+[INFO ] 2023-06-08 12:23:16.157 [main] GROStepDefinition - State: Chennai
+[INFO ] 2023-06-08 12:23:21.497 [main] CommonDefinition - Choose The Counter is: Counter - 01
+[INFO ] 2023-06-08 12:23:22.596 [main] CommonDefinition - Signed into the counter successfully
+[INFO ] 2023-06-08 12:23:23.601 [main] GROStepDefinition - Start Time  = 1686207203601
+[INFO ] 2023-06-08 12:23:24.326 [main] GROStepDefinition - Visa Number: 900000000096
+[INFO ] 2023-06-08 12:23:25.433 [main] GROStepDefinition - End  Runing Time : 1686207205433
+[INFO ] 2023-06-08 12:23:25.434 [main] GROStepDefinition - Milli Sec Time : 1832
+[INFO ] 2023-06-08 12:23:25.434 [main] GROStepDefinition - Secs Sec Time : 30
+[INFO ] 2023-06-08 12:23:25.434 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 12:23:25.434 [main] GROStepDefinition - Biometric skip request sent successfully
+[INFO ] 2023-06-08 12:23:28.969 [main] GROStepDefinition - Patient Profile Page
+[INFO ] 2023-06-08 12:23:28.969 [main] GROStepDefinition - Personal Details: 
+[INFO ] 2023-06-08 12:23:28.969 [main] GROStepDefinition - Visa Gender Type: Select Gender
+[INFO ] 2023-06-08 12:23:30.390 [main] GROStepDefinition - Successfully enter the Personal information details
+[INFO ] 2023-06-08 12:23:30.390 [main] GROStepDefinition - Communcation Details: 
+[INFO ] 2023-06-08 12:23:30.416 [main] GROStepDefinition - Country: India
+[INFO ] 2023-06-08 12:23:31.149 [main] GROStepDefinition - Preferred Language to Speak: Hindi
+[INFO ] 2023-06-08 12:23:31.760 [main] GROStepDefinition - Preferred Language to Read: Hindi
+[INFO ] 2023-06-08 12:23:33.731 [main] GROStepDefinition - Preferred Location for Referral: Chennai
+[INFO ] 2023-06-08 12:23:34.862 [main] GROStepDefinition - Preferred Hospital: Vijaya Hospital
+[INFO ] 2023-06-08 12:23:34.862 [main] GROStepDefinition - Successfully enter The Communication Details
+[INFO ] 2023-06-08 12:23:34.862 [main] GROStepDefinition - Encounter Details: 
+[INFO ] 2023-06-08 12:23:36.105 [main] GROStepDefinition - SMS Alert Number: 9790000000
+[INFO ] 2023-06-08 12:23:36.132 [main] GROStepDefinition - Job Position : Pharmacist
+[INFO ] 2023-06-08 12:23:36.157 [main] GROStepDefinition - Is Job applicable of Driving: false
+[INFO ] 2023-06-08 12:23:36.157 [main] GROStepDefinition - Successfully enter The Encounter details
+[INFO ] 2023-06-08 12:23:50.286 [main] NurseModuleStepDefinition - Nurse Module
+[INFO ] 2023-06-08 12:24:00.362 [main] GpModuleStepDefinition - Start Time  = 1686207240362
+[INFO ] 2023-06-08 12:24:11.392 [main] LabJuniorStepDefinition - Start Time  = 1686207251392
+[INFO ] 2023-06-08 12:24:21.447 [main] LabSeniorStepDefinition - Start Time  = 1686207261446
+[INFO ] 2023-06-08 12:24:31.469 [main] LabSupervisorStepDefinition - Start Time  = 1686207271469
+[INFO ] 2023-06-08 12:25:48.183 [main] GROStepDefinition - Accept
+[INFO ] 2023-06-08 12:25:48.186 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-06-08 12:25:49.011 [main] GROStepDefinition - Start Time  = 1686207349011
+[INFO ] 2023-06-08 12:25:49.075 [main] NurseModuleStepDefinition - Nurse Module
+[INFO ] 2023-06-08 12:25:49.097 [main] GpModuleStepDefinition - Start Time  = 1686207349097
+[INFO ] 2023-06-08 12:25:50.125 [main] LabJuniorStepDefinition - Start Time  = 1686207350125
+[INFO ] 2023-06-08 12:25:50.148 [main] LabSeniorStepDefinition - Start Time  = 1686207350148
+[INFO ] 2023-06-08 12:25:50.181 [main] LabSupervisorStepDefinition - Start Time  = 1686207350181
+[INFO ] 2023-06-08 12:26:03.605 [main] GROStepDefinition - Accept
+[INFO ] 2023-06-08 12:26:03.609 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-06-08 12:26:04.159 [main] GROStepDefinition - Start Time  = 1686207364159
+[INFO ] 2023-06-08 12:26:04.217 [main] NurseModuleStepDefinition - Nurse Module
+[INFO ] 2023-06-08 12:26:04.240 [main] GpModuleStepDefinition - Start Time  = 1686207364240
+[INFO ] 2023-06-08 12:26:05.270 [main] LabJuniorStepDefinition - Start Time  = 1686207365270
+[INFO ] 2023-06-08 12:26:05.294 [main] LabSeniorStepDefinition - Start Time  = 1686207365293
+[INFO ] 2023-06-08 12:26:05.313 [main] LabSupervisorStepDefinition - Start Time  = 1686207365313
+[INFO ] 2023-06-08 12:30:51.163 [main] GROStepDefinition - Accept
+[INFO ] 2023-06-08 12:30:51.166 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-06-08 12:30:54.889 [main] GROStepDefinition - Start Time  = 1686207654889
+[INFO ] 2023-06-08 12:30:55.000 [main] CredentialsController - Username: CH_Gro
+[INFO ] 2023-06-08 12:30:55.080 [main] CredentialsController - Password: Glosys@123
+[INFO ] 2023-06-08 12:30:55.845 [main] GROStepDefinition - End  Runing Time : 1686207655845
+[INFO ] 2023-06-08 12:30:55.845 [main] GROStepDefinition - Milli Sec Time : 956
+[INFO ] 2023-06-08 12:30:55.846 [main] GROStepDefinition - Secs Sec Time : 15
+[INFO ] 2023-06-08 12:30:55.846 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 12:30:55.846 [main] GROStepDefinition - Country: India
+[INFO ] 2023-06-08 12:30:55.846 [main] GROStepDefinition - State: Chennai
+[INFO ] 2023-06-08 12:31:00.658 [main] CommonDefinition - Choose The Counter is: Counter - 02
+[INFO ] 2023-06-08 12:31:01.732 [main] CommonDefinition - Signed into the counter successfully
+[INFO ] 2023-06-08 12:31:02.738 [main] GROStepDefinition - Start Time  = 1686207662738
+[INFO ] 2023-06-08 12:31:03.499 [main] GROStepDefinition - Visa Number: 900000000098
+[INFO ] 2023-06-08 12:31:04.595 [main] GROStepDefinition - End  Runing Time : 1686207664595
+[INFO ] 2023-06-08 12:31:04.596 [main] GROStepDefinition - Milli Sec Time : 1857
+[INFO ] 2023-06-08 12:31:04.596 [main] GROStepDefinition - Secs Sec Time : 30
+[INFO ] 2023-06-08 12:31:04.596 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 12:31:04.596 [main] GROStepDefinition - Biometric skip request sent successfully
+[INFO ] 2023-06-08 12:31:08.137 [main] GROStepDefinition - Patient Profile Page
+[INFO ] 2023-06-08 12:31:08.137 [main] GROStepDefinition - Personal Details: 
+[INFO ] 2023-06-08 12:31:08.137 [main] GROStepDefinition - Visa Gender Type: Female
+[INFO ] 2023-06-08 12:31:10.451 [main] GROStepDefinition - Applicant Believes Pregnant?: Yes
+[INFO ] 2023-06-08 12:31:10.451 [main] GROStepDefinition - Successfully enter the Personal information details
+[INFO ] 2023-06-08 12:31:10.452 [main] GROStepDefinition - Communcation Details: 
+[INFO ] 2023-06-08 12:31:10.477 [main] GROStepDefinition - Country: India
+[INFO ] 2023-06-08 12:31:11.229 [main] GROStepDefinition - Preferred Language to Speak: Hindi
+[INFO ] 2023-06-08 12:31:11.884 [main] GROStepDefinition - Preferred Language to Read: Hindi
+[INFO ] 2023-06-08 12:31:13.831 [main] GROStepDefinition - Preferred Location for Referral: Chennai
+[INFO ] 2023-06-08 12:31:14.990 [main] GROStepDefinition - Preferred Hospital: Vijaya Hospital
+[INFO ] 2023-06-08 12:31:14.990 [main] GROStepDefinition - Successfully enter The Communication Details
+[INFO ] 2023-06-08 12:31:14.990 [main] GROStepDefinition - Encounter Details: 
+[INFO ] 2023-06-08 12:31:16.221 [main] GROStepDefinition - SMS Alert Number: 9790000000
+[INFO ] 2023-06-08 12:31:16.249 [main] GROStepDefinition - Job Position : Pharmacist
+[INFO ] 2023-06-08 12:31:16.272 [main] GROStepDefinition - Is Job applicable of Driving: false
+[INFO ] 2023-06-08 12:31:16.272 [main] GROStepDefinition - Successfully enter The Encounter details
+[INFO ] 2023-06-08 12:31:30.506 [main] GROStepDefinition - End  Runing Time : 1686207690506
+[INFO ] 2023-06-08 12:31:30.506 [main] GROStepDefinition - Milli Sec Time : 27768
+[INFO ] 2023-06-08 12:31:30.506 [main] GROStepDefinition - Secs Sec Time : 462
+[INFO ] 2023-06-08 12:31:30.506 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 12:31:30.506 [main] GROStepDefinition - Applicant Consent And Declaration From
+[INFO ] 2023-06-08 12:31:30.506 [main] GROStepDefinition - Applicant Details Created Successflly
+[INFO ] 2023-06-08 12:31:30.507 [main] GROStepDefinition - Place Order Page
+[INFO ] 2023-06-08 12:31:31.378 [main] GROStepDefinition - Token Genarated :    Token no (NND006) generated successfully
+×
+[INFO ] 2023-06-08 12:31:31.379 [main] GROStepDefinition - Visa Gender Type: Female - Pregnant - YesXray Page Not Allowed
+[INFO ] 2023-06-08 12:31:31.379 [main] GROStepDefinition - Token : NND006
+[INFO ] 2023-06-08 12:31:31.379 [main] GROStepDefinition - Generate Service Recipt
+[INFO ] 2023-06-08 12:31:31.379 [main] GROStepDefinition - Capture Identify Page:
+[INFO ] 2023-06-08 12:31:31.379 [main] GROStepDefinition - Vaccination Document Status Condition is: No
+[INFO ] 2023-06-08 12:31:31.379 [main] GROStepDefinition - Referral Document Status Condition is: No
+[INFO ] 2023-06-08 12:31:31.379 [main] GROStepDefinition - Start Time  = 1686207662738
+[INFO ] 2023-06-08 12:31:32.890 [main] GROStepDefinition - Start Time  = 1686207692890
+[INFO ] 2023-06-08 12:31:35.337 [main] GROStepDefinition - End  Runing Time : 1686207695337
+[INFO ] 2023-06-08 12:31:35.338 [main] GROStepDefinition - Milli Sec Time : 2447
+[INFO ] 2023-06-08 12:31:35.338 [main] GROStepDefinition - Secs Sec Time : 40
+[INFO ] 2023-06-08 12:31:35.338 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 12:31:35.338 [main] GROStepDefinition - Applicant identity details updated successfully
+[INFO ] 2023-06-08 12:31:35.339 [main] GROStepDefinition - Start Time  = 1686207692890
+[INFO ] 2023-06-08 12:31:35.853 [main] GROStepDefinition - Start Time  = 1686207695853
+[INFO ] 2023-06-08 12:31:36.083 [main] GROStepDefinition - GRO Module Feedback Collected
+[INFO ] 2023-06-08 12:31:39.093 [main] GROStepDefinition - End  Runing Time : 1686207699093
+[INFO ] 2023-06-08 12:31:39.094 [main] GROStepDefinition - Milli Sec Time : 3240
+[INFO ] 2023-06-08 12:31:39.095 [main] GROStepDefinition - Secs Sec Time : 54
+[INFO ] 2023-06-08 12:31:39.097 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 12:31:39.097 [main] GROStepDefinition - Start Time  = 1686207695853
+[INFO ] 2023-06-08 12:31:42.110 [main] GROStepDefinition - Start Time  = 1686207702110
+[INFO ] 2023-06-08 12:31:44.376 [main] GROStepDefinition - End  Runing Time : 1686207704376
+[INFO ] 2023-06-08 12:31:44.377 [main] GROStepDefinition - Milli Sec Time : 2266
+[INFO ] 2023-06-08 12:31:44.377 [main] GROStepDefinition - Secs Sec Time : 37
+[INFO ] 2023-06-08 12:31:44.377 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 12:31:44.377 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-06-08 12:31:45.441 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 12:31:45.442 [main] GROStepDefinition - Total Time Mints = Mints : 0.0  3.0 seconds
+[INFO ] 2023-06-08 12:31:45.442 [main] GROStepDefinition - Total Time in  Seconds = 3 seconds
+[INFO ] 2023-06-08 12:31:45.442 [main] GROStepDefinition - Milli Sec Time : 3331
+[INFO ] 2023-06-08 12:31:45.477 [main] NurseModuleStepDefinition - Nurse Module
+[INFO ] 2023-06-08 12:31:45.553 [main] CredentialsController - Username: CH_Nurse
+[INFO ] 2023-06-08 12:31:45.636 [main] CredentialsController - Password: Glosys@123
+[INFO ] 2023-06-08 12:31:45.687 [main] NurseModuleStepDefinition - Country: India
+[INFO ] 2023-06-08 12:31:45.687 [main] NurseModuleStepDefinition - State: Chennai
+[INFO ] 2023-06-08 12:31:45.687 [main] NurseModuleStepDefinition - Token : 06
+[INFO ] 2023-06-08 12:31:51.835 [main] CommonDefinition - Choose The Counter is: Counter - 04
+[INFO ] 2023-06-08 12:31:52.900 [main] CommonDefinition - Signed into the counter successfully
+[INFO ] 2023-06-08 12:31:56.644 [main] NurseTokenVerify - Nurse Token : 2 -- Gro Token  :6
+[INFO ] 2023-06-08 12:32:05.421 [main] NurseTokenVerify - Nurse Module  Loop Token : NND006
+[INFO ] 2023-06-08 12:32:05.422 [main] NurseTokenVerify - Nurse Token : 6-- Gro Token  :6
+[INFO ] 2023-06-08 12:32:05.422 [main] NurseTokenVerify - Nurse Token : 6-- Gro Token  :6
+[INFO ] 2023-06-08 12:32:06.494 [main] NurseModuleStepDefinition - Successfully Verified The Token
+[INFO ] 2023-06-08 12:32:07.781 [main] NurseModuleStepDefinition - Record Vitals:
+[ERROR] 2023-06-08 12:32:07.781 [main] NurseModuleStepDefinition - Temperature : 
+[ERROR] 2023-06-08 12:32:11.425 [main] NurseModuleStepDefinition - Temperature Value : 98.
+[INFO ] 2023-06-08 12:32:13.659 [main] NurseModuleStepDefinition - Height: 160
+[INFO ] 2023-06-08 12:32:13.776 [main] NurseModuleStepDefinition - Weight: 60
+[INFO ] 2023-06-08 12:32:13.776 [main] NurseModuleStepDefinition - Successfully enter the Body Mass Index
+[INFO ] 2023-06-08 12:32:14.780 [main] NurseModuleStepDefinition - Vision (R): 6/6
+[INFO ] 2023-06-08 12:32:16.010 [main] NurseModuleStepDefinition - Vision (L): 6/6
+[INFO ] 2023-06-08 12:32:16.011 [main] NurseModuleStepDefinition - Successfully enter the Vision Module
+[INFO ] 2023-06-08 12:32:16.633 [main] NurseModuleStepDefinition - Nurse Assign The Systolic Pressure Value: 120
+[INFO ] 2023-06-08 12:32:17.244 [main] NurseModuleStepDefinition - Nurse Assign The Diastolic Pressure Value: 80
+[INFO ] 2023-06-08 12:32:18.320 [main] NurseModuleStepDefinition - Successfully enter the Other Module
+[INFO ] 2023-06-08 12:32:18.321 [main] NurseModuleStepDefinition - New applicant vitals details created successfully
+[INFO ] 2023-06-08 12:32:18.321 [main] NurseModuleStepDefinition - Speciman Genaration :
+[INFO ] 2023-06-08 12:32:21.353 [main] NurseModuleStepDefinition - Order ID : 8076
+[INFO ] 2023-06-08 12:32:21.353 [main] NurseModuleStepDefinition - Whole Blood (EDTA) Specimen Number: Yet to be Generated
+[INFO ] 2023-06-08 12:32:21.353 [main] NurseModuleStepDefinition - Serum (PLT) Specimen Number: Yet to be Generated
+[INFO ] 2023-06-08 12:32:21.354 [main] NurseModuleStepDefinition - Plasma(FLU) Specimen Number: Yet to be Generated
+[INFO ] 2023-06-08 12:32:21.354 [main] NurseModuleStepDefinition - Serum (SST) Specimen Number: Yet to be Generated
+[INFO ] 2023-06-08 12:32:27.423 [main] NurseModuleStepDefinition - Speciman Genarated Successfully
+[INFO ] 2023-06-08 12:32:27.423 [main] NurseModuleStepDefinition - Speciman Collection :
+[INFO ] 2023-06-08 12:32:28.954 [main] NurseModuleStepDefinition - Whole Blood (EDTA) Specimen Number : ED92300004024 - Generated
+[INFO ] 2023-06-08 12:32:28.954 [main] NurseModuleStepDefinition - Serum (PLT) Specimen Number : PL92300004025 - Generated
+[INFO ] 2023-06-08 12:32:28.954 [main] NurseModuleStepDefinition - Plasma(FLU) Specimen Number : FL92300004026 - Generated
+[INFO ] 2023-06-08 12:32:28.955 [main] NurseModuleStepDefinition - Serum (SST) Specimen Number : ST92300004027 - Generated
+[INFO ] 2023-06-08 12:32:30.419 [main] NurseModuleStepDefinition - Speciman Collected Successfully
+[INFO ] 2023-06-08 12:32:32.510 [main] NurseModuleStepDefinition - Nurse Module Feedback collected successfully
+[INFO ] 2023-06-08 12:32:45.852 [main] ApplicationStatusCheck - MOI
+[INFO ] 2023-06-08 12:32:49.030 [main] ApplicationStatusCheck - Role Section: MOI
+[INFO ] 2023-06-08 12:32:50.189 [main] CommonDefinition - Country : India
+[INFO ] 2023-06-08 12:32:57.624 [main] ApplicationStatusCheck - Visa Number : 900000000098
+[INFO ] 2023-06-08 12:32:57.624 [main] ApplicationStatusCheck - Current Status :
+[INFO ] 2023-06-08 12:32:57.624 [main] ApplicationStatusCheck -      Type :                             Status
+[INFO ] 2023-06-08 12:32:59.689 [main] ApplicationStatusCheck -   Registration Date ------  08/06/2023 12:26:12
+[INFO ] 2023-06-08 12:32:59.729 [main] ApplicationStatusCheck -   MOI Portal Status ------  REVISIT
+[INFO ] 2023-06-08 12:32:59.769 [main] ApplicationStatusCheck -   Glosys Primary Status ------  Applicant required to revisit center
+[INFO ] 2023-06-08 12:32:59.811 [main] ApplicationStatusCheck -   Glosys Secondary Status ------  Consultation Process Not completed,Lab Report Pending
+[INFO ] 2023-06-08 12:32:59.850 [main] ApplicationStatusCheck -   Glosys Tertiary Status ------  GP Room not visited,Lab Report Pending
+[INFO ] 2023-06-08 12:32:59.891 [main] ApplicationStatusCheck -   Applicant is required to revisit center? ------  YES
+[INFO ] 2023-06-08 12:33:03.252 [main] GpModuleStepDefinition - Start Time  = 1686207783252
+[INFO ] 2023-06-08 12:33:14.336 [main] LabJuniorStepDefinition - Start Time  = 1686207794336
+[INFO ] 2023-06-08 12:33:24.444 [main] LabSeniorStepDefinition - Start Time  = 1686207804444
+[INFO ] 2023-06-08 12:33:34.514 [main] LabSupervisorStepDefinition - Start Time  = 1686207814514
+[INFO ] 2023-06-08 12:45:55.705 [main] GROStepDefinition - Accept
+[INFO ] 2023-06-08 12:45:55.708 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-06-08 12:45:59.670 [main] GROStepDefinition - Start Time  = 1686208559670
+[INFO ] 2023-06-08 12:45:59.773 [main] CredentialsController - Username: CH_Gro
+[INFO ] 2023-06-08 12:45:59.855 [main] CredentialsController - Password: Glosys@123
+[INFO ] 2023-06-08 12:46:00.622 [main] GROStepDefinition - End  Runing Time : 1686208560622
+[INFO ] 2023-06-08 12:46:00.622 [main] GROStepDefinition - Milli Sec Time : 952
+[INFO ] 2023-06-08 12:46:00.623 [main] GROStepDefinition - Secs Sec Time : 15
+[INFO ] 2023-06-08 12:46:00.623 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 12:46:00.623 [main] GROStepDefinition - Country: India
+[INFO ] 2023-06-08 12:46:00.623 [main] GROStepDefinition - State: Chennai
+[INFO ] 2023-06-08 12:46:04.745 [main] CommonDefinition - Choose The Counter is: Counter - 01
+[INFO ] 2023-06-08 12:46:05.845 [main] CommonDefinition - Signed into the counter successfully
+[INFO ] 2023-06-08 12:46:06.868 [main] GROStepDefinition - Start Time  = 1686208566868
+[INFO ] 2023-06-08 12:46:07.695 [main] GROStepDefinition - Visa Number: 900000000098
+[INFO ] 2023-06-08 12:46:18.826 [main] NurseModuleStepDefinition - Nurse Module
+[INFO ] 2023-06-08 12:46:28.901 [main] GpModuleStepDefinition - Start Time  = 1686208588901
+[INFO ] 2023-06-08 12:46:39.968 [main] LabJuniorStepDefinition - Start Time  = 1686208599968
+[INFO ] 2023-06-08 12:46:50.017 [main] LabSeniorStepDefinition - Start Time  = 1686208610017
+[INFO ] 2023-06-08 12:47:00.059 [main] LabSupervisorStepDefinition - Start Time  = 1686208620059
+[INFO ] 2023-06-08 12:47:34.949 [main] GROStepDefinition - Accept
+[INFO ] 2023-06-08 12:47:34.952 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-06-08 12:47:40.628 [main] GROStepDefinition - Start Time  = 1686208660628
+[INFO ] 2023-06-08 12:47:40.739 [main] CredentialsController - Username: CH_Gro
+[INFO ] 2023-06-08 12:47:40.836 [main] CredentialsController - Password: Glosys@123
+[INFO ] 2023-06-08 12:47:41.615 [main] GROStepDefinition - End  Runing Time : 1686208661615
+[INFO ] 2023-06-08 12:47:41.615 [main] GROStepDefinition - Milli Sec Time : 987
+[INFO ] 2023-06-08 12:47:41.615 [main] GROStepDefinition - Secs Sec Time : 16
+[INFO ] 2023-06-08 12:47:41.615 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 12:47:41.616 [main] GROStepDefinition - Country: India
+[INFO ] 2023-06-08 12:47:41.616 [main] GROStepDefinition - State: Chennai
+[INFO ] 2023-06-08 12:47:45.930 [main] CommonDefinition - Choose The Counter is: Counter - 02
+[INFO ] 2023-06-08 12:47:46.993 [main] CommonDefinition - Signed into the counter successfully
+[INFO ] 2023-06-08 12:47:47.999 [main] GROStepDefinition - Start Time  = 1686208667999
+[INFO ] 2023-06-08 12:47:48.713 [main] GROStepDefinition - Visa Number: 900000000099
+[INFO ] 2023-06-08 12:47:49.812 [main] GROStepDefinition - End  Runing Time : 1686208669812
+[INFO ] 2023-06-08 12:47:49.812 [main] GROStepDefinition - Milli Sec Time : 1813
+[INFO ] 2023-06-08 12:47:49.812 [main] GROStepDefinition - Secs Sec Time : 30
+[INFO ] 2023-06-08 12:47:49.813 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 12:47:49.813 [main] GROStepDefinition - Biometric skip request sent successfully
+[INFO ] 2023-06-08 12:47:53.357 [main] GROStepDefinition - Patient Profile Page
+[INFO ] 2023-06-08 12:47:53.357 [main] GROStepDefinition - Personal Details: 
+[INFO ] 2023-06-08 12:47:53.357 [main] GROStepDefinition - Visa Gender Type: Female
+[INFO ] 2023-06-08 12:47:55.688 [main] GROStepDefinition - Applicant Believes Pregnant?: Yes
+[INFO ] 2023-06-08 12:47:55.688 [main] GROStepDefinition - Successfully enter the Personal information details
+[INFO ] 2023-06-08 12:47:55.688 [main] GROStepDefinition - Communcation Details: 
+[INFO ] 2023-06-08 12:47:55.713 [main] GROStepDefinition - Country: India
+[INFO ] 2023-06-08 12:47:56.441 [main] GROStepDefinition - Preferred Language to Speak: Hindi
+[INFO ] 2023-06-08 12:47:57.037 [main] GROStepDefinition - Preferred Language to Read: Hindi
+[INFO ] 2023-06-08 12:47:58.985 [main] GROStepDefinition - Preferred Location for Referral: Chennai
+[INFO ] 2023-06-08 12:48:00.091 [main] GROStepDefinition - Preferred Hospital: Vijaya Hospital
+[INFO ] 2023-06-08 12:48:00.091 [main] GROStepDefinition - Successfully enter The Communication Details
+[INFO ] 2023-06-08 12:48:00.092 [main] GROStepDefinition - Encounter Details: 
+[INFO ] 2023-06-08 12:48:01.349 [main] GROStepDefinition - SMS Alert Number: 9790000000
+[INFO ] 2023-06-08 12:48:01.375 [main] GROStepDefinition - Job Position : Pharmacist
+[INFO ] 2023-06-08 12:48:01.399 [main] GROStepDefinition - Is Job applicable of Driving: false
+[INFO ] 2023-06-08 12:48:01.399 [main] GROStepDefinition - Successfully enter The Encounter details
+[INFO ] 2023-06-08 12:48:15.563 [main] GROStepDefinition - End  Runing Time : 1686208695563
+[INFO ] 2023-06-08 12:48:15.563 [main] GROStepDefinition - Milli Sec Time : 27564
+[INFO ] 2023-06-08 12:48:15.563 [main] GROStepDefinition - Secs Sec Time : 459
+[INFO ] 2023-06-08 12:48:15.563 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 12:48:15.563 [main] GROStepDefinition - Applicant Consent And Declaration From
+[INFO ] 2023-06-08 12:48:15.564 [main] GROStepDefinition - Applicant Details Created Successflly
+[INFO ] 2023-06-08 12:48:15.564 [main] GROStepDefinition - Place Order Page
+[INFO ] 2023-06-08 12:48:16.393 [main] GROStepDefinition - Token Genarated :    Token no (NND007) generated successfully
+×
+[INFO ] 2023-06-08 12:48:16.393 [main] GROStepDefinition - Visa Gender Type: Female - Pregnant - YesXray Page Not Allowed
+[INFO ] 2023-06-08 12:48:16.393 [main] GROStepDefinition - Token : NND007
+[INFO ] 2023-06-08 12:48:16.393 [main] GROStepDefinition - Generate Service Recipt
+[INFO ] 2023-06-08 12:48:16.393 [main] GROStepDefinition - Capture Identify Page:
+[INFO ] 2023-06-08 12:48:16.393 [main] GROStepDefinition - Vaccination Document Status Condition is: No
+[INFO ] 2023-06-08 12:48:16.393 [main] GROStepDefinition - Referral Document Status Condition is: No
+[INFO ] 2023-06-08 12:48:16.393 [main] GROStepDefinition - Start Time  = 1686208667999
+[INFO ] 2023-06-08 12:48:17.895 [main] GROStepDefinition - Start Time  = 1686208697895
+[INFO ] 2023-06-08 12:48:20.244 [main] GROStepDefinition - End  Runing Time : 1686208700244
+[INFO ] 2023-06-08 12:48:20.244 [main] GROStepDefinition - Milli Sec Time : 2349
+[INFO ] 2023-06-08 12:48:20.244 [main] GROStepDefinition - Secs Sec Time : 39
+[INFO ] 2023-06-08 12:48:20.244 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 12:48:20.244 [main] GROStepDefinition - Applicant identity details updated successfully
+[INFO ] 2023-06-08 12:48:20.244 [main] GROStepDefinition - Start Time  = 1686208697895
+[INFO ] 2023-06-08 12:48:20.751 [main] GROStepDefinition - Start Time  = 1686208700751
+[INFO ] 2023-06-08 12:48:21.287 [main] GROStepDefinition - GRO Module Feedback Collected
+[INFO ] 2023-06-08 12:48:24.295 [main] GROStepDefinition - End  Runing Time : 1686208704295
+[INFO ] 2023-06-08 12:48:24.296 [main] GROStepDefinition - Milli Sec Time : 3544
+[INFO ] 2023-06-08 12:48:24.296 [main] GROStepDefinition - Secs Sec Time : 59
+[INFO ] 2023-06-08 12:48:24.297 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 12:48:24.297 [main] GROStepDefinition - Start Time  = 1686208700751
+[INFO ] 2023-06-08 12:48:27.299 [main] GROStepDefinition - Start Time  = 1686208707299
+[INFO ] 2023-06-08 12:48:29.572 [main] GROStepDefinition - End  Runing Time : 1686208709572
+[INFO ] 2023-06-08 12:48:29.573 [main] GROStepDefinition - Milli Sec Time : 2273
+[INFO ] 2023-06-08 12:48:29.573 [main] GROStepDefinition - Secs Sec Time : 37
+[INFO ] 2023-06-08 12:48:29.573 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 12:48:29.573 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-06-08 12:48:30.650 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 12:48:30.651 [main] GROStepDefinition - Total Time Mints = Mints : 0.0  3.0 seconds
+[INFO ] 2023-06-08 12:48:30.651 [main] GROStepDefinition - Total Time in  Seconds = 3 seconds
+[INFO ] 2023-06-08 12:48:30.651 [main] GROStepDefinition - Milli Sec Time : 3351
+[INFO ] 2023-06-08 12:48:30.668 [main] NurseModuleStepDefinition - Nurse Module
+[INFO ] 2023-06-08 12:48:30.757 [main] CredentialsController - Username: CH_Nurse
+[INFO ] 2023-06-08 12:48:30.839 [main] CredentialsController - Password: Glosys@123
+[INFO ] 2023-06-08 12:48:30.892 [main] NurseModuleStepDefinition - Country: India
+[INFO ] 2023-06-08 12:48:30.892 [main] NurseModuleStepDefinition - State: Chennai
+[INFO ] 2023-06-08 12:48:30.892 [main] NurseModuleStepDefinition - Token : 07
+[INFO ] 2023-06-08 12:48:37.028 [main] CommonDefinition - Choose The Counter is: Counter - 03
+[INFO ] 2023-06-08 12:48:38.115 [main] CommonDefinition - Signed into the counter successfully
+[INFO ] 2023-06-08 12:48:41.851 [main] GpModuleStepDefinition - Start Time  = 1686208721851
+[INFO ] 2023-06-08 12:48:52.901 [main] LabJuniorStepDefinition - Start Time  = 1686208732901
+[INFO ] 2023-06-08 12:49:02.938 [main] LabSeniorStepDefinition - Start Time  = 1686208742938
+[INFO ] 2023-06-08 12:49:12.956 [main] LabSupervisorStepDefinition - Start Time  = 1686208752956
+[INFO ] 2023-06-08 16:19:21.191 [main] GROStepDefinition - Accept
+[INFO ] 2023-06-08 16:19:21.198 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-06-08 16:19:26.737 [main] GROStepDefinition - Start Time  = 1686221366737
+[INFO ] 2023-06-08 16:19:27.030 [main] CredentialsController - Username: CH_Gro
+[INFO ] 2023-06-08 16:19:27.105 [main] CredentialsController - Password: Glosys@123
+[INFO ] 2023-06-08 16:19:27.923 [main] GROStepDefinition - End  Runing Time : 1686221367923
+[INFO ] 2023-06-08 16:19:27.923 [main] GROStepDefinition - Milli Sec Time : 1186
+[INFO ] 2023-06-08 16:19:27.923 [main] GROStepDefinition - Secs Sec Time : 19
+[INFO ] 2023-06-08 16:19:27.924 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 16:19:27.924 [main] GROStepDefinition - Country: India
+[INFO ] 2023-06-08 16:19:27.924 [main] GROStepDefinition - State: Chennai
+[INFO ] 2023-06-08 16:19:32.097 [main] CommonDefinition - Choose The Counter is: Counter - 02
+[INFO ] 2023-06-08 16:19:33.172 [main] CommonDefinition - Signed into the counter successfully
+[INFO ] 2023-06-08 16:19:34.186 [main] GROStepDefinition - Start Time  = 1686221374186
+[INFO ] 2023-06-08 16:19:34.948 [main] GROStepDefinition - Visa Number: 900000000100
+[INFO ] 2023-06-08 16:19:36.062 [main] GROStepDefinition - End  Runing Time : 1686221376062
+[INFO ] 2023-06-08 16:19:36.062 [main] GROStepDefinition - Milli Sec Time : 1876
+[INFO ] 2023-06-08 16:19:36.063 [main] GROStepDefinition - Secs Sec Time : 31
+[INFO ] 2023-06-08 16:19:36.063 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 16:19:36.063 [main] GROStepDefinition - Biometric skip request sent successfully
+[INFO ] 2023-06-08 16:19:39.618 [main] GROStepDefinition - Patient Profile Page
+[INFO ] 2023-06-08 16:19:39.618 [main] GROStepDefinition - Personal Details: 
+[INFO ] 2023-06-08 16:19:39.618 [main] GROStepDefinition - Visa Gender Type: Female
+[INFO ] 2023-06-08 16:19:41.988 [main] GROStepDefinition - Applicant Believes Pregnant?: Yes
+[INFO ] 2023-06-08 16:19:41.988 [main] GROStepDefinition - Successfully enter the Personal information details
+[INFO ] 2023-06-08 16:19:41.989 [main] GROStepDefinition - Communcation Details: 
+[INFO ] 2023-06-08 16:19:42.021 [main] GROStepDefinition - Country: India
+[INFO ] 2023-06-08 16:19:42.812 [main] GROStepDefinition - Preferred Language to Speak: Hindi
+[INFO ] 2023-06-08 16:19:43.425 [main] GROStepDefinition - Preferred Language to Read: Hindi
+[INFO ] 2023-06-08 16:19:45.389 [main] GROStepDefinition - Preferred Location for Referral: Chennai
+[INFO ] 2023-06-08 16:19:46.542 [main] GROStepDefinition - Preferred Hospital: Vijaya Hospital
+[INFO ] 2023-06-08 16:19:46.543 [main] GROStepDefinition - Successfully enter The Communication Details
+[INFO ] 2023-06-08 16:19:46.543 [main] GROStepDefinition - Encounter Details: 
+[INFO ] 2023-06-08 16:19:47.788 [main] GROStepDefinition - SMS Alert Number: 9790000000
+[INFO ] 2023-06-08 16:19:47.826 [main] GROStepDefinition - Job Position : Pharmacist
+[INFO ] 2023-06-08 16:19:47.860 [main] GROStepDefinition - Is Job applicable of Driving: false
+[INFO ] 2023-06-08 16:19:47.860 [main] GROStepDefinition - Successfully enter The Encounter details
+[INFO ] 2023-06-08 16:20:02.106 [main] GROStepDefinition - End  Runing Time : 1686221402106
+[INFO ] 2023-06-08 16:20:02.106 [main] GROStepDefinition - Milli Sec Time : 27920
+[INFO ] 2023-06-08 16:20:02.106 [main] GROStepDefinition - Secs Sec Time : 465
+[INFO ] 2023-06-08 16:20:02.106 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 16:20:02.106 [main] GROStepDefinition - Applicant Consent And Declaration From
+[INFO ] 2023-06-08 16:20:02.106 [main] GROStepDefinition - Applicant Details Created Successflly
+[INFO ] 2023-06-08 16:20:02.107 [main] GROStepDefinition - Place Order Page
+[INFO ] 2023-06-08 16:20:02.964 [main] GROStepDefinition - Token Genarated :    Token no (NND013) generated successfully
+×
+[INFO ] 2023-06-08 16:20:02.964 [main] GROStepDefinition - Visa Gender Type: Female - Pregnant - YesXray Page Not Allowed
+[INFO ] 2023-06-08 16:20:02.964 [main] GROStepDefinition - Token : NND013
+[INFO ] 2023-06-08 16:20:02.965 [main] GROStepDefinition - Generate Service Recipt
+[INFO ] 2023-06-08 16:20:02.965 [main] GROStepDefinition - Capture Identify Page:
+[INFO ] 2023-06-08 16:20:02.966 [main] GROStepDefinition - Vaccination Document Status Condition is: No
+[INFO ] 2023-06-08 16:20:02.966 [main] GROStepDefinition - Referral Document Status Condition is: No
+[INFO ] 2023-06-08 16:20:02.966 [main] GROStepDefinition - Start Time  = 1686221374186
+[INFO ] 2023-06-08 16:20:04.468 [main] GROStepDefinition - Start Time  = 1686221404468
+[INFO ] 2023-06-08 16:20:06.835 [main] GROStepDefinition - End  Runing Time : 1686221406835
+[INFO ] 2023-06-08 16:20:06.835 [main] GROStepDefinition - Milli Sec Time : 2367
+[INFO ] 2023-06-08 16:20:06.835 [main] GROStepDefinition - Secs Sec Time : 39
+[INFO ] 2023-06-08 16:20:06.835 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 16:20:06.835 [main] GROStepDefinition - Applicant identity details updated successfully
+[INFO ] 2023-06-08 16:20:06.835 [main] GROStepDefinition - Start Time  = 1686221404468
+[INFO ] 2023-06-08 16:20:07.342 [main] GROStepDefinition - Start Time  = 1686221407342
+[INFO ] 2023-06-08 16:20:07.714 [main] GROStepDefinition - GRO Module Feedback Collected
+[INFO ] 2023-06-08 16:20:10.728 [main] GROStepDefinition - End  Runing Time : 1686221410728
+[INFO ] 2023-06-08 16:20:10.728 [main] GROStepDefinition - Milli Sec Time : 3386
+[INFO ] 2023-06-08 16:20:10.729 [main] GROStepDefinition - Secs Sec Time : 56
+[INFO ] 2023-06-08 16:20:10.730 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 16:20:10.730 [main] GROStepDefinition - Start Time  = 1686221407342
+[INFO ] 2023-06-08 16:20:13.736 [main] GROStepDefinition - Start Time  = 1686221413736
+[INFO ] 2023-06-08 16:20:15.980 [main] GROStepDefinition - End  Runing Time : 1686221415980
+[INFO ] 2023-06-08 16:20:15.980 [main] GROStepDefinition - Milli Sec Time : 2244
+[INFO ] 2023-06-08 16:20:15.980 [main] GROStepDefinition - Secs Sec Time : 37
+[INFO ] 2023-06-08 16:20:15.980 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 16:20:15.980 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-06-08 16:20:17.059 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 16:20:17.059 [main] GROStepDefinition - Total Time Mints = Mints : 0.0  3.0 seconds
+[INFO ] 2023-06-08 16:20:17.059 [main] GROStepDefinition - Total Time in  Seconds = 3 seconds
+[INFO ] 2023-06-08 16:20:17.060 [main] GROStepDefinition - Milli Sec Time : 3323
+[INFO ] 2023-06-08 16:20:17.080 [main] NurseModuleStepDefinition - Nurse Module
+[INFO ] 2023-06-08 16:20:17.168 [main] CredentialsController - Username: CH_Nurse
+[INFO ] 2023-06-08 16:20:17.251 [main] CredentialsController - Password: Glosys@123
+[INFO ] 2023-06-08 16:20:17.300 [main] NurseModuleStepDefinition - Country: India
+[INFO ] 2023-06-08 16:20:17.300 [main] NurseModuleStepDefinition - State: Chennai
+[INFO ] 2023-06-08 16:20:17.300 [main] NurseModuleStepDefinition - Token : 13
+[INFO ] 2023-06-08 16:20:23.436 [main] CommonDefinition - Choose The Counter is: Counter - 04
+[INFO ] 2023-06-08 16:20:24.531 [main] CommonDefinition - Signed into the counter successfully
+[INFO ] 2023-06-08 16:20:28.246 [main] NurseTokenVerify - Nurse Token : 2 -- Gro Token  :13
+[INFO ] 2023-06-08 16:20:36.949 [main] NurseTokenVerify - Nurse Module  Loop Token : NNXD008
+[INFO ] 2023-06-08 16:20:36.949 [main] NurseTokenVerify - Nurse Token : 8-- Gro Token  :13
+[INFO ] 2023-06-08 16:20:45.649 [main] NurseTokenVerify - Nurse Module  Loop Token : NND012
+[INFO ] 2023-06-08 16:20:45.649 [main] NurseTokenVerify - Nurse Token : 12-- Gro Token  :13
+[INFO ] 2023-06-08 16:20:54.511 [main] NurseTokenVerify - Nurse Module  Loop Token : NNXD011
+[INFO ] 2023-06-08 16:20:54.512 [main] NurseTokenVerify - Nurse Token : 11-- Gro Token  :13
+[INFO ] 2023-06-08 16:21:03.190 [main] NurseTokenVerify - Nurse Module  Loop Token : NND013
+[INFO ] 2023-06-08 16:21:03.190 [main] NurseTokenVerify - Nurse Token : 13-- Gro Token  :13
+[INFO ] 2023-06-08 16:21:03.190 [main] NurseTokenVerify - Nurse Token : 13-- Gro Token  :13
+[INFO ] 2023-06-08 16:21:04.282 [main] NurseModuleStepDefinition - Successfully Verified The Token
+[INFO ] 2023-06-08 16:21:05.586 [main] NurseModuleStepDefinition - Record Vitals:
+[ERROR] 2023-06-08 16:21:05.586 [main] NurseModuleStepDefinition - Temperature : 
+[ERROR] 2023-06-08 16:21:09.219 [main] NurseModuleStepDefinition - Temperature Value : 98.
+[INFO ] 2023-06-08 16:21:11.453 [main] NurseModuleStepDefinition - Height: 160
+[INFO ] 2023-06-08 16:21:11.558 [main] NurseModuleStepDefinition - Weight: 60
+[INFO ] 2023-06-08 16:21:11.558 [main] NurseModuleStepDefinition - Successfully enter the Body Mass Index
+[INFO ] 2023-06-08 16:21:12.496 [main] NurseModuleStepDefinition - Vision (R): 6/6
+[INFO ] 2023-06-08 16:21:13.760 [main] NurseModuleStepDefinition - Vision (L): 6/6
+[INFO ] 2023-06-08 16:21:13.760 [main] NurseModuleStepDefinition - Successfully enter the Vision Module
+[INFO ] 2023-06-08 16:21:14.407 [main] NurseModuleStepDefinition - Nurse Assign The Systolic Pressure Value: 120
+[INFO ] 2023-06-08 16:21:15.021 [main] NurseModuleStepDefinition - Nurse Assign The Diastolic Pressure Value: 80
+[INFO ] 2023-06-08 16:21:16.132 [main] NurseModuleStepDefinition - Successfully enter the Other Module
+[INFO ] 2023-06-08 16:21:16.132 [main] NurseModuleStepDefinition - New applicant vitals details created successfully
+[INFO ] 2023-06-08 16:21:16.133 [main] NurseModuleStepDefinition - Speciman Genaration :
+[INFO ] 2023-06-08 16:21:19.175 [main] NurseModuleStepDefinition - Order ID : 8088
+[INFO ] 2023-06-08 16:21:19.175 [main] NurseModuleStepDefinition - Whole Blood (EDTA) Specimen Number: Yet to be Generated
+[INFO ] 2023-06-08 16:21:19.175 [main] NurseModuleStepDefinition - Serum (PLT) Specimen Number: Yet to be Generated
+[INFO ] 2023-06-08 16:21:19.175 [main] NurseModuleStepDefinition - Plasma(FLU) Specimen Number: Yet to be Generated
+[INFO ] 2023-06-08 16:21:19.175 [main] NurseModuleStepDefinition - Serum (SST) Specimen Number: Yet to be Generated
+[INFO ] 2023-06-08 16:21:25.243 [main] NurseModuleStepDefinition - Speciman Genarated Successfully
+[INFO ] 2023-06-08 16:21:25.243 [main] NurseModuleStepDefinition - Speciman Collection :
+[INFO ] 2023-06-08 16:21:26.951 [main] NurseModuleStepDefinition - Whole Blood (EDTA) Specimen Number : ED92300004040 - Generated
+[INFO ] 2023-06-08 16:21:26.952 [main] NurseModuleStepDefinition - Serum (PLT) Specimen Number : PL92300004041 - Generated
+[INFO ] 2023-06-08 16:21:26.952 [main] NurseModuleStepDefinition - Plasma(FLU) Specimen Number : FL92300004042 - Generated
+[INFO ] 2023-06-08 16:21:26.952 [main] NurseModuleStepDefinition - Serum (SST) Specimen Number : ST92300004043 - Generated
+[INFO ] 2023-06-08 16:21:28.378 [main] NurseModuleStepDefinition - Speciman Collected Successfully
+[INFO ] 2023-06-08 16:21:30.467 [main] NurseModuleStepDefinition - Nurse Module Feedback collected successfully
+[INFO ] 2023-06-08 16:21:36.471 [main] NurseModuleStepDefinition - Sample Outgoing
+[INFO ] 2023-06-08 16:21:38.670 [main] NurseModuleStepDefinition - Scan Specimen Number
+[INFO ] 2023-06-08 16:21:42.473 [main] NurseModuleStepDefinition - Successfully scan the Whole Blood (EDTA) Specimen Number: ED92300004040
+[INFO ] 2023-06-08 16:21:43.249 [main] NurseModuleStepDefinition - Successfully scan the Serum (PLT) Specimen Number: PL92300004041
+[INFO ] 2023-06-08 16:21:44.027 [main] NurseModuleStepDefinition - Suceessfully scan the Plasma(FLU) Specimen Numberr: FL92300004042
+[INFO ] 2023-06-08 16:21:44.792 [main] NurseModuleStepDefinition - Suceessfully scan the Serum (SST) Specimen Number: ST92300004043
+[INFO ] 2023-06-08 16:21:44.793 [main] NurseModuleStepDefinition - Lab Technician and GRO Information
+[INFO ] 2023-06-08 16:21:47.043 [main] NurseModuleStepDefinition - Lab Tech Name: Lab Technician Glossys
+[INFO ] 2023-06-08 16:21:48.281 [main] NurseModuleStepDefinition - GRO Name: GRO Glossys
+[INFO ] 2023-06-08 16:21:50.387 [main] NurseModuleStepDefinition -  Sample's Sent to LAB successfully
+[INFO ] 2023-06-08 16:21:54.114 [main] GROStepDefinition - Start Time  = 1686221514114
+[INFO ] 2023-06-08 16:21:56.454 [main] GROStepDefinition - End  Runing Time : 1686221516454
+[INFO ] 2023-06-08 16:21:56.454 [main] GROStepDefinition - Milli Sec Time : 2340
+[INFO ] 2023-06-08 16:21:56.454 [main] GROStepDefinition - Secs Sec Time : 39
+[INFO ] 2023-06-08 16:21:56.454 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 16:21:56.454 [main] CommonDefinition - Logout Successfully
+[INFO ] 2023-06-08 16:22:07.531 [main] LabJuniorStepDefinition - Start Time  = 1686221527531
+[INFO ] 2023-06-08 16:22:17.602 [main] LabSeniorStepDefinition - Start Time  = 1686221537602
+[INFO ] 2023-06-08 16:22:27.630 [main] LabSupervisorStepDefinition - Start Time  = 1686221547630
+[INFO ] 2023-06-08 17:44:44.520 [main] GROStepDefinition - Accept
+[INFO ] 2023-06-08 17:44:44.523 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-06-08 17:44:48.900 [main] GROStepDefinition - Start Time  = 1686226488900
+[INFO ] 2023-06-08 17:44:49.012 [main] CredentialsController - Username: CH_Gro
+[INFO ] 2023-06-08 17:44:49.108 [main] CredentialsController - Password: Glosys@123
+[INFO ] 2023-06-08 17:44:49.934 [main] GROStepDefinition - End  Runing Time : 1686226489934
+[INFO ] 2023-06-08 17:44:49.934 [main] GROStepDefinition - Milli Sec Time : 1034
+[INFO ] 2023-06-08 17:44:49.934 [main] GROStepDefinition - Secs Sec Time : 17
+[INFO ] 2023-06-08 17:44:49.934 [main] GROStepDefinition - GRO Runing Time : 
+[INFO ] 2023-06-08 17:44:49.935 [main] GROStepDefinition - Country: India
+[INFO ] 2023-06-08 17:44:49.935 [main] GROStepDefinition - State: Chennai
+[INFO ] 2023-06-08 17:44:54.164 [main] CommonDefinition - Choose The Counter is: Counter - 01
+[INFO ] 2023-06-08 17:44:55.234 [main] CommonDefinition - Signed into the counter successfully
+[INFO ] 2023-06-08 17:44:56.246 [main] GROStepDefinition - Start Time  = 1686226496246
+[INFO ] 2023-06-08 17:44:56.968 [main] GROStepDefinition - Visa Number: 900000000101
+[INFO ] 2023-06-08 17:45:08.141 [main] NurseModuleStepDefinition - Nurse Module
+[INFO ] 2023-06-08 17:45:18.173 [main] LabJuniorStepDefinition - Start Time  = 1686226518173
+[INFO ] 2023-06-08 17:45:28.211 [main] LabSeniorStepDefinition - Start Time  = 1686226528211
+[INFO ] 2023-06-08 17:45:38.249 [main] LabSupervisorStepDefinition - Start Time  = 1686226538249

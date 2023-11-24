@@ -1,0 +1,58 @@
+# Normal"Negative" else "Positive"
+HIV = Negative
+# Normal"Negative" else "Positive"
+AntiHCV = Negative
+# Normal"Negative" else "Positive"
+HBsAg = Negative
+# Normal"NonReactive" else "Reactive"
+RPR = NonReactive
+
+#Additional Test
+
+# Normal "11" else "19"
+Haemoglobin = 11
+# Normal "22" else "45"
+SGOT = 22
+# Normal "44" else "144"
+SGPT = 44
+# Normal "1" else "2"
+Creatinine = 1
+# Normal "80" else "180"
+Glucose = 80
+
+BEtaHCG = Negative
+
+
+
+
+--------------------------------
+Vision Recheck  Accept  Save -> Count 1
+
+
+Ophtho Reject   Save   
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

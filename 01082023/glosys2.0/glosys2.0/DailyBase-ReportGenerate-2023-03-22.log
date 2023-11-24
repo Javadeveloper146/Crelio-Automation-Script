@@ -1,0 +1,33 @@
+[INFO ] 2023-03-22 12:00:38.972 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-03-22 12:00:40.904 [main] GROStepDefinition - Start Time  = 1679466640904
+[INFO ] 2023-03-22 12:00:40.905 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-03-22 12:00:40.988 [main] GROStepDefinition - Username: mangai
+[INFO ] 2023-03-22 12:00:41.066 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-03-22 12:00:44.370 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-03-22 12:00:46.015 [main] CommonDefinition - Country : India
+[INFO ] 2023-03-22 12:00:48.568 [main] GROStepDefinition - Choose The Counter is: Counter - 01
+[INFO ] 2023-03-22 12:00:51.366 [main] GROStepDefinition - Signed into the counter successfully
+[INFO ] 2023-03-22 12:00:53.556 [main] GROStepDefinition - Visa Number: 998090982089
+[INFO ] 2023-03-22 12:01:35.807 [main] GpModuleStepDefinition - Start Time  = 1679466695807
+[INFO ] 2023-03-22 12:01:56.862 [main] LabJuniorStepDefinition - Start Time  = 1679466716862
+[INFO ] 2023-03-22 12:02:17.935 [main] LabSeniorStepDefinition - Start Time  = 1679466737935
+[INFO ] 2023-03-22 12:02:38.990 [main] LabSupervisorStepDefinition - Start Time  = 1679466758990
+[INFO ] 2023-03-22 12:03:00.244 [main] StemzGPCertificatePage - Nurse And Stemz Gp Referral : {Pulmonology : =0, BMI : =0, Deformatory : =0, Phychiatry : =0, Ear : =0, BetaHcg : =0, Color Vision : =0, Bp: =0, Dermatology : =0, Vision : =0, Cardiology : =0}
+[INFO ] 2023-03-22 12:03:00.244 [main] StemzGPCertificatePage - Nurse And Stemz Gp Referral Count : 0
+[INFO ] 2023-03-22 12:03:00.244 [main] StemzGPCertificatePage - Lab Comformatory Referral : {HBSAG : =0, AntiHCV : =0, HIV : =0, RPR : =0}
+[INFO ] 2023-03-22 12:03:00.244 [main] StemzGPCertificatePage - Lab Comformatory Referral Count : 0
+[INFO ] 2023-03-22 12:03:00.245 [main] StemzGPCertificatePage -  Lab Additional Referral Details : {SGOT : =0, Glucose : =0, SGPT : =0, Creatinine : =0, Hamoglobin : =0}
+[INFO ] 2023-03-22 12:03:00.245 [main] StemzGPCertificatePage - Lab Additional Referral Count : 0
+[INFO ] 2023-03-22 12:03:00.245 [main] StemzGPCertificatePage - Nurse And Stemz Gp Referral Count : 0Lab Comformatory Referral Count :0Lab Additional Referral Count : 0
+[INFO ] 2023-03-22 12:03:00.245 [main] StemzGPCertificatePage - Referrals : {BMI : =false, Cardilogy : =false, Beta HCG=false, Deformatory : =false, Color Vision : =false, Vision : =false, BP : =false}
+[INFO ] 2023-03-22 12:25:02.659 [main] GROStepDefinition - Glosys Automation Script 2.0 Run In :  MicrosoftEdge Browser
+[INFO ] 2023-03-22 12:25:04.500 [main] GROStepDefinition - Start Time  = 1679468104500
+[INFO ] 2023-03-22 12:25:04.500 [main] GROStepDefinition - Case:5: Enter The Correct Username And Password
+[INFO ] 2023-03-22 12:25:04.601 [main] GROStepDefinition - Username: mangai
+[INFO ] 2023-03-22 12:25:04.683 [main] GROStepDefinition - Password: xOET6k1gUY
+[INFO ] 2023-03-22 12:25:07.141 [main] GROStepDefinition - Role Section: GRO
+[INFO ] 2023-03-22 12:25:08.761 [main] CommonDefinition - Country : India
+[INFO ] 2023-03-22 12:25:33.164 [main] GpModuleStepDefinition - Start Time  = 1679468133164
+[INFO ] 2023-03-22 12:25:34.215 [main] LabJuniorStepDefinition - Start Time  = 1679468134215
+[INFO ] 2023-03-22 12:25:35.232 [main] LabSeniorStepDefinition - Start Time  = 1679468135232
+[INFO ] 2023-03-22 12:25:36.246 [main] LabSupervisorStepDefinition - Start Time  = 1679468136246

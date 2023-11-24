@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="01082023/glosys2.0/glosys2.0/src/test/java"/>
+	<classpathentry kind="src" path="01082023/glosys2.0/src/test/java"/>
+	<classpathentry kind="src" path="crelio/glosys2.0/src/test/java"/>
+	<classpathentry kind="src" path="crelio/src/test/java"/>
+	<classpathentry kind="lib" path="01082023/glosys2.0/glosys2.0/target/glosys2.0-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="01082023/glosys2.0/target/glosys2.0-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="crelio/glosys2.0/target/glosys2.0-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="crelio/target/glosys2.0-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="01082023/glosys2.0/glosys2.0/target/test-classes"/>
+</classpath>

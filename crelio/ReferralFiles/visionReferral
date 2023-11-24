@@ -1,0 +1,110 @@
+	// Edit Bill
+		CommonUtility.sleepControl(3000);
+		RegistrationPOM.getInstance().clicBillHistory();
+		CommonUtility.sleepControl(2000);
+		RegistrationPOM.getInstance().clickDatePicker();
+
+		CommonUtility.sleepControl(1000);
+		RegistrationPOM.getInstance().clickSelectDateBasesOn();
+		CommonUtility.sleepControl(1500);
+		RegistrationPOM.getInstance().clickFilter();
+		//CommonUtility.sleepControl(200);
+		CommonUtility.sleepControl(600);
+	
+			LOGGER.info("ID : " + i);
+			LOGGER.info("Bill ID : " + employeeName);
+			// LOGGER.info("Employee ID : " + employeeId);
+			// LOGGER.info("Age : " + yearincome);
+			// System.err.println("Employee :" + employeeName);
+			CommonUtility.sleepControl(1800);
+			RegistrationPOM.getInstance().clearTheBillClear();
+			CommonUtility.sleepControl(300);
+			RegistrationPOM.getInstance().enterTheBill(employeeName);
+//			Scanner scanner = new Scanner(System.in);
+//			String name = scanner.nextLine();
+//			System.err.println("Enter :" + name);
+//
+//			do {
+//			//	CommonUtility.sleepControl(200);
+//			} while (name.equals("Y"));
+
+			// CommonUtility.sleepControl(500);
+//			Bill_ID = RegistrationPOM.getInstance().getTheBillID();
+//			LOGGER.info("Bill ID : " + Bill_ID);
+			CommonUtility.sleepControl(500);
+			LOGGER.info("Name : " + RegistrationPOM.getInstance().getTheName1());
+			CommonUtility.sleepControl(200);
+			OrganizationInBill = RegistrationPOM.getInstance().getTheOrganizationInBill1();
+			LOGGER.info("Organization In Bill : " + OrganizationInBill);
+
+			if (OrganizationInBill.equals("DIRECT")) {
+				CommonUtility.sleepControl(300);
+				RegistrationPOM.getInstance().clickThreeDot2();
+				CommonUtility.sleepControl(300);
+				RegistrationPOM.getInstance().clickEditBill2();
+				CommonUtility.sleepControl(1000);
+				Set<String> handles = DriverManager.getDriver().getWindowHandles();
+				List<String> list = new ArrayList<>(handles);
+				DriverManager.getDriver().switchTo().window(list.get(0));
+				DriverManager.getDriver().switchTo().window(list.get(1));
+//				CommonUtility.sleepControl(500);
+//				CommonUtility.scrollDown1000();
+				CommonUtility.sleepControl(1300);
+				WebElement element = DriverManager.getDriver().findElement(By.id("billAdvance"));
+				Actions actions = new Actions(DriverManager.getDriver());
+				actions.moveToElement(element).click().build().perform();
+				// RegistrationPOM.getInstance().clickTheBillAdvance();
+				CommonUtility.sleepControl(700);
+				RegistrationPOM.getInstance().clickTheAdd();
+				CommonUtility.sleepControl(300);
+				RegistrationPOM.getInstance().clickTheRemove();
+				CommonUtility.sleepControl(300);
+				RegistrationPOM.getInstance().clickTheSubmitForPayment();
+				CommonUtility.sleepControl(1300);
+				RegistrationPOM.getInstance().clickTheUpdate();
+				CommonUtility.sleepControl(500);
+				RegistrationPOM.getInstance().clickTheYesImSure();
+				CommonUtility.sleepControl(2300);
+				CommonDefinition.windowHandling();
+
+				
+
+				CommonUtility.sleepControl(1000);
+				RegistrationPOM.getInstance().clickThreeDot2();
+				CommonUtility.sleepControl(500);
+				RegistrationPOM.getInstance().clickEditBill2();
+
+				// Organization = RegistrationPOM.getInstance().getTheOrganization();
+				// LOGGER.info("Organization : " + Organization);
+				CommonUtility.sleepControl(1000);
+				Set<String> handles11 = DriverManager.getDriver().getWindowHandles();
+				List<String> list11 = new ArrayList<>(handles11);
+				DriverManager.getDriver().switchTo().window(list11.get(0));
+				DriverManager.getDriver().switchTo().window(list11.get(1));
+				CommonUtility.sleepControl(1300);
+				RegistrationPOM.getInstance().clearTheOrganization();
+				CommonUtility.sleepControl(500);
+				RegistrationPOM.getInstance().enterTheOrganization("NLEX Corporation");
+				LOGGER.info("Employee Name : " + employeeName);
+				CommonUtility.sleepControl(2000);
+				RegistrationPOM.getInstance().clickTheOption1();
+//				robot1.keyPress(KeyEvent.VK_DOWN);
+//				robot1.keyRelease(KeyEvent.VK_DOWN);
+//				CommonUtility.sleepControl(200);
+//				robot1.keyPress(KeyEvent.VK_ENTER);
+//				robot1.keyRelease(KeyEvent.VK_ENTER);
+
+				CommonUtility.sleepControl(1300);
+				RegistrationPOM.getInstance().clickTheUpdatePriceList();
+				CommonUtility.sleepControl(1400);
+				RegistrationPOM.getInstance().clickTheUpdateAmount();
+
+				CommonUtility.sleepControl(900);
+				RegistrationPOM.getInstance().clickTheUpdate();
+				CommonUtility.sleepControl(700);
+				RegistrationPOM.getInstance().clickTheYesImSure();
+				CommonUtility.sleepControl(1800);
+				CommonDefinition.windowHandling();
+				LOGGER.info("    ------------------ Done ---------------");
+
+			}
